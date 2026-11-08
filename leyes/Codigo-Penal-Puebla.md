@@ -4,16 +4,14 @@ estado: Puebla
 sigla: CPEP
 slug: Codigo-Penal-Puebla
 titulo: "Código Penal del Estado Libre y Soberano de Puebla"
-ultima_reforma: "2025-04-16"
-vigencia: "desactualizada"
+ultima_reforma: "2026-07-28"
+vigencia: "actualizada"
 fuente: "Orden Jurídico Poblano"
-nota: "No incluye las reformas de junio y julio de 2025 (artículo 480, ciberasedio) ni posteriores."
-articulos: 657
+articulos: 665
 ---
 
 # Código Penal del Estado Libre y Soberano de Puebla
-> Última reforma contenida en la fuente: 2025-04-16. Vigencia: desactualizada.
-> No incluye las reformas de junio y julio de 2025 (artículo 480, ciberasedio) ni posteriores.
+> Última reforma contenida en la fuente: 2026-07-28. Vigencia: actualizada.
 
 ## LIBRO PRIMERO DISPOSICIONES GENERALES
 
@@ -217,11 +215,11 @@ V. La necesidad en que se vea el infractor de salvar su propia persona o sus bie
 
 VI. Obrar en el cumplimiento de un deber legal o en el ejercicio de un derecho establecido en la ley;
 
-VII. Que al momento de realizar el hecho típico, el agente no tenga la capacidad para comprender el carácter ilícito de aquél o para conducirse de acuerdo con esa comprensión, en virtud de intervenir alguna de las condiciones siguientes: *[Nota: Fracción reformada en su totalidad el 2 de septiembre de 1998.]*
+VII. Que al momento de realizar el hecho típico, el agente no tenga la capacidad para comprender el carácter ilícito de aquél o para conducirse de acuerdo con esa comprensión, en virtud de intervenir alguna de las condiciones siguientes: *[Nota: Fracción reformada en su totalidad el 2 de septiembre de 1998,]*
 
 a) Por circunstancias particulares del ofendido, si el acusado las ignoraba sin culpa al tiempo de obrar, o
 
-b) Por padecer el agente trastorno mental o desarrollo intelectual retardado, a no ser que él mismo hubiere provocado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico, siempre y cuando lo haya previsto o le fuere previsible.
+b) Por padecer el agente discapacidad intelectual o mental, a no ser que él mismo la hubiese provocado dolosa o culposamente, en cuyo caso responderá por el resultado típico, siempre y cuando lo haya previsto o le fuere previsible. *[Nota: Se reforma el inciso b) el 16/jun/2026]*
 
 Cuando la capacidad a que se refiere este inciso anterior sólo se encuentre considerablemente disminuida, la punibilidad será hasta de las dos terceras partes del delito de que se trate.
 
@@ -273,7 +271,7 @@ La misma sanción se impondrá al que se exceda en los casos de estado de necesi
 
 **Artículo 34.** *[Nota: Artículo reformado el 01/jul/1994 y el 02/sep/1998.]* No se considerará reincidencia cuando el primer delito sea doloso y el segundo culposo y viceversa.
 
-**Artículo 35.** 31
+**Artículo 35.** 32
 
 Si el reincidente en el mismo género de infracciones, comete un nuevo delito originado por la misma inclinación viciosa, será considerado como sujeto activo o habitual.
 
@@ -349,7 +347,7 @@ El Ministerio Público o la autoridad judicial podrán determinar, conforme a es
 
 **Artículo 50 Bis.** *[Nota: Artículo adicionado el 01/jul/1994, reformado el 04/ene/2012 y reformado el 3/nov/2021.]* La reparación del daño a cargo del sentenciado, tiene carácter de pena pública independientemente de la acción civil, y se exigirá de oficio por el Ministerio Público, determinando su cuantía con base en las pruebas obtenidas en el proceso. La omisión del Ministerio Público será sancionada con cincuenta a quinientas Unidades de Medida y Actualización.
 
-**Artículo 51.** *[Nota: Artículo reformado el 01/jul/1994, el 02/sep/1998; el 04/ene/2012 y el 20/sep/2016.]* La reparación del daño a la víctima debe ser integral, y comprende las medidas de restitución, rehabilitación, compensación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la víctima teniendo en cuenta la gravedad, magnitud así como las circunstancias y características del hecho victimizante, y en consecuencia, como mínimas, a cargo del sentenciado serán:
+**Artículo 51.** *[Nota: Artículo reformado el 01/jul/1994, el 02/sep/1998; el 04/ene/2012 y el 20/sep/2016.]* La reparación del daño a la víctima debe ser integral, y comprende las medidas de restitución, rehabilitación, compensación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica. Cada una de estas medidas será implementada a favor de la víctima teniendo en cuenta la gravedad, magnitud, así como las circunstancias y características del hecho victimizante, y, en consecuencia, como mínimas, a cargo del sentenciado serán:
 
 I.- El restablecimiento de las cosas al estado en que se encontraban antes de cometerse el delito;
 
@@ -377,7 +375,7 @@ V. Las sociedades, asociaciones y otras personas colectivas, por los delitos de 
 
 VI. El Estado, subsidiariamente por sus funcionarios o empleados.
 
-**Artículo 51.** ter *[Nota: Artículo adicionado el 02/sep/1998.]*
+**Artículo 51.** ter *[Nota: Artículo adicionado el 02/sep/1998. Se reforma la fracción II el 28/abr/2026.]*
 
 Serán aplicables a la obligación de reparar el daño y los perjuicios causados por el delito, las siguientes disposiciones:
 
@@ -385,7 +383,7 @@ I. Tendrá carácter de preferente con respecto a la multa y a cualquier otra ob
 
 carácter alimentario o laboral, salvo que se demuestre que éstas fueron contraídas para evadir el cumplimiento de aquellas, y
 
-II. Si el ofendido o la persona que tuviere derecho al pago de la reparación del daño, renunciare al cobro de la misma, cuyo monto haya sido acreditado dentro del proceso y se haya determinado en sentencia, el Estado se subrogará legalmente, a través de la Procuraduría General de Justicia, en los derechos de aquella y destinará el importe devengado al Fondo que se constituya de acuerdo con la Ley para la Protección a Víctimas de Delitos.
+II. Si el ofendido o la persona que tuviere derecho al pago de la reparación del daño, renunciare al cobro de la misma, cuyo monto haya sido acreditado dentro del proceso y se haya determinado en sentencia, el Estado se subrogará legalmente, a través de la Fiscalía General del Estado de Puebla, en los derechos de aquella y destinará el importe devengado al Fondo que se constituya de acuerdo con la Ley de Víctimas del Estado de Puebla. *[Nota: Fracción reformada el 08/abr/2026.]*
 
 **Artículo 51 Quater.** *[Nota: Artículo adicionado el 04/ene/2012.]* Si se trata de delitos que afecten la vida o la integridad corporal, el manta de la reparación del daño no podrá ser menor del que resulte de aplicar las disposiciones relativas de la Ley Federal del Trabajo.
 
@@ -461,11 +459,11 @@ II.- El nombramiento del depositario, interventor o administrador, de los bienes
 
 Los frutos o rendimientos de los bienes durante el tiempo del aseguramiento, se les dará el mismo tratamiento que a los bienes asegurados que los generen.
 
-**Artículo 56.** Septies *[Nota: Artículo adicionado el 04/ene/2012.]*
+**Artículo 56.** Septies *[Nota: Artículo adicionado el 04/ene/2012. Se reforma el Segundo párrafo el 28/abr/2026]*
 
 La moneda nacional o extranjera que se asegure, embargue o decomise, será remitida a la autoridad competente, para su correspondiente depósito en la cuenta aperturada para este fin en institución bancaria debidamente autorizada.
 
-En caso de billetes o piezas metálicas que por tener marcas, señas u otras características, sea necesario conservar para fines de la averiguación previa o el proceso penal, la autoridad judicial o el Ministerio Público así lo indicará a la Dirección General Administrativa de la Procuraduría General de Justicia del Estado, para que éste los guarde y conserve en el estado en que los reciba. En estos casos, los depósitos no devengarán intereses.
+En caso de billetes o piezas metálicas que, por tener marcas, señas u otras características, sea necesario conservar para fines de la averiguación previa o el proceso penal, la autoridad judicial o el Ministerio Público así lo indicará a la Dirección General Administrativa de la Fiscalía General del Estado de Puebla, para que éste los guarde y conserve en el estado en que los reciba. En estos casos, los depósitos no devengarán intereses. *[Nota: Párrafo reformado el 28/abr/2026.]*
 
 **Artículo 56.** Octies *[Nota: Artículo adicionado el 04/ene/2012.]*
 
@@ -485,7 +483,7 @@ Los inmuebles que se aseguren podrán quedar en posesión de su propietario, pos
 
 La devolución de los bienes asegurados incluirá la entrega de los frutos que, en su caso, hubieren generado. Previo a la recepción de los bienes por parte del interesado, se dará oportunidad a éste para que revise e inspeccione las condiciones en que se encuentren los mismos
 
-### CAPÍTULO DÉCIMO TERCERO INTERNACIÓN DE ENFERMOS MENTALES Y TRATAMIENTO DE DESHABITUACIÓN O DESINTOXICACIÓN84
+### CAPÍTULO DÉCIMO TERCERO INTERNACIÓN DE ENFERMOS MENTALES Y TRATAMIENTO DE DESHABITUACIÓN O DESINTOXICACIÓN87
 
 **Artículo 57.** *[Nota: Artículo adicionado el 04/ene/2012; reformado el 01/jul/1994; Reformado el 27/nov/2014.]* Los enfermos mentales, que hayan realizado hechos o incurrido en omisiones tipificadas como delitos, podrán ser internados en casas de salud especializadas para su tratamiento.
 
@@ -623,7 +621,7 @@ III.- Padezca enfermedad grave e incurable avanzada o precario estado de salud. 
 
 **Artículo 83.** Los delitos culposos se sancionarán con prisión de tres días a cinco años y suspensión hasta de dos años del derecho de ejercer la profesión o el oficio, en cuyo ejercicio se hubiera cometido el delito.
 
-**Artículo 84.** Cuando exista reincidencia en el delito de imprudencia y tanto en uno como en el otro delito se hubiere causado homicidio de una o más personas, o lesiones de las enumeradas en el artículo 307, o en uno de ellos homicidio y en el otro lesiones de esa clase, la sanción será de uno a ocho años de prisión.
+**Artículo 84.** Cuando exista reincidencia en el delito de imprudencia y tanto en uno como en el otro delito se hubiere causado homicidio de una o más personas, o lesiones de las enumeradas en el artículo 307, o en uno de ellos homicidio y en otras lesiones de esa clase, la sanción será de uno a ocho años de prisión.
 
 **Artículo 85.** *[Nota: Artículo reformado el 23/mar/2007.]* La sanción prevista en el artículo 83 del presente Código, se incrementará de tres días a dos años de prisión y multa de cincuenta a cien Unidades de Medida y Actualización, cuando se cometa el delito al conducir vehículo de motor en estado de ebriedad o bajo el influjo de estupefacientes, enervantes, psicotrópicos o cualquier otra sustancia que produzca un efecto similar. *[Nota: Párrafo reformado el 22/nov/2013 y el 3/nov/2021.]*
 
@@ -989,13 +987,13 @@ VII. Coaccionar a las autoridades Municipales para que renuncien a sus cargos.
 
 #### SECCIÓN TERCERA REBELIÓN
 
-**Artículo 147.** El delito de rebelión se comete cuando personas no militares, se alzan en armas contra el Gobierno del Estado, con alguno de los propósitos siguientes:
+**Artículo 147.** *[Nota: Artículo reformado el 15/mar/2026.]* El delito de rebelión se comete cuando personas no militares, se alzan en armas contra el Gobierno del Estado, con alguno de los propósitos siguientes:
 
 I. Abolir, suspender o reformar la Constitución Política del Estado, y las leyes e instituciones que de ella emanan.
 
 II. Impedir la elección o la integración de alguno de los Poderes del Estado o de las Autoridades Municipales.
 
-III. Separar de su cargo, obligar a renunciar o privar de la libertad con que debe ejercer sus funciones, al Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, integrantes del Congreso Local o Procurador General de Justicia.
+III. Separar de su cargo, obligar a renunciar o privar de la libertad con que debe ejercer sus funciones, al Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, integrantes del Congreso Local o Fiscal General del Estado de Puebla. *[Nota: Se reforma la fracción III el 28/abr/2026]*
 
 IV. Substraer de la obediencia del Gobierno del Estado:
 
@@ -1237,6 +1235,20 @@ Si en la comisión delictiva interviene un concesionario o permisionario, un soc
 
 **Artículo 192.** *[Nota: Artículo reformado el 24 de abril de 1990.]* Si en el vehículo a que se refiere el artículo anterior no se hallara persona alguna, se aplicará prisión de ocho a treinta años.
 
+**Artículo 192 Bis.** *[Nota: Artículo reformado el 24 de abril de 1990. Artículo adicionado el 28/abr/2026.]* Se impondrá una pena de dos a seis años de prisión, y multa de cien a quinientas Unidades de Medida y Actualización, así como el decomiso de los objetos utilizados, a quien coloque o arroje en vías de comunicación objetos punzocortantes, estrellas metálicas, abrojos, erizos, varillas o cualquier artefacto similar elaborado con materiales de acero o de cualquier otro, con la finalidad de obstaculizar ilícitamente el tránsito vehicular o se utilice para ponchar llantas o dañar cualquier vehículo.
+
+La misma pena se aplicará a quien ilícitamente posea, fabrique, distribuya, comercialice o facilite la obtención de estos objetos con el propósito de ser utilizados para obstaculizar el tránsito vehicular o causar daño a terceros.
+
+**Artículo 192 Ter.** *[Nota: Artículo reformado el 24 de abril de 1990. Artículo adicionado el 28/abr/2026.]* Las penas señaladas en el artículo anterior se aumentarán hasta en una mitad de su mínima y máxima, cuando se cometan en alguna de las formas siguiente:
+
+I. De noche.
+
+II. Cuando sirva como medio de ejecución de otro ilícito.
+
+III. Cuando se cometa en contra de vehículos oficiales, de emergencia o destinados al transporte público.
+
+IV. Cuando se cometa en autopista o que, por las características del camino o vialidad, la víctima no pueda recibir apoyo oportuno.
+
 **Artículo 193.** *[Nota: Artículo reformado el 23 de marzo de 2007, derogándose además sus fracciones.]* Se impondrá prisión de tres días a tres años, multa de diez a cien Unidades de Medida y Actualización y suspensión hasta de tres meses o pérdida del derecho a usar la licencia de motociclista, automovilista o chofer, al que viole dos o más veces los reglamentos o disposiciones sobre tránsito y circulación de vehículos, en lo que se refiere a exceso de velocidad. *[Nota: Párrafo reformado el 3/nov/2021.]*
 
 I. Se deroga. *[Nota: Fracción derogada el 23 de marzo de 2007.]*
@@ -1275,7 +1287,9 @@ V.- Realice obras o actividades sin obtener de la autoridad correspondiente la a
 
 V Bis.- Corte, pode o tale, uno o más árboles, para llevar a cabo la construcción, instalación y/o colocación de estructuras que sustenten anuncios o publicidad; *[Nota: Fracción adicionada el 16/jun/2022.]*
 
-V Ter.- Realice, encomiende, encargue o solicite, la construcción, instalación y/o colocación de estructuras que sustenten anuncios o publicidad, en áreas verdes urbanas, de jurisdicción estatal o municipal; *[Nota: Fracción adicionada el 16/jun/2022.]* V Quater.- Realice, encomiende, encargue o solicite la construcción, instalación y/o colocación de estructuras que sustenten anuncios o publicidad, sin contar con la licencia, permiso o autorización expedida por la autoridad competente; *[Nota: Fracción adicionada el 16/jun/2022.]*
+V Ter.- Realice, encomiende, encargue o solicite, la construcción, instalación y/o colocación de estructuras que sustenten anuncios o publicidad, en áreas verdes urbanas, de jurisdicción estatal o municipal; *[Nota: Fracción adicionada el 16/jun/2022.]*
+
+V Quater.- Realice, encomiende, encargue o solicite la construcción, instalación y/o colocación de estructuras que sustenten anuncios o publicidad, sin contar con la licencia, permiso o autorización expedida por la autoridad competente; *[Nota: Fracción adicionada el 16/jun/2022.]*
 
 V Quinquies.- Pinte anuncios o publicidad en los bienes inmuebles propiedad o al cuidado del Estado o del Municipio, en áreas de tránsito peatonal, en corredores urbanos, sin contar con el permiso o autorización de la autoridad correspondiente. *[Nota: Fracción adicionada el 16/jun/2022.]*
 
@@ -1353,7 +1367,9 @@ IV.- Las redes de agua potable, drenaje o sistemas de alcantarillado de jurisdic
 
 I. Transfiera o prometa transferir la posesión, la propiedad o cualquier otro derecho sobre uno o más lotes resultantes de fraccionar un predio, sin contar con la legitimación correspondiente o sin la autorización expedida por las autoridades competentes;
 
-II. Proporcione informaciones falsas, para obtener autorizaciones relativas a fraccionamientos; y III. Proporcione datos falsos a los organismos gubernamentales a cuyo cargo estén los programas para la urbanización y tenencia de la tierra urbana, con el propósito de adquirir bienes inmuebles, afirmando falsamente que se destinarán a la constitución o integración del patrimonio familiar; pero destinándolos a fines distintos.
+II. Proporcione informaciones falsas, para obtener autorizaciones relativas a fraccionamientos; y
+
+III. Proporcione datos falsos a los organismos gubernamentales a cuyo cargo estén los programas para la urbanización y tenencia de la tierra urbana, con el propósito de adquirir bienes inmuebles, afirmando falsamente que se destinarán a la constitución o integración del patrimonio familiar; pero destinándolos a fines distintos.
 
 Las anteriores sanciones se impondrán independientemente de las penas que resulten por la comisión del delito de falsificación o uso de documento falso, en su caso.
 
@@ -1457,7 +1473,9 @@ Lo dispuesto en la fracción segunda del artículo anterior, no será aplicable 
 
 #### SECCIÓN SEXTA _ ENCUBRIMIENTO POR RECEPTACIÓN *[Nota: Sección adicionada el 04/ene/2012]*
 
-**Artículo 212 Bis.** *[Nota: Artículo adicionado el 04/ene/2012.]* Se impondrá prisión de dos a siete años y multa de cien a doscientas Unidades de Medida y Actualización a quien, después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia si el valor de cambio no excede de quinientas veces la Unidad de Medida y Actualización. *[Nota: Párrafo reformado el 3/nov/2021.]* Si el valor de estos es superior a quinientas veces la Unidad de Medida y Actualización, se impondrá de cuatro a ocho años de prisión y de doscientos a mil quinientos días de mult. *[Nota: Párrafo reformado el 3/nov/2021.]*
+**Artículo 212 Bis.** *[Nota: Artículo adicionado el 04/ene/2012.]* Se impondrá prisión de dos a siete años y multa de cien a doscientas Unidades de Medida y Actualización a quien, después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia si el valor de cambio no excede de quinientas veces la Unidad de Medida y Actualización. *[Nota: Párrafo reformado el 3/nov/2021.]*
+
+Si el valor de estos es superior a quinientas veces la Unidad de Medida y Actualización, se impondrá de cuatro a ocho años de prisión y de doscientos a mil quinientos días de mult. *[Nota: Párrafo reformado el 3/nov/2021.]*
 
 Cuando el o los instrumentos, objetos, o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
 
@@ -1477,7 +1495,7 @@ II. Cuando se trate de cónyuges o de concubinos, sólo podrá procederse por qu
 
 III. La pena se impondrá, sin perjuicio de las sanciones que correspondan si se causa el contagio o algún otro daño o lesión, o de los que resultaren por la transmisión de una enfermedad. *[Nota: Fracción reformada el 02/sep/1998.]*
 
-### CAPÍTULO SÉPTIMO DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD Y LA IDENTIDAD DE GÉNERO 319
+### CAPÍTULO SÉPTIMO DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD Y LA IDENTIDAD DE GÉNERO 326
 
 #### SECCIÓN PRIMERA ULTRAJES A LA MORAL PÚBLICA
 
@@ -1487,13 +1505,13 @@ III. La pena se impondrá, sin perjuicio de las sanciones que correspondan si se
 
 #### SECCIÓN SEGUNDA *[Nota: Sección reformada en su denominación el 01/jul/1994 y el 23/mar/2007.]* CORRUPCIÓN Y PORNOGRAFÍA DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTIR
 
-**Artículo 217.** *[Nota: Artículo reformado el 01/jul/1994, el 30/abr/2004 y el 23/mar/2007.]* Comete el delito de corrupción de menores e incapaces o de personas que no puedan resistir, quien con relación a un menor de dieciocho años de edad o de quien no tuviere la capacidad de comprender el significado de los hechos o de quien por la razón que fuere no pueda oponer resistencia, obligue, procure, facilite, induzca, fomente, proporcione o favorezca las conductas siguientes: *[Nota: Párrafo reformado el 03/dic/2010.]*
+**Artículo 217.** *[Nota: Artículo reformado el 01/jul/1994, el 30/abr/2004, el 23/mar/2007 y el 16/jun/2026]* Comete el delito de corrupción de menores e incapaces o de personas que no puedan resistir, quien con relación a una persona menor de dieciocho años de edad o de quien no tuviere la capacidad de comprender el significado de los hechos o de quien por la razón que fuere no pueda oponer resistencia, obligue, procure, facilite, induzca, fomente, proporcione o favorezca las conductas siguientes: *[Nota: Párrafo reformado el 03/dic/2010 y el 16/jun/2026.]*
 
 I. A realizar actos sexuales o de exhibicionismo corporal con fines lascivos o sexuales, reales o simulados; al responsable de este delito se le impondrán de siete a doce años de prisión y multa de ochocientas a dos mil quinientas Unidades de Medida y Actualización; *[Nota: Fracción reformada el 30/dic/2013 y el 3/nov/2021.]*
 
-II. Al consumo habitual de bebidas alcohólicas o al consumo de enervantes, estupefacientes, psicotrópicos, sustancias tóxicas, sean médicas, vegetales o de otra naturaleza, determinadas en la Ley General de Salud, cuyo uso esté prohibido, controlado o que de acuerdo con la medicina genere alteración en el comportamiento normal; o el tráfico o comercio de dichas sustancias. Quien cometa este delito será sancionado de cinco a diez años de prisión y multa de quinientas a mil Unidades de Medida y Actualización; *[Nota: Fracción reformada el 3/nov/2021.]*
+II. Al consumo habitual de bebidas alcohólicas, tabaco, cigarros electrónicos, vapeadores o al consumo de enervantes, estupefacientes, psicotrópicos, precursores químicos, drogas sintéticas, sustancias tóxicas, sean médicas, vegetales o de otra naturaleza, determinadas en la Ley General de Salud, cuyo uso esté prohibido, controlado o que de acuerdo con la medicina genere alteración en el comportamiento normal; o el tráfico o comercio de dichas sustancias. Quien cometa este delito será sancionado de cinco a diez años de prisión y multa de quinientas a mil Unidades de Medida y Actualización; *[Nota: Fracción reformada el 3/nov/2021 y el 16/jun/2026]*
 
-III. Al que permita el acceso de un menor a espectáculos, obras gráficas o audiovisual de carácter lascivo o sexual, se le impondrá prisión de tres a cinco años y multa de doscientas a mil doscientas Unidades de Medida y Actualización; o *[Nota: Fracción reformada el 03/dic/2010 y el 3/nov/2021.]*
+III. Al que permita el acceso de un menor a espectáculos, exhibiciones, obras gráficas o audiovisual de carácter lascivo o sexual, se le impondrá prisión de tres a cinco años y multa de doscientas a mil doscientas Unidades de Medida y Actualización; o *[Nota: Fracción reformada el 03/dic/2010, el 3/nov/2021 y el 16/jun/2026]*
 
 IV. A formar parte de una pandilla, de una asociación delictuosa o de delincuencia organizada, o a cometer cualquier delito; el responsable de este delito será sancionado con prisión de siete a doce años y multa de ochocientas a dos mil quinientas Unidades de Medida y Actualización. *[Nota: Fracción reformada el 3/nov/2021.]*
 
@@ -1521,7 +1539,15 @@ IV.-Se deroga. *[Nota: Fracción derogada el 31/dic/2012.]*
 
 **Artículo 223.** *[Nota: Artículo derogado el 23/mar/2007 y reformado el 03/dic/2010.]* No constituye pornografía los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto contenido sexual, sobre la función reproductiva, de infecciones de transmisión sexual y embarazo de adolescentes.
 
-**Artículo 224.** *[Nota: Artículo reformado el 02/sep/1998 y el 13/dic/2004; derogado el 23/mar/2007 y reformado el 03/dic/2010; y derogado el 31 de diciembre de 2012.]* Se deroga.
+### CAPÍTULO SÉPTIMO *[Nota: Denominación reformada 16/jun/2026.]* DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD Y LA IDENTIDAD DE GÉNERO
+
+#### SECCIÓN SEGUNDA CORRUPCIÓN Y PORNOGRAFÍA DE MENORES E INCAPACES O PERSONAS QUE NO PUDIEREN RESISTOR Y COHABITACIÓN FORZADA *[Nota: Denominación reformada 16/jun/2026.]*
+
+**Artículo 224.** *[Nota: Artículo reformado el 02/sep/1998 y el 13/dic/2004; derogado el 23/mar/2007 y reformado el 03/dic/2010; y derogado el 31 de diciembre de 2012, reformado el 16/jun/2026.]* Comete el delito de cohabitación forzada de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, quien obligue, coaccione, induzca, solicite, gestione u oferte a una o varias de estas personas a unirse informal o consuetudinariamente, con o sin su consentimiento, con alguien de su misma condición o con persona mayor de dieciocho años de edad, con el fin de convivir en forma constante y equiparable a la de un matrimonio.
+
+Al responsable de este delito se le impondrá pena de ocho a quince años de prisión y multa de mil a dos mil quinientos días del valor de la Unidad de Medida y Actualización.
+
+La pena prevista en el párrafo anterior se aumentará hasta en una mitad, en su mínimo y en su máximo, si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana, o si entre las personas sujeta activa y pasiva existiera relación de parentesco, tutela, guarda, custodia, autoridad, confianza o cualquier otra que implique subordinación o dependencia.
 
 **Artículo 224 Bis.** *[Nota: Artículo adicionado el 16/ago/1999 y reformado el 30/abr/2004; y derogado el 23/mar/2007.]* Se deroga.
 
@@ -1723,11 +1749,13 @@ IX.- Dolosamente omita verificar la existencia y veracidad de los mandatos y pod
 
 **Artículo 245.** Se impondrá prisión de uno a ocho años y multa de diez a cien Unidades de Medida y Actualización: *[Nota: Párrafo reformado el 3/nov/2021.]*
 
-I. Al que falsifique o de algún modo intervenga en la falsificación de acciones, obligaciones u otros títulos o documentos de crédito legalmente emitidos al portador o a favor de persona determinada, por el Ejecutivo del Estado, ayuntamientos, recaudaciones de rentas o por cualquiera Institución dependiente del Gobierno del Estado o municipios, o controlada por éstos; y II. Al que introduzca al Estado o ponga en circulación los documentos mencionados en la fracción anterior, a sabiendas de su falsedad.
+I. Al que falsifique o de algún modo intervenga en la falsificación de acciones, obligaciones u otros títulos o documentos de crédito legalmente emitidos al portador o a favor de persona determinada, por el Ejecutivo del Estado, ayuntamientos, recaudaciones de rentas o por cualquiera Institución dependiente del Gobierno del Estado o municipios, o controlada por éstos; y
+
+II. Al que introduzca al Estado o ponga en circulación los documentos mencionados en la fracción anterior, a sabiendas de su falsedad.
 
 **Artículo 245 Bis.** *[Nota: Artículo adicionado el 06/nov/2000.]* Se impondrá prisión de tres a nueve años y multa de ciento cincuenta a cuatrocientas Unidades de Medida y Actualización: *[Nota: Párrafo reformado el 3/nov/2021.]*
 
-I. Al que produzca, imprima, enajene aún gratuitamente, distribuya o altere tarjetas, títulos, vales, documentos o instrumentos utilizados para el pago de bienes y servicios o para disposición de efectivo, sin consentimiento de quien esté facultado para ello; *[Nota: Fracción reformada el 04/ene/2012.]*
+I. Al que produzca, imprima, enajene aun gratuitamente, distribuya o altere tarjetas, títulos, vales, documentos o instrumentos utilizados para el pago de bienes y servicios o para disposición de efectivo, sin consentimiento de quien esté facultado para ello; *[Nota: Fracción reformada el 04/ene/2012.]*
 
 II. Al que adquiera, utilice o posea, tarjetas, títulos, documentos o instrumentos para el pago de bienes y servicios o para disposición de efectivo, a sabiendas de que son alterados o falsificados;
 
@@ -1843,9 +1871,9 @@ II.- La falsificación sirva como medio para el comercio de vehículos robados o
 
 I. Quien al declarar ante cualquier autoridad en ejercicio de sus funciones o con motivo de ellas, faltare a la verdad en relación con los hechos que motivan la intervención de ésta;
 
-II. Quien siendo autoridad, rinda informes en los que afirme una falsedad o niegue u oculte la verdad, en todo o en parte; y
+II. Quien, siendo autoridad, rinda informes en los que afirme una falsedad o niegue u oculte la verdad, en todo o en parte; y
 
-III. Quien siendo directivo o representante legal de casas de empeño, omita rendir el reporte mensual de los actos o hechos que estén relacionados con las operaciones que realizan, al que están obligados en términos de la Ley Federal de Protección al Consumidor, o que al rendirlo afirme hechos falsos u oculte la verdad, en todo o en parte.
+III. Quien, siendo directivo o representante legal de casas de empeño, omita rendir el reporte mensual de los actos o hechos que estén relacionados con las operaciones que realizan, al que están obligados en términos de la Ley Federal de Protección al Consumidor, o que al rendirlo afirme hechos falsos u oculte la verdad, en todo o en parte.
 
 **Artículo 255.** *[Nota: Artículo derogado el 23/feb/2011 y reformado el 31/dic/2012.]* La sanción del delito de falsedad en declaraciones e informes dados a una autoridad se agravará hasta en dos tantos:
 
@@ -1853,7 +1881,7 @@ I.- Al testigo, denunciante o querellante que fuere examinado en una investigaci
 
 II.- Al que con el propósito de inculpar o exculpar a alguien indebidamente en una investigación o procedimiento penal, ante el Ministerio Público o ante la Autoridad Judicial, declare falsamente en calidad de testigo o como denunciante o querellante;
 
-III.- Al que examinado como perito por la Autoridad Judicial o Administrativa, dolosamente falte a la verdad en su dictamen;
+III.- Al que, examinado como perito por la Autoridad Judicial o Administrativa, dolosamente falte a la verdad en su dictamen;
 
 IV.- Al que aporte testigos falsos conociendo esta circunstancia, o logre que un testigo, perito, intérprete o traductor falle a la verdad o la oculte al ser examinado por la autoridad pública en el ejercicio de sus funciones.
 
@@ -1873,9 +1901,9 @@ I. Al que oculte su nombre o apellido y tome otro imaginario o el de otra person
 
 II. Al que, para eludir la práctica de una diligencia decretada por una autoridad judicial o de los Tribunales del Trabajo, o una notificación de cualquiera clase o citación de una autoridad, oculte su domicilio, o designe otro que no sea el suyo, o niegue de cualquier modo el verdadero; y
 
-III. Al funcionario o empleado público, que en los actos propios de su cargo, atribuyere a una persona título o nombre, a sabiendas de que no le pertenecen.
+III. Al funcionario o empleado público, que, en los actos propios de su cargo, atribuyere a una persona título o nombre, a sabiendas de que no le pertenecen.
 
-#### SECCIÓN SEXTA USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES
+#### SECCIÓN SEXTA USURPACIÓN DE IDENTIDAD, DE FUNCIONES PÚBLICAS O DE PROFESIÓN Y USO INDEBIDO DE UNIFORMES O CONDECORACIONES *[Nota: Denominación reformada el 13/jun/2025.]*
 
 **Artículo 258.** Se impondrá de dos meses a dos años de prisión y multa de diez a cien Unidades de Medida y Actualización: *[Nota: Párrafo reformado el 3/nov/2021.]*
 
@@ -1895,6 +1923,12 @@ Para los efectos del presente ordenamiento, se considerará como Servidor Públi
 
 **Artículo 258 Bis.** *[Nota: Artículo adicionado el 29/dic/2022.]* Se impondrá de uno a cuatro años de prisión y multa de cincuenta a doscientas Unidades de Medida y Actualización, al responsable o encargado del establecimiento en que se preste servicios de atención a la salud mental o adicciones, sin contar con el aviso de funcionamiento respectivo, así como con el registro como institución especializada ante la Comisión Nacional contra las Adicciones.
 
+**Artículo 258 Ter.** *[Nota: Artículo adicionado el 13/jun/2025.]* Comete el delito de usurpación de identidad quien obtenga, transfiera, posea datos personales de otra persona de manera indebida o se atribuya la identidad de está u otorgue su consentimiento para realizar la conducta con el fin de obtener un lucro o cualquier beneficio, o producir un daño patrimonial o moral.
+
+A la persona responsable de la comisión de la conducta se le impondrá una sanción de seis a ocho años de prisión y multa de mil a dos mil Unidades de Medida y Actualización.
+
+La sanción señalada en el párrafo anterior se aumentará en una mitad a la persona que se valga de la homonimia, parecido físico o utilice tecnologías de la información y la comunicación, redes sociales, correo electrónico o cualquier espacio digital.
+
 #### SECCIÓN SÉPTIMA DISPOSICIÓN COMÚN A LAS SECCIONES PRECEDENTES
 
 **Artículo 259.** Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en las Secciones Primera, Segunda y Tercera de este Capítulo, se acumularán las falsificaciones y el delito que por medio de ellas hubiere cometido el infractor.
@@ -1903,27 +1937,47 @@ Para los efectos del presente ordenamiento, se considerará como Servidor Públi
 
 #### SECCIÓN PRIMERA ABUSO SEXUAL *[Nota: Denominación reformada el 30/dic/2016.]*
 
-**Artículo 260.** *[Nota: Artículo reformado el 2/sep/1998; 30/dic/2013 y 30/dic/2016.]* Comete el delito de abuso sexual quien, sin el propósito de llegar a la cópula:
+**Artículo 260.** *[Nota: Artículo reformado el 2/sep/1998; 30/dic/2013, 30/dic/2016, 15/mar/2026 y se adicionan tres párrafos 15/mar/2026]* Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo. *[Nota: Se reforma el primer párrafo el 28/abr/2026]*
 
-I. Ejecutare en una persona mayor de catorce años de edad o le hiciere ejecutar un acto erótico sexual, sin su consentimiento, mediante consentimiento viciado o la obligue a observarlo, y *[Nota: Fracción adicionada el 30/dic/2016 y reformada el 8/nov/2021.]*
+También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo. Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explícitas. Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima. *[Nota: Se adiciona párrafo 28/abr/2026]*
 
-II. Ejecutare en una persona o le hiciere ejecutar un acto erótico sexual, o la haga observarlo aun con consentimiento viciado, tratándose de menor de catorce años de edad o en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia. *[Nota: Fracción adicionada el 30/dic/2016 y reformada el 8/nov/2021.]*
+A quien cometa este delito se le impondrá una sanción de seis a diez años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización. Asimismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional. *[Nota: Se adiciona párrafo 28/abr/2026]* El delito de abuso sexual se considerará siempre como delito consumado y se perseguirá de oficio. *[Nota: Se adiciona párrafo 28/abr/2026]*
 
-**Artículo 261.** *[Nota: Artículo reformado el 24/abr/1990 y el 30/dic/2016.]* Al responsable de un delito de abuso sexual se le impondrán:
+**Artículo 261.** *[Nota: Artículo reformado el 24/abr/1990, el 30/dic/2016, el 15/mar/2026, el 28/abr/2026.]* Las penas previstas en los artículos 260 y 262 de este Código se aumentarán en una tercera parte cuando el delito se cometa en cualquiera de las siguientes circunstancias:
 
-I. Prisión de seis a diez años y multa de doscientas Unidades de Medida y Actualización, si el sujeto pasivo es mayor de catorce años y el delito se cometió sin su consentimiento o con su consentimiento viciado. *[Nota: Fracción reformada el 2/sep/1998, el 30/dic/2016 y el 8/nov/2021.]*
+I. Con violencia física, psicológica o moral;
 
-II. Si el sujeto pasivo del delito fuere persona menor de catorce años o se encontrare en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia, estuviere privada de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia, o por sumisión de la víctima respecto del victimario por haberle suministrado alcohol, fármacos, narcóticos, sustancia toxica o cualquier otra sustancia y no pudiera oponer resistencia, se presumirá la violencia y la sanción será de seis a trece años de prisión y multa de quinientas Unidades de Medida y Actualización, se haya ejecutado el delito sin su consentimiento o con consentimiento viciado, debiéndose aumentar hasta en otro tanto igual las sanciones, si el delito fuere cometido con intervención de dos o más personas, y *[Nota: Fracción reformada el 2/sep/1998, el 30/dic/2016, el 8/nov/2021 y el 8/feb/2023.]*
+II. Por dos o más personas;
 
-III. Cuando el sujeto pasivo sea mayor de catorce años y el delito se ejecute con violencia física o moral, se impondrán al responsable de seis a trece años de prisión y multa quinientas Unidades de Medida y Actualización, sanciones que se aumentarán hasta en otro tanto igual, si el delito fuere cometido con intervención de dos o más personas. *[Nota: Fracción reformada el 2/sep/1998; el 30/dic/2016 y el 8/nov/2021.]*
+III. En un lugar despoblado, solitario o poco accesible;
 
-**Artículo 262.** *[Nota: Artículo derogado el 1/jul/1994.]* Derogado.
+IV. Cuando exista o haya existido entre la persona agresora y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa; *[Nota: Fracción adicionada el 28/abr/2026.]*
 
-**Artículo 263.** *[Nota: Artículo reformado el 24/abr/1990, el 1/jul/1994; 2/sep/1998 y el 30/dic/2016.]* El delito de abuso sexual se considerará siempre como delito consumado y se perseguirá a petición de parte, salvo que el sujeto pasivo sea menor de edad o estuviere en alguno de los supuestos previstos en la fracción II del artículo 261, en cuyo caso se perseguirá de oficio.
+V. Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica; *[Nota: Fracción adicionada el 28/abr/2026.]*
+
+VI. Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan; *[Nota: Fracción adicionada el 28/abr/2026.]*
+
+VII. Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles; *[Nota: Fracción adicionada el 28/abr/2026.]*
+
+VIII. Cuando se realice por ministra o ministro de culto aprovechando su cargo, función o comisión; *[Nota: Fracción adicionada el 28/abr/2026.]*
+
+IX. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento; *[Nota: Fracción adicionada el 28/abr/2026.]*
+
+X. Cuando la víctima se encuentre en estado de embarazo o puerperio; *[Nota: Fracción adicionada el 28/abr/2026.]*
+
+XI. Cuando se cometa contra personas por su orientación sexual, identidad de género, expresión de género, у
+
+XII. Cuando la víctima se encuentre en estado de indefensión. *[Nota: Fracción adicionada el 28/abr/2026.]*
+
+Adicional a las sanciones anteriormente señaladas, se impondrá al sujeto activo cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley General de Víctimas y en la Ley de Victimas del Estado de Puebla, la atención psicológica especializada para la víctima, hasta su total recuperación. *[Nota: Párrafo adicionado el 28/abr/2026.]*
+
+**Artículo 262.** *[Nota: Artículo derogado el 1/jul/1994 y reformado el 28/abr/2026.]* A quien cometa el delito de abuso sexual en una niña, niño, adolescente o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y hasta quinientos días multa.
+
+**Artículo 263.** *[Nota: Artículo reformado el 24/abr/1990, el 1/jul/1994; 2/sep/1998, el 30/dic/2016 y derogado el 28/abr/20226.]* Se deroga.
 
 #### SECCIÓN SEGUNDA ESTUPRO
 
-**Artículo 264.** *[Nota: Este artículo fue reformado el 1/jul/1999, el 24/mar/2000, el 23/mar/2007; y el 30/dic/2016.]* Al que tenga cópula con persona mayor de catorce años de edad pero menor de dieciocho, empleando la seducción o el engaño para alcanzar su consentimiento, se sancionará con prisión de dos a ocho años y multa de cien a trescientos cincuenta Unidades de Medida y Actualización.
+**Artículo 264.** *[Nota: Este artículo fue reformado el 1/jul/1999, el 24/mar/2000, el 23/mar/2007; y el 30/dic/2016.]* Al que tenga cópula con persona mayor de catorce años de edad, pero menor de dieciocho, empleando la seducción o el engaño para alcanzar su consentimiento, se sancionará con prisión de dos a ocho años y multa de cien a trescientos cincuenta Unidades de Medida y Actualización.
 
 **Artículo 265.** *[Nota: Artículo reformado el 24/mar/2000; el 23/mar/2007; y el 30/dic/2016.]* El estupro se sancionará:
 
@@ -1935,7 +1989,7 @@ III.- Si además de ser mayor de tres años en referencia a la víctima, es su p
 
 En las fracciones II y III se presumirá la seducción o el engaño
 
-**Artículo 266.** *[Nota: Artículo reformado el 24/mar/2000 y derogado el 30/dic/2016.]* Se deroga.
+**Artículo 266.** *[Nota: Artículo reformado el 28/jul/2026]* Cuando como consecuencia del delito de estupro la víctima quede embarazada, la sanción correspondiente se aumentará hasta en dos terceras partes, indistintamente de la duración o resultado de la gestación.
 
 #### SECCIÓN TERCERA VIOLACIÓN
 
@@ -1972,6 +2026,8 @@ Para los efectos de las fracciones IV y V anteriores, se entiende por "hijastro"
 **Artículo 270.** Al culpable de violación que se encuentre en ejercicio de la patria potestad o de la tutela del ofendido, se le condenará, según se trate, a la pérdida de aquélla o a la remoción del cargo y en ambos casos a la pérdida del derecho a heredarle.
 
 **Artículo 271.** Cuando el delito de violación sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión, utilizando los medios o circunstancias que ellos le proporcionen, además de la sanción que le corresponda por aquel delito, será destituido definitivamente del cargo o empleo o suspendido por cinco años en el ejercicio de dicha profesión.
+
+**Artículo 271 Bis.** *[Nota: Artículo adicionado el 28/jul/2026]* Cuando como consecuencia del delito de violación la víctima quede embarazada, la sanción correspondiente se aumentará hasta en dos terceras partes, indistintamente de la duración o resultado de la gestación.
 
 **Artículo 272.** *[Nota: Artículo reformado el 24/abr/1990, posteriormente el 1/jul/1994.]* Se equipara a la violación:
 
@@ -2041,11 +2097,47 @@ Cualquier persona que tenga conocimiento de la comisión de alguno de los delito
 
 **Artículo 278.** Nonies
 
-Comete el delito de ciberacoso quien hostigue o amenace por medio de las nuevas Tecnologías de la Información y Telecomunicaciones (TICS), redes sociales, correo electrónico o cualquier espacio digital y cause un daño en la dignidad personal, o afecte la paz, la tranquilidad o la seguridad de las personas.
+Comete el delito de ciberacoso quien hostigue o amenace por medio de
 
-Se le impondrá la pena de once meses a tres años de prisión y multa de cincuenta a trescientos días del valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito.
+las nuevas Tecnologías de la Información y Telecomunicaciones
 
-Cuando la víctima sea menor de edad, se presumirá el daño a la dignidad por tratarse de una persona en desarrollo psicoemocional y físico y la sanción se aumentará desde una tercera parte de la mínima y hasta dos terceras partes de la máxima.
+(TICS), redes sociales, correo electrónico o cualquier espacio digital y
+
+cause un daño en la dignidad personal, o afecte la paz, la tranquilidad
+
+o la seguridad de las personas.
+
+Se le impondrá la pena de once meses a tres años de prisión y multa
+
+de cincuenta a trescientos días del valor diario de la Unidad de
+
+Medida y Actualización en el momento de la comisión del delito.
+
+Cuando la víctima sea menor de edad, se presumirá el daño a la
+
+dignidad por tratarse de una persona en desarrollo psicoemocional y
+
+físico y la sanción se aumentará desde una tercera parte de la mínima
+
+y hasta dos terceras partes de la máxima.
+
+**Artículo 278.** Decies *[Nota: Artículo adicionado el 13/jun/2025.]*
+
+A la persona que utilice tecnologías de la información y la
+
+comunicación, redes sociales, correo electrónico o cualquier espacio
+
+digital, para contactar a niñas, niños, adolescentes y personas
+
+incapaces con el propósito de crear un vínculo de confianza, para
+
+controlarlos emocionalmente o chantajearlos con fines sexuales, se le
+
+impondrá pena de quince meses a cinco años de prisión y multa de
+
+setenta a quinientos días del valor diario de la Unidad de Medida y
+
+Actualización vigente al momento de la comisión del delito.
 
 ### CAPÍTULO DUODÉCIMO DELITOS CONTRA LA FAMILIA
 
@@ -2095,7 +2187,7 @@ II. Que no tenga la guarda y custodia provisional o definitiva o la tutela sobre
 
 III. Que no permita las convivencias decretadas por resolución judicial o estipuladas en convenio, y
 
-IV. Que teniendo la guarda y custodia compartida, no devuelva al menor en los términos de la resolución que se haya dictado para ello o del convenio signado entre las partes que legalmente pueden acordar respecto de la guarda y convivencia.
+IV. Que, teniendo la guarda y custodia compartida, no devuelva al menor en los términos de la resolución que se haya dictado para ello o del convenio signado entre las partes que legalmente pueden acordar respecto de la guarda y convivencia.
 
 **Artículo 283 Ter.** *[Nota: Artículo adicionado el 13/dic/2004.]* A los responsables del delito previsto en los artículos 283 y 283 Bis de este Código, se les aplicarán de dos a cinco años de prisión y multa de cien a mil días de salario; pero si antes de dictarse sentencia, los acusados entregaren al menor o menores de que se trataren, a quien legalmente correspondieren la custodia o guarda de los mismos, la prisión será hasta de un año y multa de cien a quinientas Unidades de Medida y Actualización. *[Nota: Párrafo reformado el 3/nov/2021.]*
 
@@ -2143,15 +2235,13 @@ En los casos previstos en los artículos 284 Bis y 284 Ter, el restablecimiento 
 
 I. El conocimiento y la aceptación del sujeto activo de la posibilidad de la extinción de la acción penal previa la garantía o reparación del daño de forma integral a la víctima;
 
-II. Se establezcan las condiciones para asegurar la integridad de la persona agraviada, y
-
-III. La reeducación de la persona agresora con perspectiva de género en institución pública debidamente acreditada.
+II. Se establezcan las condiciones para asegurar la integridad de la persona agraviada, y III. La reeducación de la persona agresora con perspectiva de género en institución pública debidamente acreditada.
 
 La fracción III de este artículo implica que el sujeto activo asista a los programas de reeducación que impartan los Centros de Reeducación para personas agresoras, conforme sus modelos de atención, previamente acreditados.
 
 Una vez cumplidas las condiciones convenidas ante el Ministerio Público, incluida la reeducación del sujeto activo en la forma en que establece este artículo, procederán los efectos del restablecimiento indemnatos.
 
-Lo anterior no se aplicará a víctimas con dictamen psicológico que revelen sometimiento psicológico respecto de su agresor, niñas, niños y adolescentes, mujeres embarazadas, personas con discapacidad ni mayores de sesenta años.
+Lo anterior no se aplicará a víctimas con dictamen psicológico que revele sometimiento psicológico respecto de su agresor, niñas, niños y adolescentes, mujeres embarazadas, personas con discapacidad, ni personas adultas mayores. *[Nota: Párrafo reformado el 16/jun/2026.]*
 
 ### CAPÍTULO DÉCIMO TERCERO INFRACCIONES A LAS LEYES Y REGLAMENTOS SOBRE INHUMACIONES Y EXHUMACIONES
 
@@ -2193,13 +2283,11 @@ Dicha penalidad se aumentará hasta en una mitad, si la edad de la o el agraviad
 
 I. Si lo que exigió y recibió fue dinero, o algún documento o cosa estimable en dinero, se le aplicará la sanción del robo con violencia, independientemente de la restitución de lo que hubiere recibido;
 
-II. Si exigió que el amenazado cometiera un delito, se acumulará a la sanción de la amenaza la que le corresponda por su participación en el delito que resulte; y III. Si lo que exigió fue que el amenazado dejara de ejecutar un acto lícito, se le impondrá el doble de la sanción correspondiente a la amenaza.
+II. Si exigió que el amenazado cometiera un delito, se acumulará a la sanción de la amenaza la que le corresponda por su participación en el delito que resulte; y
 
-**Artículo 292 Bis.** *[Nota: Articulo adicionado el 27/nov/2014]* Comete el delito de extorsión el que con ánimo de conseguir un lucro o provecho, amenazare a otro por cualquier medio con la finalidad de causar daños morales, físicos o patrimoniales, que afecten al amenazado o a persona física o jurídica con quien éste tuviere relaciones de cualquier orden que lo determinen a protegerlos.
+III. Si lo que exigió fue que el amenazado dejará de ejecutar un acto lícito, se le impondrá el doble de la sanción correspondiente a la amenaza.
 
-Al culpable de este delito se le impondrán de dos a diez años de prisión y multa de cien a mil Unidades de Medida y Actualización. *[Nota: Párrafo reformado el 3/nov/2021]*
-
-Si el o los responsables del delito son o fueron servidores públicos o miembros de una institución de seguridad privada que en razón de su función utilizasen los medios o circunstancias que ésta le proporciona para la comisión del delito, se aumentará en dos tercios la pena que corresponda. Se impondrá además en el primer caso, la destitución del empleo, cargo o comisión público; en el segundo supuesto se estará a lo previsto en las leyes aplicables
+**Artículo 292 Bis.** *[Nota: Articulo adicionado el 27/nov/2014 y reformado el 15/dic/2025.]* El delito en materia de extorsión, así como las penas y medidas sancionatorias aplicables, se entenderán al tipo penal en la materia previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 #### SECCIÓN SEGUNDA ALLANAMIENTO DE MORADA
 
@@ -2257,7 +2345,7 @@ Se deroga. *[Nota: Párrafo adicionado el 14/mar/2003 y derogado el 31/dic/2008.
 
 a) Que el autor sea o haya sido integrante de alguna institución de seguridad pública, o se ostente como tal sin serlo;
 
-b) Que la víctima sea menor de dieciocho años de edad, mayor de sesenta años de edad, mujer o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto de quién ejecuta la privación de la libertad.
+b) Que la víctima sea persona menor de dieciocho años de edad, persona adulta mayor, mujer o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto de quién ejecuta la privación de la libertad. *[Nota: Inciso reformado el 16/jun/2026.]*
 
 c) Que a la víctima del secuestro se le cause alguna lesión de las previstas en los artículos 307 y 308 fracciones III. IV y V de este Código; o
 
@@ -2335,9 +2423,7 @@ III.- Participe activamente en riñas, lo que se sancionará de seis meses a cua
 
 IV.- Incite o genere violencia; se considera incitador a quien dolosamente determine a otro u otros para que participen en riñas o agresiones físicas a las personas o los bienes;
 
-V.- Cause daños materiales en los bienes muebles o inmuebles que se encuentren en el propio recinto deportivo o del espectáculo, en sus instalaciones anexas o en las inmediaciones; o
-
-VI.- Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosivos o cualquier arma prohibida en términos de las leyes aplicables.
+V.- Cause daños materiales en los bienes muebles o inmuebles que se encuentren en el propio recinto deportivo o del espectáculo, en sus instalaciones anexas o en las inmediaciones; o VI.- Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosivos o cualquier arma prohibida en términos de las leyes aplicables.
 
 A quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, se le impondrá de dos a cuatro años de prisión y multa de veinte a noventa Unidades de Medida y Actualización. *[Nota: Párrafo reformado el 3/nov/2021.]*
 
@@ -2479,19 +2565,19 @@ III.- Cuando el sujeto activo se vale de algún medio que debilita la defensa de
 
 IV.- Cuando el ofendido se halla inerme o caído y el sujeto activo armado o de pie; 
 
-V. Cuando la víctima padezca alguna discapacidad; y *[Nota: Fracción adicionada el 10/dic/2018.]*
+V. Cuando la víctima sea persona con discapacidad; y *[Nota: Fracción adicionada el 10/dic/2018, y reformada el 16/jun/2026.]*
 
 VI. Cuando exista una situación de vulnerabilidad motivada por la condición física o mental o por discriminación. *[Nota: Fracción adicionada el 10/dic/2018.]*
 
 **Artículo 327.** La ventaja no se tomará en consideración en los casos contemplados en las fracciones I, II, III, V y VI del artículo anterior, si el que la tiene obrase en defensa legitima; y en el caso de la fracción IV, si el que se halla armado o de pie, fuere el agredido, y hubiere corrido peligro su vida o su persona por no aprovechar esa circunstancia. *[Nota: Artículo reformado el 10/dic/2018.]*
+
+ Fracción reformada el 31 /dic/ 2012 y el 10/dic/2018. Fracción reformada el 31 /dic/ 2012 y el 10/dic/2018.
 
 **Artículo 328.** *[Nota: Artículo reformado el 31/dic/2012.]* Sólo será considerada la ventaja, como calificativa de los delitos de que hablan las secciones anteriores de este Capítulo, cuando sea tal que el sujeto activo no corra riesgo alguno de ser muerto ni herido por el ofendido y aquél no obre en legítima defensa.
 
 **Artículo 329.** La alevosía consiste en sorprender intencionalmente a alguien de improviso, o empleando asechanza u otro medio que no le dé lugar a defenderse, ni a evitar el mal que se le quiere hacer.
 
 **Artículo 330.** Se dice que obra a traición, quien además de la alevosía emplea la perfidia, violando la fe o seguridad que expresamente había prometido a su víctima, o la tácita que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
-
- Fracción reformada el 31 /dic/ 2012 y el 10/dic/2018. Fracción reformada el 31 /dic/ 2012 y el 10/dic/2018.
 
 **Artículo 330 Bis.** *[Nota: Artículo adicionado el 27/jul/2012.]* Para los efectos del artículo 323 de este Código, existe odio cuando el agente lo comete por razón del origen étnico o nacional, raza, género, edad, discapacidad, condición social o económica, condiciones de salud, preferencias sexuales, apariencia física, estado civil, creencia religiosa, ideología política, opiniones expresadas, trabajo, profesión o cualquier otra que atente contra la dignidad humana, la libertad o la igualdad. *[Nota: Párrafo reformado el 13/oct/2020.]*
 
@@ -2649,7 +2735,7 @@ Para los efectos de este artículo, se tendrá por consumado el delito aun cuand
 
 **Artículo 349.** *[Nota: Artículo derogado el 04/ene/2012.]* Se deroga.
 
-**Artículo 350.** *[Nota: Artículo reformado el 3/nov/2021.]* Al que encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a sí mismo, o a una persona herida, inválida o amenazada de un peligro cualquiera y no diere aviso inmediato a la autoridad u omitiere prestarle el auxilio necesario, cuando pudiere hacerlo sin riesgo personal, se le impondrán de uno a seis meses de prisión o multa de una a diez Unidades de Medida y Actualización.
+**Artículo 350.** *[Nota: Artículo reformado el 3/nov/2021 y el 16/jun/2026..]* Al que encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a sí mismo, o a una persona herida, con discapacidad o amenazada de un peligro cualquiera y no diere aviso inmediato a la autoridad u omitiere prestarle el auxilio necesario, cuando pudiere hacerlo sin riesgo personal, se le impondrán de uno a seis meses de prisión o multa de una a diez Unidades de Medida y Actualización. *[Nota: Artículo reformado el 21/mayo/2026.]*
 
 **Artículo 351.** El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que dejare en estado de abandono, sin prestarle o facilitarle asistencia y el cuidado que desde luego necesite, a una persona a quien hubiere atropellado por imprudencia o accidente, será sancionado con prisión de un mes a dos años, independientemente de la sanción aplicable por el daño causado en el atropellamiento.
 
@@ -2667,15 +2753,15 @@ Para los efectos de este artículo, se tendrá por consumado el delito aun cuand
 
 **Artículo 354 Quater.** *[Nota: Artículo adicionado el 04/ene/2012.]* En el delito de incumplimiento de la obligación alimentaria, se aplicarán las siguientes disposiciones:
 
-I.- Si el procesado paga las pensiones alimentarias que deba, decretadas por un Juez de lo Familiar o Civil, en su caso, y si además deposita en favor del acreedor alimentario, el importe de las tres mensualidades siguientes, se sobreseerá el proceso; y
-
-II.- El sobreseimiento a que se refiere la fracción anterior se dictará sin perjuicio de considerar al deudor alimentario como reincidente o como habitual, si incurre una o más veces en este delito.
+I.- Si el procesado paga las pensiones alimentarias que deba, decretadas por un Juez de lo Familiar o Civil, en su caso, y si además deposita en favor del acreedor alimentario, el importe de las tres mensualidades siguientes, se sobreseerá el proceso; y II.- El sobreseimiento a que se refiere la fracción anterior se dictará sin perjuicio de considerar al deudor alimentario como reincidente o como habitual, si incurre una o más veces en este delito.
 
 ### CAPÍTULO DÉCIMO SÉPTIMO DELITOS CONTRA EL HONOR Y LA DIGNIDAD *[Nota: Denominación reformada el 27/jul/2012.]*
 
 #### SECCIÓN PRIMERA GOLPES Y OTRAS VIOLENCIAS FISICAS Y PSICOLÓGICAS *[Nota: Denominación reformada el 2/ago/2022.]*
 
-**Artículo 355.** Se impondrán de tres meses a tres años de prisión y multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, a la persona autora de golpes y violencias físicas o psicológicas o de ambas, si la persona ofendida fuere ascendiente o descendiente menor de edad de la persona ofensora. *[Nota: Párrafo reformado el 13/oct/2020 y el 2/ago/2022.]* Si la persona ofendida fuere menor de edad o mayor de sesenta años o persona con discapacidad, la sanción se aumentará hasta en una mitad. *[Nota: Párrafo adicionado el 04/ene/2012 y el 2/ago/2022.]*
+**Artículo 355.** Se impondrán de tres meses a tres años de prisión y multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, a la persona autora de golpes y violencias físicas o psicológicas o de ambas, si la persona ofendida fuere ascendiente o descendiente menor de edad de la persona ofensora. *[Nota: Párrafo reformado el 13/oct/2020 y el 2/ago/2022.]*
+
+Si la persona ofendida fuere menor de dieciocho años de edad, adulta mayor o con discapacidad, la sanción se aumentará hasta en una mitad. *[Nota: Párrafo adicionado el 04/ene/2012, el 2/ago/2022 y reformado el 16/jun/2026.]*
 
 **Artículo 356.** Son simples los golpes y las violencias físicas que no causen lesión en el ofendido.
 
@@ -2715,9 +2801,7 @@ III.- Veje o excluya persona alguna o grupo de personas; y
 
 IV.- Niegue o restrinja derechos laborales de cualquier tipo. Al servidor público que por las razones previstas en el primer párrafo de este artículo, niegue o retarde a una persona un trámite, servicio o prestación al que tenga derecho, se le aumentará en una mitad la pena prevista en este numeral, además se le impondrá destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos, por el mismo lapso de la privación de la libertad impuesta.
 
-Cuando la conducta sea cometida en contra de médicos, cirujanos, personal de enfermería y demás profesionales similares y auxiliares, del sector privado o público del área de la salud, durante el periodo que comprenda la declaración de una emergencia sanitaria, la pena de prisión incrementará de tres a seis años. *[Nota: Párrafo reformado el 14/jul/2020.]*
-
-No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos. *[Nota: Párrafo reformado el 14/jul/2020.]*
+Cuando la conducta sea cometida en contra de médicos, cirujanos, personal de enfermería y demás profesionales similares y auxiliares, del sector privado o público del área de la salud, durante el periodo que comprenda la declaración de una emergencia sanitaria, la pena de prisión incrementará de tres a seis años. *[Nota: Párrafo reformado el 14/jul/2020.]* No serán consideradas discriminatorias todas aquellas medidas tendientes a la protección de los grupos socialmente desfavorecidos. *[Nota: Párrafo reformado el 14/jul/2020.]*
 
 Este delito se perseguirá por querella de la parte ofendida. *[Nota: Párrafo adicionado el 14/jul/2020.]*
 
@@ -2869,7 +2953,7 @@ XXII.- Cuando recaiga sobre documentos que se conserven en oficinas públicas, c
 
 XXIII.- Cuando se cometa en una oficina bancaria, recaudadora u otra en que se conserven caudales o valores, o contra personas que las custodien o transporten; *[Nota: Fracción adicionada el 27/jul/2012]*
 
-XXIV.- Cuando se cometa en contra de persona con discapacidad o de más de sesenta años de edad; *[Nota: Fracción adicionada el 27/jul/2012 y reformada el 31/dic/2015.]*
+XXIV.- Cuando se cometa en contra de persona con discapacidad o persona adulta mayor; *[Nota: Fracción adicionada el 27/jul/2012, reformada el 31/dic/2015 y el 16/jun/2026.]*
 
 XXIV Bis.- Cuando se trate de un vehículo no motorizado o motorizado, cuyo motor sea de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, para el desplazamiento de una persona que por sus condiciones de salud o físicas le sea indispensable para movilizarse; *[Nota: Fracción adicionada el 11/abr/2023.]*
 
@@ -2899,7 +2983,9 @@ Si precediere, acompañare o siguiere al robo, algún otro hecho que por sí sol
 
 **Artículo 385.** El infractor quedará exonerado de toda sanción en los casos siguientes:
 
-I. Cuando, sin emplear engaños ni medios violentos, se apodere del alimento estrictamente indispensable para satisfacer sus necesidades personales o familiares de alimentación del momento; y II. Cuando el valor de lo robado no pase del importe de cinco Unidades de Medida y Actualización, sea restituido por el responsable espontáneamente y pague éste todos los daños y perjuicios, antes de que la autoridad lo aprehenda y no se haya ejecutado el robo por medio de violencia. *[Nota: Fracción reformada el 3/nov/2021.]*
+I. Cuando, sin emplear engaños ni medios violentos, se apodere del alimento estrictamente indispensable para satisfacer sus necesidades personales o familiares de alimentación del momento; y
+
+II. Cuando el valor de lo robado no pase del importe de cinco Unidades de Medida y Actualización, sea restituido por el responsable espontáneamente y pague éste todos los daños y perjuicios, antes de que la autoridad lo aprehenda y no se haya ejecutado el robo por medio de violencia. *[Nota: Fracción reformada el 3/nov/2021.]*
 
 **Artículo 386.** El robo de unos autos civiles o de algún documento de protocolo, oficina o archivos públicos, o que contenga obligación, liberación o transmisión de derechos, se sancionará con prisión de uno a dos años, independientemente de la sanción que corresponda por el delito que se cometa si se altera, falsifica o destruye el documento.
 
@@ -3055,9 +3141,11 @@ XXII. Al que se coloque en estado de insolvencia con el objeto de eludir el cump
 
 XXIII. Al que hiciere creer a una persona que otra relacionada con ésta se encuentra secuestrada y en virtud de ello exigiere y obtuviere una cantidad de dinero o cualquier otro lucro, como un supuesto rescate; *[Nota: Fracción adicionada el 24/mar/2000, reformada el 04/ene/2012 y el 10/mar/2021.]*
 
-XXIV. Al que preste servicios notariales, sin contar con la patente de Notario en Ejercicio o realice propaganda de cualquier tipo, ofreciendo los servicios que sólo los Notarios pueden realizar; y *[Nota: Fracción adicionada el 04/ene/2012 y reformada el 10/mar/2021.]*
+XXIV. Al que preste servicios notariales, sin contar con la patente de Notario en Ejercicio o realice propaganda de cualquier tipo, ofreciendo los servicios que sólo los Notarios pueden realizar; 
 
-XXV.- Al que intercambie o haga efectivas tarjetas, títulos, vales, documentos o instrumentos utilizados para el consumo de bienes y servicios, con conocimiento de que son falsos. *[Nota: Fracción adicionada el 10/mar/2021.]*
+XXV.- Al que intercambie o haga efectivas tarjetas, títulos, vales, documentos o instrumentos utilizados para el consumo de bienes y servicios, con conocimiento de que son falsos; y *[Nota: Fracción adicionada el 10/mar/2021 y reformada el 13/jun/2025.]*
+
+XXVI. La persona que a través de las tecnologías de la información y la comunicación, redes sociales, correo electrónico o cualquier espacio digital se haga pasar por una institución financiera o empleado de esta, con la finalidad de que por sí o por la persona usuaria acceda a un sitio en el ciberespacio para obtener sus datos personales o cualquier información confidencial de esta última y obtener cualquier beneficio indebido. *[Nota: Fracción adicionada el 13/jun/2025.]*
 
 **Artículo 405.** Se aplicarán las sanciones del delito de fraude establecidas en el artículo 403 de este ordenamiento legal, al que por sí o por interpósita persona:
 
@@ -3073,6 +3161,8 @@ V. Se deroga. *[Nota: Fracción derogada el 25/ene/2008.]*
 
 VI. Se deroga. *[Nota: Fracción derogada el 25/ene/ 2008.]*
 
+ Fracción adicionada el 04/ene/2012 , reformada el 10/mar/2021 y el 13/jun/2025.
+
 VII. Se deroga. *[Nota: Fracción derogada el 25/ene/2008]*
 
 **Artículo 406.** *[Nota: Artículo derogado el 01/jul/1994; posteriormente se reestableció con una nueva redacción el 02/sep/1998.]* Comete el delito de fraude de usura, el que se aprovechare de la ignorancia o las malas condiciones económicas de una persona, para recibir títulos de crédito o documentos a la orden, o celebrar convenios o contratos en los cuales se estipulen intereses superiores al doble de la tasa fijada por el Banco de México a intermediarios financieros en sus préstamos a sus solicitantes o de certificados de la Federación a veintiocho días. Para los efectos de este artículo se entenderán por intereses, los que rigen al momento de celebrarse la operación.
@@ -3083,9 +3173,7 @@ Se impondrá prisión de siete a diez años y multa de quinientas a mil Unidades
 
 Para efectos de este artículo se entenderá que existe captación de recursos del público cuando:
 
-a) se solicite, promueva u ofrezca la obtención de fondos o recursos de persona indeterminada, mediante gestión personal, de grupo o utilizando medios de comunicación masiva; o
-
-b) se soliciten u obtengan fondos o recursos de forma habitual o profesional.
+a) se solicite, promueva u ofrezca la obtención de fondos o recursos de persona indeterminada, mediante gestión personal, de grupo o utilizando medios de comunicación masiva; o b) se soliciten u obtengan fondos o recursos de forma habitual o profesional.
 
 **Artículo 407.** *[Nota: Artículo reformado el 01/jul/1994, el 3/nov/2021 y el 26/sep/2023.]* Cuando el delito previsto en esta Sección se cometa en perjuicio de personas adultas mayores, de cooperativas, sociedades o agrupaciones en que estén interesados obreros, campesinos o indígenas, la sanción será de cuatro a diez años de prisión y multa de cincuenta a trescientas Unidades de Medida y Actualización.
 
@@ -3097,17 +3185,33 @@ b) se soliciten u obtengan fondos o recursos de forma habitual o profesional.
 
 **Artículo 408.** Se impondrá prisión de tres meses a tres años y multa de cinco a cincuenta Unidades de Medida y Actualización: *[Nota: Párrafo reformado el 3/nov/2021.]*
 
-I.- Al que, de propia autoridad, y haciendo violencia o furtivamente, o empleando amenaza o engaño, ocupe un inmueble ajeno, permanezca en él, o remueva o altere sus límites o, de otro modo, turbe la posesión pacífica del mismo o haga uso de él, o de un derecho real que no le pertenezca; y *[Nota: Fracción reformada el 31/dic/2012.]*
+I.- Se deroga. *[Nota: Fracción derogada el 15/mar/2026.]*
 
-II.- Al que de propia autoridad, haciendo uso de cualquiera de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permite por hallarse en poder de otra persona, permanezca en él o ejerza actos de dominio que lesionen derechos legítimos del ocupante. *[Nota: Fracción reformada el 31/dic/2012.]*
+II.- Se deroga. *[Nota: Fracción derogada el 15/mar/2026.]*
 
 La sanción se aumentará hasta en una tercera parte en los casos previstos en las fracciones anteriores cuando se cometan en contra de personas mayores de sesenta años o personas con discapacidad. *[Nota: Párrafo último se adiciona el 22/may/2013.]*
 
-**Artículo 409.** *[Nota: Artículo reformado el 9/feb/2011, el 22/may/2013 y el 3/nov/2021.]* El delito de despojo se sancionará con prisión de seis a nueve años y multa de cien a mil quinientas Unidades de Medida y Actualización, cuando se cometa materialmente por cinco o más personas o en contra de zonas declaradas área natural protegida.
+**Artículo 409.** *[Nota: Artículo reformado el 9/feb/2011, el 22/may/2013, el 3/nov/2021 y el 15/mar/2026.]* El delito de despojo se sancionará con prisión de seis a doce años y multa de cien a mil quinientas Unidades de Medida y Actualización, cuando:
 
-**Artículo 409.** bis *[Nota: Artículo adicionado el 09/feb/2011 y reformado el 3/nov/2021.]*
+I.- Se cometa materialmente por cinco o más personas o en contra de zonas declaradas como área natural protegida;
 
-A quienes dirijan la invasión y su autor o autores intelectuales, la sanción de prisión será de siete a doce años y multa de mil a tres mil Unidades de Medida y Actualización.
+II.- A sabiendas, se ejecute en agravio de una niña, niño o adolescente, persona mayor de sesenta años, con discapacidad o perteneciente a un pueblo o comunidad indígena;
+
+III.- Se cometa con participación de una persona servidora pública valiéndose de su empleo, cargo o comisión, con independencia de si se encontraba o no en ejercicio de sus funciones;
+
+IV.- Para su ejecución se simulen actos de autoridad;
+
+V.- Se inscriba en el Registro Público de la Propiedad un acto jurídico traslativo de la propiedad o posesión utilizando un documento falso, simulado o inexistente con el fin de aparentar un derecho real sobre un inmueble que no le pertenece, o se suplante la identidad de la persona propietaria o poseedora del inmueble, o de su representante legal o apoderada o apoderado, y
+
+VI.- Se cometa con intervención dolosa de la persona titular, auxiliar o suplente de una notaría pública, en ejercicio de sus funciones o con motivo de ellas, dando fe de hechos o formalizando actos jurídicos ilícitos, con la finalidad de justificar, facilitar, consumar o encubrir el despojo.
+
+**Artículo 409.** bis *[Nota: Artículo adicionado el 09/feb/2011; reformado el 3/nov/2021 y el 15/mar/2026.]*
+
+Al que financie o dirija la invasión, así como a la persona autora o personas autoras intelectuales, se les sancionará con prisión de siete a quince años y multa de mil a tres mil Unidades de Medida y Actualización.
+
+**Artículo 409.** ter *[Nota: Artículo adicionado el 15/mar/2026.]*
+
+Las sanciones señaladas en el artículo anterior se aumentarán hasta en una tercera parte de los mínimos y máximos, cuando el delito se cometa con el propósito de lotificar o comercializar la tierra.
 
 **Artículo 410.** Lo dispuesto en los dos artículos anteriores, se aplicará aun cuando la posesión de la cosa usurpada sea dudosa o esté en disputa.
 
@@ -3748,6 +3852,20 @@ Al que sin autorización conozca o copie información contenida en sistemas o eq
 Al que estando autorizado para acceder a sistemas y equipos de informática del Estado, indebidamente copie información que contengan, se le impondrán de uno a dos años de prisión y de ciento cincuenta a cuatrocientos cincuenta días de multa.
 
 A quien, estando autorizado o sin autorización para acceder a sistemas, equipos o medios de almacenamiento informáticos en materia de seguridad pública, indebidamente obtenga, copie, utilice o divulgue información que contengan, se le impondrá pena de dos a cinco años de prisión y multa de quinientas a mil Unidades de Medida y Actualización general vigente. Dicha penalidad se aumentará hasta en una mitad, si la información está clasificada como reservada o confidencial, en términos de la legislación en la materia o si el responsable es o hubiera sido servidor público en una institución de seguridad pública, en términos de la legislación aplicable, quien además será destituido e inhabilitado por un plazo igual al de la pena resultante para desempeñarse en otro empleo, puesto, cargo o comisión pública. *[Nota: Párrafo reformado el 3/nov/2021 y el 5/dic/2023.]*
+
+**Artículo 479.** *[Nota: Artículo adicionado el 13/jun/2025.]* Comete el delito de espionaje digital la persona que a través del uso de las tecnologías de la información y comunicación, acceda a un equipo o sistema informático sin la autorización de su legítimo titular o propietario a efecto de conocer u obtener sus datos o cualquier tipo de información o documentos personales.
+
+A la persona responsable de la conducta descrita en el párrafo anterior se le impondrá sanción de uno a tres años de prisión y multa de cincuenta a doscientos cincuenta días del valor diario de la Unidad de Medida y Actualización vigente al momento de la comisión del delito.
+
+**Artículo 480.** *[Nota: Artículo adicionado el 13/jun/2025 y reformado el 11/jul/2025.]* Comete el delito de ciberasedio quien, a través de la utilización de las tecnologías de la información y la comunicación, redes sociales, correo electrónico o cualquier espacio digital, de forma reiterada o sistemática realice actos de vigilancia, hostigamiento, intimidación u ofensa a otra persona, y como consecuencia altere su vida cotidiana, perturbe su privacidad o dañe su integridad física o emocional.
+
+Para determinar la existencia del delito, la autoridad deberá considerar el contexto de los hechos.
+
+Se perseguirá a petición de parte, salvo que la víctima sea niña, niño, adolescente, persona con discapacidad o exista una relación de autoridad o subordinación, en cuyo caso será perseguible de oficio.
+
+A la persona responsable de la conducta descrita en el presente artículo se le impondrá una pena de seis meses a tres años de prisión y multa de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito. Cuando la víctima sea niña, niño o adolescente, la sanción se aumentará una tercera parte de la pena mínima y hasta dos terceras partes de la pena máxima.
+
+Quedan excluidas del presente artículo, las manifestaciones o críticas que estén orientadas a satisfacer un interés público, garantizar el desarrollo democrático o traten del escrutinio de cualquier órgano del Estado o persona servidora pública, y todas aquellas expresiones emitidas en el ejercicio legítimo de la libertad de expresión y el periodismo, en términos de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en la materia y demás disposiciones aplicables..
 
 ## TRANSITORIOS
 
@@ -4539,7 +4657,7 @@ EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Pa
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de marzo de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado del Despacho de la Secretaría General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica. 
 
-914 Fe de Erratas del 13/mar/2015.
+941 Fe de Erratas del 13/mar/2015.
 
 ## TRANSITORIOS
 
@@ -4761,7 +4879,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de abril de dos mil dieciocho. Diputado Presidente. FRANCISCO RODRÍGUEZ ÁLVAREZ. Rúbrica. Diputado Vicepresidente. PABLO FERNÁNDEZ DEL CAMPO ESPINOSA. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica. Diputado Secretario. CIRILO SALAS HERNÁNDEZ. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de abril de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Secretario de Seguridad Pública. C. JESÚS ROBERTO MORALES RODRÍGUEZ. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de abril de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Secretario de Seguridad Pública. C. JESÚS ROBERTO MORALES RODRÍGUEZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4775,7 +4893,7 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los treinta y un días del mes de agosto de dos mil dieciocho. Diputado Presidente. JOSÉ GERMÁN JIMÉNEZ GARCÍA. Rúbrica. Diputado Vicepresidente. JOSÉ GAUDENCIO VÍCTOR LEÓN CASTAÑEDA. Rúbrica. Diputada Secretaria. SILVIA GUILLERMINA TANÚS OSORIO. Rúbrica. Diputado Secretario. CARLOS MARTÍNEZ AMADOR. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los treinta y un días del mes de agosto de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Fiscal General del Estado. C. VÍCTOR ANTONIO CARRANCÁ BOURGET. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los treinta y un días del mes de agosto de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Fiscal General del Estado. C. VÍCTOR ANTONIO CARRANCÁ BOURGET. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4787,9 +4905,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del pres
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Ciudad de Puebla de Zaragoza, a los treinta y un días del mes de agosto de dos mil dieciocho. Diputado Presidente. JOSÉ GERMÁN JIMÉNEZ GARCÍA. Rúbrica. Diputado Vicepresidente. JOSÉ GAUDENCIO VÍCTOR LEÓN CASTAÑEDA. Rúbrica. Diputada Secretaria. SILVIA GUILLERMINA TANÚS OSORIO. Rúbrica. Diputado Secretario. CARLOS MARTÍNEZ AMADOR. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los treinta y un días del mes de agosto de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno.
-
-C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Fiscal General del Estado. C. VÍCTOR ANTONIO CARRANCÁ BOURGET. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los treinta y un días del mes de agosto de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Fiscal General del Estado. C. VÍCTOR ANTONIO CARRANCÁ BOURGET. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4801,7 +4917,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de diciembre de dos mil dieciocho. Diputado Presidente. JOSÉ JUAN ESPINOSA TORRES. Rúbrica. Diputado Vicepresidente. HÉCTOR EDUARDO ALONSO GRANADOS. Rúbrica. Diputada Secretaria. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputada Secretaria. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cuatro días del mes de diciembre de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Fiscal de Investigación Metropolitano, Encargado del Despacho de la Fiscalía General del Estado. C. GILBERTO HIGUERA BERNAL. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cuatro días del mes de diciembre de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Fiscal de Investigación Metropolitano, Encargado del Despacho de la Fiscalía General del Estado. C. GILBERTO HIGUERA BERNAL. Rúbrica.
 
 ## TRANSITORIO
 
@@ -4811,7 +4927,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de diciembre de dos mil dieciocho. Diputado Presidente. JOSÉ JUAN ESPINOSA TORRES. Rúbrica. Diputado Vicepresidente. HÉCTOR EDUARDO ALONSO GRANADOS. Rúbrica. Diputada Secretaria. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputada Secretaria. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cuatro días del mes de diciembre de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Fiscal de Investigación Metropolitano, Encargado del Despacho de la Fiscalía General del Estado. C. GILBERTO HIGUERA BERNAL. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cuatro días del mes de diciembre de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Fiscal de Investigación Metropolitano, Encargado del Despacho de la Fiscalía General del Estado. C. GILBERTO HIGUERA BERNAL. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4823,7 +4939,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR INTERINO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de marzo de dos mil diecinueve. Diputado Presidente. JOSÉ JUAN ESPINOSA TORRES. Rúbrica. Diputado Vicepresidente. HÉCTOR EDUARDO ALONSO GRANADOS. Rúbrica. Diputada Secretaria. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputada Secretaria. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinticinco días del mes de marzo de dos mil diecinueve. El Gobernador Interino del Estado Libre y Soberano de Puebla. C. GUILLERMO PACHECO PULIDO. Rúbrica. El Secretario General de Gobierno. C. FERNANDO LUIS MANZANILLA PRIETO. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinticinco días del mes de marzo de dos mil diecinueve. El Gobernador Interino del Estado Libre y Soberano de Puebla. C. GUILLERMO PACHECO PULIDO. Rúbrica. El Secretario General de Gobierno. C. FERNANDO LUIS MANZANILLA PRIETO. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4835,7 +4951,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de septiembre de dos mil diecinueve. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. FERNANDO SÁNCHEZ SASIA. Rúbrica. Diputada Secretaria. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputada Secretaria. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de septiembre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO MIGUEL IDELFONSO AMEZAGA RÁMIREZ. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de septiembre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO MIGUEL IDELFONSO AMEZAGA RÁMIREZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4847,7 +4963,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciocho días del mes de septiembre de dos mil diecinueve. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Secretario. URUVIEL GONZÁLEZ VIEYRA. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de septiembre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO MIGUEL IDELFONSO AMÉZAGA RAMÍREZ. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de septiembre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO MIGUEL IDELFONSO AMÉZAGA RAMÍREZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4861,7 +4977,7 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciocho días del mes de septiembre de dos mil diecinueve. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Secretario. URUVIEL GONZÁLEZ VIEYRA. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de septiembre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO MIGUEL IDELFONSO AMÉZAGA RAMÍREZ. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de septiembre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO MIGUEL IDELFONSO AMÉZAGA RAMÍREZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4873,7 +4989,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciocho días del mes de septiembre de dos mil diecinueve. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Secretario. URUVIEL GONZÁLEZ VIEYRA. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de septiembre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO MIGUEL IDELFONSO AMÉZAGA RAMÍREZ. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de septiembre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO MIGUEL IDELFONSO AMÉZAGA RAMÍREZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4887,7 +5003,7 @@ TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los ocho días del mes de octubre de dos mil diecinueve. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Secretario. URUVIEL GONZÁLEZ VIEYRA. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los once días del mes de octubre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario del Trabajo. CIUDADANO ABELARDO CUELLAR DELGADO. Rúbrica. El Secretario de Salud. CIUDADANO JORGE HUMBERTO URIBE TÉLLEZ. Rúbrica. El Secretario de Educación. CIUDADANO MELITÓN LOZANO PÉREZ. Rúbrica. La Secretaria de Bienestar. CIUDADANA LIZETH SÁNCHEZ GARCÍA. Rúbrica. El Secretario de Seguridad Pública. VICEALMIRANTE MIGUEL IDELFONSO AMÉZAGA RAMÍREZ. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MÓNICA AUGUSTA DÍAZ DE RIVERA ÁLVAREZ. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los once días del mes de octubre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario del Trabajo. CIUDADANO ABELARDO CUELLAR DELGADO. Rúbrica. El Secretario de Salud. CIUDADANO JORGE HUMBERTO URIBE TÉLLEZ. Rúbrica. El Secretario de Educación. CIUDADANO MELITÓN LOZANO PÉREZ. Rúbrica. La Secretaria de Bienestar. CIUDADANA LIZETH SÁNCHEZ GARCÍA. Rúbrica. El Secretario de Seguridad Pública. VICEALMIRANTE MIGUEL IDELFONSO AMÉZAGA RAMÍREZ. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MÓNICA AUGUSTA DÍAZ DE RIVERA ÁLVAREZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4899,7 +5015,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los once días del mes de marzo de dos mil veinte. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Secretario. URUVIEL GONZÁLEZ VIEYRA. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de marzo de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de marzo de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4911,7 +5027,7 @@ SEGUNDO . Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente Disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinte días del mes de mayo de dos mil veinte. Diputada Presidenta. MÓNICA RODRÍGUEZ DELLA VECCHIA. Rúbrica. Diputada Vicepresidenta. RAFAELA VIANEY GARCÍA ROMERO. Rúbrica. Diputado Vicepresidente. CARLOS ALBERTO MORALES ÁLVAREZ. Rúbrica. Diputado Secretario. JOSÉ MIGUEL TRUJILLO DE ITA. Rúbrica. Diputada Secretaria. GUADALUPE MUCIÑO MUÑOZ. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de mayo de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de mayo de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4923,7 +5039,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinticuatro días del mes de septiembre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica.
 
-Por lo tanto mando de imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, el primer día del mes de octubre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. La Secretaria de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. CIUDADANA BEATRIZ MANRIQUE GUEVARA. Rúbrica.
+Por lo tanto, mando de imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, el primer día del mes de octubre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. La Secretaria de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. CIUDADANA BEATRIZ MANRIQUE GUEVARA. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4935,7 +5051,7 @@ SEGUNDO . Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los seis días del mes de octubre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de octubre de dos mil veinte. El Gobernador Constitucional del Estado libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de octubre de dos mil veinte. El Gobernador Constitucional del Estado libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4947,7 +5063,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinte días del mes de octubre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en las Cuatro Veces Heroica Puebla de Zaragoza, a los veintidós días del mes de octubre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
+Por lo tanto, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en las Cuatro Veces Heroica Puebla de Zaragoza, a los veintidós días del mes de octubre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4959,7 +5075,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de noviembre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de noviembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. El Secretario de Movilidad y Transporte. CIUDADANO JOSÉ GUILLERMO ARÉCHIGA SANTAMARÍA. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de noviembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. El Secretario de Movilidad y Transporte. CIUDADANO JOSÉ GUILLERMO ARÉCHIGA SANTAMARÍA. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4971,7 +5087,7 @@ SEGUNDO . Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de noviembre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de noviembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. El Secretario de Salud. CIUDADANO JOSÉ ANTONIO MARTÍNEZ GARCÍA. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de noviembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. El Secretario de Salud. CIUDADANO JOSÉ ANTONIO MARTÍNEZ GARCÍA. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4983,7 +5099,7 @@ SEGUNDO . Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, al primer día del mes de diciembre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de diciembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de diciembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -4995,7 +5111,7 @@ SEGUNDO . Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de noviembre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinticuatro días del mes de noviembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinticuatro días del mes de noviembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5007,7 +5123,7 @@ SEGUNDO . Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de noviembre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de noviembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ . Rúbrica. El Secretario de Salud. CIUDADANO JOSÉ ANTONIO MARTÍNEZ GARCÍA . Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MÓNICA AUGUSTA DÍAZ DE RIVERA ÁLVAREZ . Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de noviembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ . Rúbrica. El Secretario de Salud. CIUDADANO JOSÉ ANTONIO MARTÍNEZ GARCÍA . Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MÓNICA AUGUSTA DÍAZ DE RIVERA ÁLVAREZ . Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5019,7 +5135,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cuatro días del mes de febrero de dos mil veintiuno. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. . Diputada Secretaria. LILIANA LUNA AGUIRRE.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de febrero de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. El Secretario de Salud. CIUDADANO JOSÉ ANTONIO MARTÍNEZ GARCÍA. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de febrero de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. El Secretario de Salud. CIUDADANO JOSÉ ANTONIO MARTÍNEZ GARCÍA. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5031,7 +5147,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiún días del mes de enero de dos mil veintiuno. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de febrero de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. El Secretario de Salud. CIUDADANO JOSÉ ANTONIO MARTÍNEZ GARCÍA. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de febrero de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. El Secretario de Salud. CIUDADANO JOSÉ ANTONIO MARTÍNEZ GARCÍA. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5043,7 +5159,7 @@ SEGUNDO . Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de enero de dos mil veintiuno. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. . Diputada Secretaria. LILIANA LUNA AGUIRRE.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintidós días del mes de enero de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. El Secretario de Salud. CIUDADANO JOSÉ ANTONIO MARTÍNEZ GARCÍA. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MÓNICA AUGUSTA DÍAZ DE RIVERA ÁLVAREZ. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintidós días del mes de enero de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. El Secretario de Salud. CIUDADANO JOSÉ ANTONIO MARTÍNEZ GARCÍA. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MÓNICA AUGUSTA DÍAZ DE RIVERA ÁLVAREZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5055,7 +5171,7 @@ SEGUNDO . Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de febrero de dos mil veintiuno. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Vicepresidenta. LILIANA LUNA AGUIRRE. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. ILIANA PAOLA RUÍZ GARCÍA. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de febrero de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de febrero de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5067,7 +5183,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de julio de dos mil veintiuno. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputada Vicepresidenta. ALEJANDRA GUADALUPE ESQUITÍN LASTIRI. Rúbrica. Diputada Secretaria. MARÍA DEL ROCÍO GARCÍA OLMEDO. Rúbrica. Diputado Secretario. RAÚL ESPINOSA MARTÍNEZ. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de julio de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de julio de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5079,7 +5195,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los treinta días del mes de junio de dos mil veintiuno. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputada Presidenta. ALEJANDRA GUADALUPE ESQUITÍN LASTIRI. Rúbrica. Diputada Secretaria. MARÍA DEL ROCÍO GARCÍA OLMEDO. Rúbrica. Diputado Secretario. RAÚL ESPINOSA MARTÍNEZ. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5091,7 +5207,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los seis días del mes de julio de dos mil veintiuno. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputada Presidenta. ALEJANDRA GUADALUPE ESQUITÍN LASTIRI. Rúbrica. Diputada Secretaria. MARÍA DEL ROCÍO GARCÍA OLMEDO. Rúbrica. Diputado Secretario. RAÚL ESPINOSA MARTÍNEZ. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5103,7 +5219,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los seis días del mes de julio de dos mil veintiuno. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputada Vicepresidenta. ALEJANDRA GUADALUPE ESQUITÍN LASTIRI. Rúbrica. Diputada Secretaria. MARÍA DEL ROCÍO GARCÍA OLMEDO. Rúbrica. Diputado Secretario. RAÚL ESPINOSA MARTÍNEZ. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5115,7 +5231,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de julio de dos mil veintiuno. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputada Vicepresidenta. ALEJANDRA GUADALUPE ESQUITÍN LASTIRI. Rúbrica. Diputada Secretaria. MARÍA DEL ROCÍO GARCÍA OLMEDO. Rúbrica. Diputado Secretario. RAÚL ESPINOSA MARTÍNEZ. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica. La Secretaria de Movilidad y Transporte. CIUDADANA ELSA MARÍA BRACAMONTE GONZÁLEZ. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica. La Secretaria de Movilidad y Transporte. CIUDADANA ELSA MARÍA BRACAMONTE GONZÁLEZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5127,7 +5243,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de julio de dos mil veintiuno. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputada Vicepresidenta. ALEJANDRA GUADALUPE ESQUITÍN LASTIRI. Rúbrica. Diputada Secretaria. MARÍA DEL ROCÍO GARCÍA OLMEDO. Rúbrica. Diputado Secretario. RAÚL ESPINOSA MARTÍNEZ. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5139,7 +5255,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de julio de dos mil veintiuno. Diputada Presidenta. ALEJANDRA GUADALUPE ESQUITÍN LASTIRI. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica. Diputada Secretaria. MARÍA DEL ROCÍO GARCÍA OLMEDO. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5151,7 +5267,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de julio de dos mil veintiuno. Diputada Presidenta. ALEJANDRA GUADALUPE ESQUITÍN LASTIRI. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputada Secretaria BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica. Diputada Secretaria. MARÍA DEL ROCÍO GARCÍA OLMEDO. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de agosto de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5163,7 +5279,7 @@ SEGUNDO . Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente Disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de marzo de dos mil veintidós. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputada Vicepresidenta. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Vicepresidenta. KARLA VICTORIA MARTÍNEZ GALLEGOS. Rúbrica. Diputada Secretaria. LAURA IVONNE ZAPATA MARTÍNEZ. Rúbrica. Diputada Secretaria. MARÍA YOLANDA GÁMEZ MENDOZA. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de marzo de dos mil veintidós. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación . CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de marzo de dos mil veintidós. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación . CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5175,7 +5291,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de junio de dos mil veintidós. Diputada Presidenta. AURORA GUADALUPE SIERRA RODRÍGUEZ. Rúbrica. Diputado Vicepresidente. EDUARDO CASTILLO LÓPEZ. Rúbrica. Diputado Vicepresidente. JUAN ENRIQUE RIVERA REYES. Rúbrica. Diputada Secretaria. AZUCENA ROSAS TAPIA. Rúbrica. Diputada Secretaria. GUADALUPE YAMAK TAJA. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de junio de dos mil veintidós. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de junio de dos mil veintidós. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5259,7 +5375,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinte días del mes de octubre de dos mil veintidós. Diputado Presidente. NÉSTOR CAMARILLO MEDINA. Rúbrica. Diputado Vicepresidente. ROBERTO SOLÍS VALLES. Rúbrica. Diputada Vicepresidenta. NORMA SIRLEY REYES CABRERA. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputada Secretaria. TONANTZIN FERNÁNDEZ DÍAZ. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinte días del mes de octubre de dos mil veintidós. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica. La Secretaria de Movilidad y Transporte. CIUDADANA ELSA MARÍA BRACAMONTES GONZÁLEZ. Rúbrica. La Secretaria de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. CIUDADANA BEATRIZ MANRIQUE GUEVARA. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinte días del mes de octubre de dos mil veintidós. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica. La Secretaria de Movilidad y Transporte. CIUDADANA ELSA MARÍA BRACAMONTES GONZÁLEZ. Rúbrica. La Secretaria de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. CIUDADANA BEATRIZ MANRIQUE GUEVARA. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5295,7 +5411,7 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinte días del mes de diciembre de dos mil veintidós. Diputado Presidente. NÉSTOR CAMARILLO MEDINA. Rúbrica. Diputada Vicepresidenta. TONANTZIN FERNÁNDEZ DÍAZ . Rúbrica. Diputada Vicepresidenta. NORMA SIRLEY REYES CABRERA. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputada Secretaria. MARÍA YOLANDA GÁMEZ MENDOZA. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de diciembre de dos mil veintidós. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JULIO MIGUEL HUERTA GÓMEZ. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de diciembre de dos mil veintidós. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JULIO MIGUEL HUERTA GÓMEZ. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5307,7 +5423,7 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a dos de marzo de dos mil veintitrés. Diputado Presidente. NÉSTOR CAMARILLO MEDINA. Rúbrica. Diputado Vicepresidente. ROBERTO SOLÍS VALLES. Rúbrica. Diputada Vicepresidenta. TONANTZIN FERNÁNDEZ DÍAZ. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputada Secretaria. MARÍA YOLANDA GÁMEZ MENDOZA. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de marzo de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JULIO MIGUEL HUERTA GÓMEZ. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO DANIEL IVÁN CRUZ LUNA. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de marzo de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JULIO MIGUEL HUERTA GÓMEZ. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO DANIEL IVÁN CRUZ LUNA. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5319,7 +5435,7 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a dos de marzo de dos mil veintitrés. Diputado Presidente. NÉSTOR CAMARILLO MEDINA. Rúbrica. Diputado Vicepresidente. ROBERTO SOLÍS VALLES. Rúbrica. Diputada Vicepresidenta. TONANTZIN FERNÁNDEZ DÍAZ. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputada Secretaria. MARÍA YOLANDA GÁMEZ MENDOZA. Rúbrica.
 
-Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de marzo de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JULIO MIGUEL HUERTA GÓMEZ. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO DANIEL IVÁN CRUZ LUNA. Rúbrica.
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de marzo de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JULIO MIGUEL HUERTA GÓMEZ. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO DANIEL IVÁN CRUZ LUNA. Rúbrica.
 
 ## TRANSITORIOS
 
@@ -5462,3 +5578,123 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de marzo de dos mil veinticinco. Diputado Presidente. ÓSCAR MAURICIO CÉSPEDES PEREGRINA. Rúbrica. Diputada Vicepresidenta. ELVIA GRACIELA PALOMARES RAMÍREZ. Rúbrica. Diputado Vicepresidente. ANDRÉS IVÁN VILLEGAS MENDOZA. Rúbrica. Diputada Secretaria. NORMA ESTELA PIMENTEL MÉNDEZ. Rúbrica. Diputada Secretaria. SUSANA DEL CARMEN RIESTRA PIÑA. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciocho días del mes de marzo de dos mil veinticinco. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO FRANCISCO SÁNCHEZ GÓNZALEZ. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma la denominación de la Sección Sexta del Capítulo Décimo “Falsedad” del Libro Segundo “Delitos en lo Particular” y las fracciones XXIV y XXV del artículo 404, y se adiciona el artículo 258 Ter, el 278 Decies, la fracción XXVI al 404, el 479 y el 480; todos del Código Penal del Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el viernes 13 de junio de 2025, Número 10, Edición Vespertina, Tomo DCII).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de junio de dos mil veinticinco. Diputada Presidenta. LAURA GUADALUPE VARGAS VARGAS. Rúbrica. Diputado Vicepresidente. JULIO MIGUEL HUERTA GÓMEZ. Rúbrica. Diputado Vicepresidente. RAFAEL ALEJANDRO MICALCO MÉNDEZ. Rúbrica. Diputada Secretaria. MARÍA SOLEDAD AMIEVA ZAMORA. Rúbrica. Diputada Secretaria. ANGÉLICA PATRICIA ALVARADO JUÁREZ. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de junio de dos mil veinticinco. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO FRANCISCO SÁNCHEZ GONZÁLEZ. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma el artículo 480 del Código Penal del Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el viernes 11 de julio de 2025, Número 9, Segunda Sección, Tomo DCIII).
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de julio de dos mil veinticinco. Diputada Presidenta. LAURA GUADALUPE VARGAS VARGAS. Rúbrica. Diputado Vicepresidente. JULIO MIGUEL HUERTA GÓMEZ. Rúbrica. Diputado Vicepresidente. RAFAEL ALEJANDRO MICALCO MÉNDEZ. Rúbrica. Diputada Secretaria. MARÍA SOLEDAD AMIEVA ZAMORA. Rúbrica. Diputada Secretaria. ANGÉLICA PATRICIA ALVARADO JUÁREZ. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los once días del mes de julio de dos mil veinticinco. El Gobernador del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO FRANCISCO SÁNCHEZ GÓNZALEZ. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma el artículo 292 bis del Código Penal para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el lunes 15 de diciembre de 2025, Número 11, Segunda Edición Vespertina, Tomo DCVIII).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos penales y administrativos iniciados antes de la entrada en vigor del presente Decreto se desarrollarán y resolverán conforme a la normatividad vigente al momento de la comisión de los hechos posiblemente constitutivos de delito o de responsabilidad administrativa, según corresponda. *[Nota: Nota aclaratoria del 19/dic/2025.]*
+
+CUARTO. Las autoridades competentes deberán efectuar las adecuaciones orgánicas y presupuestales necesarias para dar cumplimiento a lo dispuesto en el Artículo Décimo Transitorio de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el veintiocho de noviembre de dos mil veinticinco. *[Nota: Nota aclaratoria del 19/dic/2025.]*
+
+QUINTO. Las autoridades competentes deberán emitir, en un plazo no mayor de ciento ochenta días hábiles a partir de la publicación del presente Decreto, los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el Artículo Séptimo Transitorio de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos publicada en el Diario Oficial de la Federación el veintiocho de noviembre de dos mil veinticinco. *[Nota: Nota aclaratoria del 19/dic/2025.]* EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días de diciembre de dos mil veinticinco. Diputado Presidente. ELÍAS LOZADA ORTEGA. Rúbrica. Diputada Vicepresidenta. NAYELI SALVATORI BOJALIL. Rúbrica. Diputada Vicepresidenta. CELIA BONAGA RUIZ. Rúbrica. Diputada Secretaria. ANA LAURA GÓMEZ RAMÍREZ. Rúbrica. Diputada Secretaria. ARACELI CELESTINO ROSAS. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil veinticinco. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica.
+
+RAZÓN DE FIRMAS
+
+(De la NOTA Aclaratoria que emite el Secretario General del H. Congreso del Estado que por omisión no se insertaron los artículos TERCERO, CUARTO Y QUINTO TRANSITORIOS, al DECRETO del Honorable Congreso del Estado, por el que reforma el artículo 292 bis del Código Penal para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado Número 11, Segunda Edición Vespertina, de fecha 15 de diciembre de 2025, Tomo DCVIII; publicada en el Periódico Oficial del Estado, el viernes 19 de diciembre de 2025, Número 15, Edición Vespertina, Tomo DCVIII).
+
+Al pie el logotipo del Congreso, con una leyenda que dice: Honorable Congreso del Estado de Puebla. LXII Legislatura. Inclusión, Diálogo y Consenso.
+
+Dado en la Cuatro Veces Heroica Puebla de Zaragoza, a 18 de diciembre de 2025. El Secretario General del Honorable Congreso del Estado. MTRO. JULIO LEOPOLDO DE LARA VALERA . Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforman los artículos 409 y 409 Bis; se adiciona el artículo 409 Ter, y se deroga el segundo párrafo del artículo 408 del Código Penal del Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el domingo 15 de marzo de 2026, Número 11, Décima Segunda Sección, Tomo DCXI).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de marzo de dos mil veintiséis. Diputado Presidente. ELÍAS LOZADA ORTEGA. Rúbrica. Diputada Vicepresidenta. NAYELI SALVATORI BOJALIL. Rúbrica. Diputada Vicepresidenta. CELIA BONAGA RUIZ. Rúbrica. Diputada Secretaria. ANA LAURA GÓMEZ RAMÍREZ. Rúbrica. Diputada Secretaria. ARACELI CELESTINO ROSAS. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, instruyo se publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de marzo de dos mil veintiséis. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER . Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA . Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que se reforma la fracción II del artículo 51 Ter, el segundo párrafo del artículo 56 Septies, la fracción III del artículo 147, el primer párrafo del artículo 260, el artículo 261, el artículo 262, se adicionan tres párrafos al artículo 260, las fracciones IV, V, VI, VII, VIII, IX, X, XI, XII y un párrafo al artículo 261, y se deroga el artículo 263, todos del Código Penal del Estado Libre y Soberano de Puebla, el martes 28 de abril de 2026, Número 18, Quinta Sección, Tomo DCXII).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de marzo de dos mil veintiséis. Diputado Presidente. ELÍAS LOZADA ORTEGA. Rúbrica. Diputada Vicepresidenta. NAYELI SALVATORI BOJALIL. Rúbrica. Diputada Vicepresidenta. CELIA BONAGA RUIZ. Rúbrica. Diputada Secretaria. ANA LAURA GÓMEZ RAMÍREZ. Rúbrica. Diputada Secretaria. ARACELI CELESTINO ROSAS. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de marzo de dos mil veintiséis. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica.
+
+## TRANSITORIOS
+
+(DECRETO del Honorable Congreso del Estado, por el que adiciona los artículos 192 Bis y 192 Ter al Código Penal del Estado Libre y Soberano de Puebla., el martes 28 de abril de 2026, Número 18, Sexta Sección, Tomo DCXII).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de marzo de dos mil veintiséis. Diputado Presidente. ELÍAS LOZADA ORTEGA. Rúbrica. Diputada Vicepresidenta. NAYELI SALVATORI BOJALIL. Rúbrica. Diputada Vicepresidenta. CELIA BONAGA RUIZ. Rúbrica. Diputada Secretaria. ANA LAURA GÓMEZ RAMÍREZ. Rúbrica. Diputada Secretaria. ARACELI CELESTINO ROSAS. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de marzo de dos mil veintiséis. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica.
+
+## TRANSITORIOS
+
+(DECRETO del Honorable Congreso del Estado, por el que reforma el inciso b) de la fracción VII del artículo 26, el acápite y las fracciones II y III del artículo 217, el párrafo quinto del artículo 284 Quater, el inciso b) del artículo 302 Bis, la fracción V del artículo 326, el artículo 350, el segundo párrafo del artículo 355 y la fracción XXIV del artículo 380, todos del Código Penal del Estado Libre y Soberano de Puebla., el martes 16 de junio de 2026, Número 12, Quinta Edición Vespertina Sección, Tomo DCXIV).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiún días del mes de mayo de dos mil veintiséis. Diputado Presidente. MARCOS CASTRO MARTÍNEZ. Rúbrica. Diputada Vicepresidenta. ELISA LIMON BALDERRABANO. Rúbrica. Diputada Vicepresidenta. KATHYA SÁNCHEZ RODRÍGUEZ. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputado Secretario. ROBERTO ZATARÁIN LEAL. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiún días del mes de mayo de dos mil veintiséis. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica.
+
+## TRANSITORIOS
+
+(DECRETO del Honorable Congreso del Estado, por el que reforma la denominación de la Sección Segunda del Capítulo Séptimo del Libro Segundo y el artículo 224 del Código Penal del Estado Libre y Soberano de Puebla., el martes 16 de junio de 2026, Número 12, Sexta Edición Vespertina Sección, Tomo DCXIV).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiún días del mes de mayo de dos mil veintiséis. Diputado Presidente. MARCOS CASTRO MARTÍNEZ. Rúbrica. Diputada Vicepresidenta. ELISA LIMON BALDERRABANO. Rúbrica. Diputada Vicepresidenta. KATHYA SÁNCHEZ RODRÍGUEZ. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputado Secretario. ROBERTO ZATARÁIN LEAL. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiún días del mes de mayo de dos mil veintiséis. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica.
+
+## TRANSITORIOS
+
+(DECRETO del Honorable Congreso del Estado, por el que reforma el artículo 266 y se adiciona el artículo 271 Bis, ambos del Código Penal del Estado Libre y Soberano de Puebla., el martes 28 de julio de 2026, Número 20, Décima Sección, Tomo DCXIV).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dos días del mes de julio de dos mil veintiséis. Diputado Presidente. MARCOS CASTRO MARTÍNEZ. Rúbrica. Diputada Vicepresidenta. KATHYA SÁNCHEZ RODRÍGUEZ. Rúbrica. Diputado Vicepresidente. ROBERTO ZATARAÍN LEAL. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputado Secretario. ELPIDIO DÍAZ ESCOBAR. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, instruyo se publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dos días del mes de julio de dos mil veintiséis. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER. Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA. Rúbrica.

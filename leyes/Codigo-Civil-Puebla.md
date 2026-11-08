@@ -4,16 +4,16 @@ estado: Puebla
 sigla: CCEP
 slug: Codigo-Civil-Puebla
 titulo: "Código Civil para el Estado Libre y Soberano de Puebla"
-ultima_reforma: "2016-12-30"
-vigencia: "desactualizada"
+ultima_reforma: "2026-07-28"
+vigencia: "actualizada"
 fuente: "Orden Jurídico Poblano"
-nota: "La versión fuente no incluye reformas posteriores a diciembre de 2016 (por ejemplo, la de marzo de 2021 en materia de identidad de género). El texto fuente rotula como "Artículo 27" el que corresponde al 2739; se conservó tal cual."
-articulos: 3577
+nota: "La versión fuente no contiene el artículo 879 (tampoco aparece en su índice)."
+articulos: 3594
 ---
 
 # Código Civil para el Estado Libre y Soberano de Puebla
-> Última reforma contenida en la fuente: 2016-12-30. Vigencia: desactualizada.
-> La versión fuente no incluye reformas posteriores a diciembre de 2016 (por ejemplo, la de marzo de 2021 en materia de identidad de género). El texto fuente rotula como "Artículo 27" el que corresponde al 2739; se conservó tal cual.
+> Última reforma contenida en la fuente: 2026-07-28. Vigencia: actualizada.
+> La versión fuente no contiene el artículo 879 (tampoco aparece en su índice).
 
 DISPOSICIONES GENERALES
 
@@ -103,7 +103,7 @@ IV. Tender a la realización del fin de la ley aplicable.
 
 **Artículo 26.** *[Nota: Artículo reformado el 14/sep/1998.]* Es de orden público la protección legal y judicial de las personas de notorio atraso intelectual, de manifiesta pobreza, discapacitadas, que carezcan de instrucción o tengan alguna otra situación de desventaja frente a quienes se encuentren en la situación contraria.
 
-La protección a que hace referencia el párrafo que antecede, también se realizará atendiendo al principio del interés superior de la niñez; así como de la Primera Infancia, en términos de lo previsto en la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Puebla. *[Nota: Párrafo adicionado el 31/dic/2015]*
+La protección a que hace referencia el párrafo que antecede, también se realizará atendiendo al principio del interés superior de la niñez; así como de la Primera Infancia, en términos de lo previsto en la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Puebla. *[Nota: Párrafo adicionado el 31/dic/2015.]*
 
 **Artículo 27.** Cuando la ley no permita a una persona la adquisición de un derecho o la realización de un acto jurídico, no podrá ella adquirir tal derecho o realizar ese acto jurídico, ni por sí ni por testaferro.
 
@@ -281,7 +281,7 @@ I. Del menor de edad no emancipado, el domicilio familiar de la persona o person
 
 II. Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
-III. Del hombre y de la mujer casados entre sí o que vivan en concubinato, el domicilio familiar de ambos; *[Nota: Fracción reformada el 4/sep/1998.]*
+III. El domicilio familiar de los cónyuges o concubinas; *[Nota: Fracción reformada el 4/sep/1998 y el 11/nov/2020.]*
 
 IV. De los militares en servicio activo, el lugar en que estén destinados;
 
@@ -295,7 +295,9 @@ VI. De los sentenciados a sufrir una pena privativa de la libertad por más de s
 
 **Artículo 63.** El nombre de las personas físicas se forma con el nombre propio y los apellidos.
 
-**Artículo 64.** El nombre propio será puesto libremente por quien declare el nacimiento de una persona, y los apellidos serán el del padre y el de la madre, o en su caso, sólo los de aquél o los de ésta, sean tales apellidos simples o compuestos.
+**Artículo 64.** *[Nota: Articulo reformado el 27/jul/2018.]* El nombre propio será puesto libremente por quien declare el nacimiento de una persona, y los apellidos, serán el del padre y el de la madre, en el orden que de común acuerdo determinen, o en su caso, sólo los de aquél o los de ésta, sean tales apellidos simples o compuestos.
+
+En caso de no existir acuerdo entre los padres, el orden de los apellidos se determinará por orden alfabético de los mismos.
 
 **Artículo 65.** Si al registrar a un niño no se sabe quiénes son los padres de él, el nombre propio y los apellidos serán puestos por el Juez del Registro del Estado Civil.
 
@@ -350,6 +352,10 @@ II. Por aclaración cuando en el acta deban enmendarse errores en la ortografía
 2. Su presencia física;
 
 3. El secreto epistolar, telefónico, profesional testamentario y de su vida privada.
+
+4.- Su orientación sexual y, *[Nota: Numeral adicionado el 26/mar/2021.]*
+
+5.- Su identidad de género autopercibida. *[Nota: Numeral adicionado el 26/mar/2021.]*
 
 **Artículo 77.** Sin consentimiento de una persona, no pueden revelarse los secretos de ésta, a menos que la revelación deba realizarse por un interés legítimo de quien la haga o en cumplimiento de un deber legal.
 
@@ -447,7 +453,7 @@ IV. Con la posesión provisional.
 
 #### SECCIÓN SEGUNDA DECLARACIÓN DE AUSENCIA
 
-**Artículo 109.** *[Nota: Artículo reformado el 31/dic/2012]* Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+**Artículo 109.** *[Nota: Artículo reformado el 31/dic/2012.]* Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
 
 **Artículo 110.** En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años, que se contarán desde la desaparición del ausente, si en este período se tuvieren noticias suyas, o desde la fecha en que se hayan tenido las últimas.
 
@@ -549,13 +555,13 @@ Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la g
 
 #### SECCIÓN QUINTA PRESUNCIÓN DE MUERTE DEL AUSENTE
 
-**Artículo 150.** Cuando hayan transcurrido dos años desde la declaración de ausencia, el juez a instancia de parte interesada, declarará la presunción de muerte. *[Nota: Párrafo reformado el 31/dic/2012]*
+**Artículo 150.** Cuando hayan transcurrido dos años desde la declaración de ausencia, el juez a instancia de parte interesada, declarará la presunción de muerte. *[Nota: Párrafo reformado el 31/dic/2012.]*
 
-Si la desaparición ocurre asociada a incendio, explosión, terremoto, catástrofe aérea o ferroviaria, naufragio, inundación o siniestro semejante, porque exista presunción de que el desaparecido se encontraba en el lugar del siniestro o catástrofe, bastará el transcurso de seis meses contados a partir de la fecha en que ocurrió el acontecimiento trágico, para la declaración de presunción de muerte sin necesidad de declarar ausencia. El Juez ordenará la publicación de declaración de presunción de muerte por tres veces durante el procedimiento dentro de treinta días. *[Nota: Párrafo adicionado el 31/dic/2012]*
+Si la desaparición ocurre asociada a incendio, explosión, terremoto, catástrofe aérea o ferroviaria, naufragio, inundación o siniestro semejante, porque exista presunción de que el desaparecido se encontraba en el lugar del siniestro o catástrofe, bastará el transcurso de seis meses contados a partir de la fecha en que ocurrió el acontecimiento trágico, para la declaración de presunción de muerte sin necesidad de declarar ausencia. El Juez ordenará la publicación de declaración de presunción de muerte por tres veces durante el procedimiento dentro de treinta días. *[Nota: Párrafo adicionado el 31/dic/2012.]*
 
-Tratándose de personas no localizadas por actos presumiblemente atribuibles a la delincuencia organizada, en los casos de secuestro, así como en el supuesto de servidores públicos de procuración y administración de justicia, de seguridad pública o de ejecución de sanciones penales, no localizados por hechos acontecidos durante el ejercicio de sus funciones o con motivo de ellas, bastará que hayan transcurrido dos años, contados desde su no localización, para que pueda hacerse la declaración de presunción de muerte, sin que en estos casos sea necesario que previamente se declare su ausencia; no obstante, se tomarán las medidas provisionales autorizadas para personas ausentes en la Sección Primera de este Capítulo. En estos supuestos, el Juez acordará la publicación de la declaración de presunción de muerte, sin costo alguno. *[Nota: Párrafo adicionado el 31/dic/2012]*
+Tratándose de personas no localizadas por actos presumiblemente atribuibles a la delincuencia organizada, en los casos de secuestro, así como en el supuesto de servidores públicos de procuración y administración de justicia, de seguridad pública o de ejecución de sanciones penales, no localizados por hechos acontecidos durante el ejercicio de sus funciones o con motivo de ellas, bastará que hayan transcurrido dos años, contados desde su no localización, para que pueda hacerse la declaración de presunción de muerte, sin que en estos casos sea necesario que previamente se declare su ausencia; no obstante, se tomarán las medidas provisionales autorizadas para personas ausentes en la Sección Primera de este Capítulo. En estos supuestos, el Juez acordará la publicación de la declaración de presunción de muerte, sin costo alguno. *[Nota: Párrafo adicionado el 31/dic/2012.]*
 
-Cuando el Ministerio Público conozca de los hechos citados en el presente artículo, podrá promover ante la autoridad judicial competente el inicio del procedimiento que corresponda. *[Nota: Párrafo adicionado el 31/dic/2012]*
+Cuando el Ministerio Público conozca de los hechos citados en el presente artículo, podrá promover ante la autoridad judicial competente el inicio del procedimiento que corresponda. *[Nota: Párrafo adicionado el 31/dic/2012.]*
 
 **Artículo 151.** Hecha esta declaración, se abrirá el testamento del ausente, si no estuviere ya publicado conforme al Artículo 120; los poseedores provisionales darán cuenta de su administración, como previene el artículo 135, y los herederos y demás interesados entrarán en la posesión definitiva de los bienes sin garantía alguna. La que según la ley se hubiere dado, quedará cancelada.
 
@@ -1007,13 +1013,21 @@ I. Se declara de interés público la protección de cada integrante de la famil
 
 II. Todo individuo tiene derecho a desarrollarse y ser educado dentro de su propio ámbito familiar, bajo la custodia y cuidado conjunto de sus progenitores;
 
-III. Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, de manera que no se afecten su sano desarrollo individual ni su plena incorporación al núcleo social;
+Cada progenitor debe procurar el respeto y el acercamiento constante de las y los menores con el otro ascendiente, por lo que cada uno de los ascendientes deberá evitar, en todo momento, cualquier acto de manipulación, aleccionamiento o alienación parental, entendiéndose esta última como la inducción que un progenitor realiza hacia sus hijas o hijos, mediante la desaprobación, la manipulación psicológica, distintas estrategias o crítica tendiente a obtener la denigración exagerada y/o injustificada del otro progenitor, para obstaculizar o destruir sus vínculos y producir en la o el menor, rechazo, rencor, antipatía, desagrado, odio, desprecio o temor hacia éste. *[Nota: Párrafo adicionado el 24/ene/2020.]*
 
-IV. Todas las personas están obligadas a evitar las conductas que generen violencia familiar, entendiéndose por ésta, la agresión física o moral, así como la omisión, que de manera intencional, individual, o reiterada, se ejercita en contra de un miembro de la familia por el cónyuge, la cónyuge, concubino, concubina, pariente consanguíneo en la línea recta sin limitación de grado; pariente colateral consanguíneo o por afinidad, hasta el cuarto grado; adoptado, adoptante; madrastra, padrastro; hijastra, hijastro; pupilo, pupila; curador, curadora, tutor o tutora; o persona que habite el mismo domicilio o con el cual hay tenido algún vínculo familiar o afrectivo, con afectación a la integridad física, psicoemocional, sexual o cualquiera de éstas, independientemente de que pueda producir afectación orgánica.
+III. Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, así como su orientación sexual y, en su caso, su identidad de género autopercibida, de manera que no se afecten su sano desarrollo individual ni su plena incorporación al núcleo social; *[Nota: Fracción reformada el 26/mar/2021.]*
+
+IV. Todas las personas están obligadas a evitar las conductas que generen violencia familiar, entendiéndose por ésta, la agresión física o moral, así como la omisión, que de manera intencional, individual, o reiterada, se ejercita en contra de un miembro de la familia por el cónyuge, la cónyuge, concubino, concubina, pariente consanguíneo en la línea recta sin limitación de grado; pariente colateral consanguíneo o por afinidad, hasta el cuarto grado; adoptado, adoptante; madrastra, padrastro; hijastra, hijastro; pupilo, pupila; curador, curadora, tutor o tutora; o persona que habite el mismo domicilio o con el cual haya tenido algún vínculo familiar o afectivo, con afectación a la integridad física, psicoemocional, sexual o cualquiera de éstas, independientemente de que pueda producir afectación orgánica. *[Nota: Fracción reformada el 3/ago/2022.]*
 
 Por violencia contra las mujeres en el ámbito familiar se entiende el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, ejercida por cualquier persona que tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una situación de hecho. *[Nota: Fracción reformada el 26/nov/2007; el 24/mar/2010 y el 20/sep/2016.]*
 
-En estos casos, la autoridad competente podrá emitir los actos de protección y de urgente aplicación de manera precautoria o cautelar, en función del interés superior de la víctima. *[Nota: Parrafo adicionado el 20/sep/2016.]* Las órdenes de protección se emitirán de conformidad con la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla y demás legislación aplicable. *[Nota: Parrafo adicionado el 20/sep/2016.]*
+Como violencia contra las mujeres en el ámbito familiar, se contempla la violencia vicaria, entendida como todo acto u omisión intencional, con el objeto de causar daño a la víctima a través del perjuicio, maltrato, descuido y/o manipulación de las hijas y los hijos; así como el daño o menoscabo del vínculo filial con la víctima. Es una manifestación de violencia por parte de quien mantiene o mantuvo una relación afectiva o sentimental de pareja con la víctima, que por sí o por interpósita persona, utiliza a las hijas y los hijos de la víctima como instrumento para causarle daño. *[Nota: Fracción adicionada el 3/ago/2022.]*
+
+Se considera como violencia vicaria equiparada la que se realice hacia un, ascendiente directo por consanguinidad o afinidad hasta el tercer grado, dependiente económico de la víctima, o un adulto mayor que se encuentre al cuidado de la víctima. *[Nota: Fracción adicionada el 3/ago/2022.]* Para efectos de la violencia vicaria se entenderá como víctima a la mujer, en términos de la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla. *[Nota: Fracción adicionada el 3/ago/2022.]*
+
+En estos casos, la autoridad competente podrá emitir los actos de protección y de urgente aplicación de manera precautoria o cautelar, en función del interés superior de la víctima. *[Nota: Parrafo adicionado el 20/sep/2016.]*
+
+Las órdenes de protección se emitirán de conformidad con la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla y demás legislación aplicable. *[Nota: Parrafo adicionado el 20/sep/2016.]*
 
 Los integrantes de la familia que incurran en violencia familiar, deberán reparar los daños y perjuicios que se ocasionen con dicha conducta, con autonomía de otro tipo de sanciones que éste y otros ordenamientos legales establezcan. *[Nota: Parrafo adicionado el 20/sep/2016.]*
 
@@ -1033,7 +1047,9 @@ Cuando en este Código se hable del ''Juez'', para imponerle deberes o concederl
 
 **Artículo 293.** Los negocios familiares se resolverán atendiendo preferentemente al interés de los menores o mayores incapaces o discapacitados, si los hubiere en la familia de que se trate; en caso contrario se atenderá al interés de la familia misma y por último al de los mayores de edad capaces que formen parte de ella. *[Nota: Artículo reformado el 14/sep/1998.]*
 
-**Artículo 294.** El matrimonio es un contrato civil, por el cual un sólo hombre y una sola mujer, se unen en sociedad para perpetuar la especie y ayudarse en la lucha por la existencia.
+Para garantizar el derecho fundamental de igualdad, los jueces deberán identificar situaciones de poder o de género que provoquen un desequilibrio entre las partes; así como cuestionar la neutralidad del derecho aplicable, observando los estándares establecidos en materia de derechos humanos. *[Nota: Parrafo adicionado el 14/sep/2017.]*
+
+**Artículo 294.** *[Nota: Artículo reformado el 6/dic/2019 y el 10/nov/2020.]* El matrimonio es un contrato civil por el cual dos personas se unen voluntariamente en sociedad, para llevar una vida en común, con respeto, ayuda mutua e igualdad de derechos y obligaciones.
 
 **Artículo 295.** La Ley no reconoce esponsales de futuro.
 
@@ -1043,11 +1059,11 @@ Cuando en este Código se hable del ''Juez'', para imponerle deberes o concederl
 
 **Artículo 296.** *[Nota: Artículo reformado el 14/sep/1998.]* La celebración del matrimonio es un acto solemne que debe realizarse ante el funcionario que establece la Ley y con las formalidades que la misma exige.
 
-**Artículo 297.** *[Nota: Artículo reformado el 14/sep/1998.]* El concubinato es la unión de hecho entre un solo hombre y una sola mujer, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala y hacen vida en común de manera notoria y permanente, situación que sólo podrá demostrarse si han procreado hijos o han vivido públicamente como marido y mujer durante más de dos años continuos.
+**Artículo 297.** *[Nota: Artículo reformado el 14/sep/1998 y el 10/nov/2020.]* El concubinato es la unión voluntaria y de hecho entre dos personas, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala, haciendo vida en común de manera notoria y permanente, situación que podrá demostrarse si tienen hijas o hijos en común, o si han cohabitado públicamente como cónyuges durante más de dos años continuos.
 
 **Artículo 298.** *[Nota: Artículo reformado el 14/sep/1998.]* Son aplicables al concubinato las siguientes disposiciones:
 
-I. El concubino y la concubina se deben mutuamente alimentos en los mismos casos, términos y proporciones que la Ley señala para los cónyuges, mientras perdure su unión;
+I. Los concubinos se deben mutuamente alimentos, en los mismos casos, términos y proporciones que la Ley señala para los cónyuges, mientras perdure su unión; *[Nota: Fracción reformada el 10/nov/2020.]*
 
 II. El concubinato termina por muerte de uno de los concubinos, por voluntad de uno o ambos, o por cualquier otra causa que implique la cesación de la vida en común;
 
@@ -1073,9 +1089,9 @@ VI. El delito de homicidio, consumado o intentado, cometido contra uno de los c�
 
 VII. La fuerza o miedo graves;
 
-VIII. El alcoholismo crónico, la impotencia física incurable para entrar en el estado matrimonial o cualquier enfermedad que sea además contagiosa y hereditaria;
+VIII. El alcoholismo crónico, o cualquier enfermedad que sea además contagiosa y hereditaria excepto en caso de que los pretendientes manifiesten tener conocimiento de tales circunstancias y expresen su consentimiento de forma libre, clara, indubitable y por escrito para contraer matrimonio durante la diligencia de presentación ante el Juez del Registro Civil; *[Nota: Fracción reformada el 27/jul/2023.]*
 
-IX. El uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquier otra substancia que altere la conducta y produzca farmacodependencia;
+IX. El uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquier otra substancia que altere la conducta y produzca farmacodependencia, excepto en caso de que los pretendientes manifiesten tener conocimiento de tales circunstancias, expresen su consentimiento de forma libre, clara, indubitable y por escrito para contraer matrimonio durante la diligencia de presentación ante el Juez del Registro Civil; *[Nota: Fracción reformada el 27/jul/2023.]*
 
 X.- El vínculo de un matrimonio anterior subsistente al tiempo en que se pretenda contraer otro; *[Nota: Fracción reformada el 20/sep/2016.]*
 
@@ -1085,7 +1101,9 @@ XII.- La locura. *[Nota: Fracción adicionada el 20/sep/2016.]*
 
 De estos impedimentos, sólo es dispensable el parentesco por consanguinidad en línea colateral desigual. *[Nota: Párrafo reformado el 28/mar/2016.]*
 
-**Artículo 300.** *[Nota: Artículo reformado el 28/mar/2016.]* No pueden contraer matrimonio el hombre y la mujer, antes de cumplir dieciocho años de edad.
+**Artículo 300.** *[Nota: Artículo reformado el 21/dic/1990, el 28/mar/2016 y el 10/nov/2020.]* No pueden contraer matrimonio las personas, antes de cumplir dieciocho años de edad.
+
+**Artículo 300 Bis.** *[Nota: Artículo adicionado el 5/dic/2023.]* En las solicitudes de matrimonio, el o la juez del Registro Civil hará del conocimiento si alguno de los contrayentes se encuentra inscrito en el Registro Nacional de Obligaciones Alimentarias, mencionando la situación que guardan respecto de las obligaciones que tiene.
 
 **Artículo 301.** *[Nota: Artículo derogado el 28/mar/2016.]* Se deroga.
 
@@ -1119,7 +1137,7 @@ De estos impedimentos, sólo es dispensable el parentesco por consanguinidad en 
 
 **Artículo 315.** Cualquier convenio contrario a la ayuda mutua que se deben los cónyuges se tendrá por no puesto, ya se haya pactado antes de celebrarse el matrimonio, en el momento de su celebración o después de ésta.
 
-**Artículo 316.** Cualquier pacto contrario a la perpetuación de la especie será ilícito, si se convino antes o en el momento de celebrar el matrimonio.
+**Artículo 316.** *[Nota: Artículo derogado el 6/dic/2019.]* Se deroga.
 
 **Artículo 317.** Los cónyuges pueden, después de celebrado el matrimonio y de común acuerdo, planificar el número de hijos que procrearán y la diferencia de edades entre estos.
 
@@ -1165,6 +1183,10 @@ VI. El cónyuge que deba separarse del domicilio familiar informará al Juez, el
 
 VII. Si los cónyuges no ejercen patria potestad sobre ningún descendiente, o los descendientes sobre quienes la ejerzan son mayores de catorce años, la autorización para separarse del domicilio conyugal al consorte que intente demandar al otro, o denunciar en su contra la comisión de un delito, se tramitará como disponga el Código de Procedimientos Civiles.
 
+VIII. Tratándose de matrimonios entre personas del mismo sexo, y de no existir común acuerdo, el Juez podrá designar al cónyuge que le corresponderá el uso del domicilio conyugal, previa audiencia y analizando las particularidades de cada caso.
+
+Al efecto, se estará a lo dispuesto dentro del presente artículo y del similar 635, en todo lo que aplique y no contravenga las disposiciones y condiciones legales existentes. *[Nota: Fracción adicionada el 10/nov/2020.]*
+
 **Artículo 322.** *[Nota: Artículo reformado el 13/dic/2004.]* El que intente demandar, denunciar o querellarse contra su cónyuge, concubino o pariente, podrá acudir al Centro Estatal de Mediación o ante el Juez para llamar a las partes, y tratar de dirimir la controversia.
 
 El mediador exhortará a las partes a buscar alternativas de solución que mejor convenga al interés de los menores, a fin de que por convenio entre los progenitores, se resuelve lo relativo a su guarda y custodia, y al derecho de convivencia que corresponda al ascendiente que no conserve la custodia.
@@ -1203,13 +1225,13 @@ V. A la administración o disposición de los bienes que sean comunes a los cón
 
 #### SECCIÓN PRIMERA REGLAS GENERALES
 
-**Artículo 330.** El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite uno de ellos la autorización del otro.
+**Artículo 330.** *[Nota: Artículo reformado el 10/nov/2020.]* Los cónyuges, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite uno de ellos la autorización del otro.
 
 **Artículo 331.** El Artículo anterior se aplicará, salvo lo dispuesto por este Código sobre sociedad conyugal o lo que se estipule en las capitulaciones sobre administración de los bienes.
 
 **Artículo 332.** *[Nota: Artículo derogado el 28/mar/2016.]* Se deroga.
 
-**Artículo 333.** El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+**Artículo 333.** *[Nota: Artículo reformado el 10/nov/2020.]* Los cónyuges, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
 **Artículo 334.** *[Nota: Artículo derogado el 28/mar/2016.]* Se deroga.
 
@@ -1439,7 +1461,7 @@ IV. Si hubiere de ejecutarse simultáneamente la liquidación de dos o más matr
 
 **Artículo 385.** Las donaciones antenupciales no podrán ser revocadas por sobrevenir hijos al donante, ni por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos cónyuges y que los dos sean ingratos.
 
-**Artículo 386.** Las donaciones antenupciales son revocables por adulterio o abandono injustificado del domicilio familiar por parte del donatario, cuando el donante fuere el otro cónyuge.
+**Artículo 386.** *[Nota: Artículo reformado el 6/dic/2019.]* Las donaciones antenupciales son revocables por abandono injustificado del domicilio familiar por parte del donatario, cuando el donante fuere el otro cónyuge.
 
 **Artículo 387.** Los menores pueden hacer donaciones antenupciales, con intervención de sus padres o tutores, o con aprobación judicial.
 
@@ -1499,13 +1521,13 @@ IV. Cuando se celebra subsistiendo el matrimonio anterior de uno de los contraye
 
 **Artículo 402.** Hay nulidad relativa del matrimonio:
 
-I. Cuando se haya celebrado concurriendo alguno de los impedimentos enumerados en las fracciones I, II, V a IX y XI del artículo 298; y,
+I. Cuando se haya celebrado concurriendo alguno de los impedimentos enumerados en las fracciones I, II, V a IX y XI del artículo 299; y *[Nota: Fracción reformada el 27/jul/2023.]*
 
 II. Cuando se haya celebrado sin observar las formalidades establecidas en los artículos 906 y 907, fracción VII;
 
 III. En caso de error, cuando ésta sea esencialmente sobre la persona.
 
-**Artículo 403.** *[Nota: Artículo reformado el 28/mar/2016.]* La nulidad fundada en la edad menor de dieciocho años en el hombre y la mujer, puede ser demandada por los ascendientes y a falta de éstos, por quien desempeñaba la tutela o por el tutor que al efecto se nombre.
+**Artículo 403.** *[Nota: Artículo reformado el 21/dic/1990, el 28/mar/2016 y el 10/nov/2020.]* La nulidad fundada en la edad menor de dieciocho años de cualquiera de los contrayentes, puede ser demandada por los ascendientes y a falta de éstos, por quien desempeñaba la tutela o por el tutor que al efecto se nombre.
 
 **Artículo 404.** La acción a que se refiere el artículo anterior cesa:
 
@@ -1527,7 +1549,7 @@ III. Cuando antes de concluir el juicio de nulidad por sentencia irrevocable la 
 
 **Artículo 410.** El parentesco por consanguinidad no dispensado anula el matrimonio y la acción que nace de esta causa de nulidad puede deducirse por los ascendientes de los cónyuges, dentro de los siguientes sesenta días a la celebración del matrimonio; pero éste quedará revalidado y surtirá efectos desde el día de su celebración, si antes de causar ejecutoria la sentencia que declare la nulidad, se obtuviere la dispensa.
 
-**Artículo 411.** La acción de nulidad que nace de la causa que se señala en la fracción VI del artículo 298, puede ser deducida por los hijos del cónyuge víctima del delito y por el Ministerio Público dentro de tres meses contados desde que se celebró el nuevo matrimonio.
+**Artículo 411.** *[Nota: Artículo reformado el 27/jul/2023.]* La acción de nulidad que nace de la causa que se señala en la fracción VI del artículo 299, puede ser deducida por los hijos del cónyuge víctima del delito y por el Ministerio Público dentro de tres meses contados desde que se celebró el nuevo matrimonio.
 
 **Artículo 412.** El miedo y la fuerza serán causa de nulidad si concurren las circunstancias siguientes:
 
@@ -1539,7 +1561,7 @@ III. Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
 **Artículo 413.** La acción de nulidad que nace del miedo y de la fuerza, sólo puede deducirse por el cónyuge agraviado y dentro de sesenta días contados desde la fecha del matrimonio.
 
-**Artículo 414.** La nulidad que se funde en alguna de las causas enumeradas en las fracciones VIII y IX del artículo 298, sólo puede ser pedida por los cónyuges, dentro de sesenta días contados desde que se celebró el matrimonio.
+**Artículo 414.** *[Nota: Artículo reformado el 27/jul/2023.]* La nulidad que se funde en alguna de las causas enumeradas en las fracciones VIII y IX del artículo 299, sólo puede ser pedida por los cónyuges, dentro de sesenta días contados desde que se celebró el matrimonio
 
 **Artículo 415.** La nulidad por la causa a que se refiere la fracción XI del artículo 298 puede pedirse en todo tiempo, si continúa la locura, por el cónyuge capaz, por quien desempeñaba la tutela del incapaz o por el tutor que para tal efecto se le nombrará.
 
@@ -1547,9 +1569,9 @@ III. Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
 #### SECCIÓN CUARTA EFECTOS DE LA DECLARACIÓN DE NULIDAD DEL MATRIMONIO
 
-**Artículo 417.** *[Nota: Artículo reformado el 22/ene/2010]* Ejecutoriada la sentencia que declare la nulidad, el Juez efectuará de oficio lo indicado en el artículo 841 del presente Código.
+**Artículo 417.** *[Nota: Artículo reformado el 22/ene/2010.]* Ejecutoriada la sentencia que declare la nulidad, el Juez efectuará de oficio lo indicado en el artículo 841 del presente Código.
 
-**Artículo 418.** *[Nota: Artículo reformado el 22/ene/2010]* Los funcionarios del Registro Civil, al margen del acta de matrimonio pondrán una nota circunstanciada en la que consten los puntos resolutivos de la sentencia, su fecha y el Juez que la pronunció.
+**Artículo 418.** *[Nota: Artículo reformado el 22/ene/2010.]* Los funcionarios del Registro Civil, al margen del acta de matrimonio pondrán una nota circunstanciada en la que consten los puntos resolutivos de la sentencia, su fecha y el Juez que la pronunció.
 
 **Artículo 419.** El matrimonio declarado nulo produce, en todo tiempo, sus efectos civiles en favor de los hijos de ambos cónyuges nacidos antes de su celebración, durante él y dentro de trescientos días siguientes a la declaración de nulidad, o a la fecha en que se haya ordenado y ejecutado la separación de los cónyuges.
 
@@ -1661,7 +1683,7 @@ II. Si el divorcio es declarado por el Notario, se remitirá copia de la declara
 
 #### SECCIÓN TERCERA DIVORCIO INCAUSADO *[Nota: Denominación reformada el 17/mar/2016.]*
 
-**Artículo 442.** *[Nota: Artículo reformado el 17/mar/2016.]* El divorcio incausado podrá solicitarse por cualquiera de los cónyuges o por ambos, ante Juez de lo Familiar competente, con la sola manifestación de la voluntad de no querer continuar con el matrimonio, sin ser necesario señalar la causa por la que lo solicita, siempre que haya transcurrido un año de haberse celebrado el matrimonio.
+**Artículo 442.** *[Nota: Artículo reformado el 17 de marzo de 2016 y el 14/sep/2017.]* El divorcio incausado podrá solicitarse por cualquiera de los cónyuges o por ambos, ante Juez de lo Familiar competente, con la sola manifestación de la voluntad de no querer continuar con el matrimonio, sin ser necesario señalar la causa por la que lo solicita.
 
 **Artículo 443.** *[Nota: Artículo reformado el 27/abril/1990.]* El cónyuge que unilateralmente desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos: *[Nota: Párrafo reformado el 17/mar/2016.]*
 
@@ -1716,6 +1738,8 @@ II.- Poner a los hijos al cuidado de la persona que de común acuerdo designen l
 En defecto de ese acuerdo; el Juez de lo Familiar resolverá conforme al Código de Procedimientos Civiles, tomando en cuenta la opinión del menor de edad.
 
 Los menores de doce años deberán quedar al cuidado de la madre, excepto en los casos en los que exista peligro grave para el normal desarrollo de los hijos. No será obstáculo para la preferencia de la madre, el hecho de que ésta carezca de recursos económicos;
+
+Con relación a lo dispuesto en el párrafo anterior y tratándose de parejas del mismo sexo, el juez considerará la fuente del parentesco con respecto al menor, además de su opinión y beneficio; *[Nota: Párrafo adicionado el 10/nov/2020.]*
 
 III.- El Juez de lo Familiar resolverá teniendo presente el interés superior de los hijos, quienes serán escuchados, respecto de las modalidades del derecho de visita o convivencia con sus padres;
 
@@ -1773,45 +1797,45 @@ En la resolución se fijarán las bases para actualizar la pensión y las garant
 
 **Artículo 457.** *[Nota: Artículo reformado el 17/mar/2016.]* Ejecutoriada una sentencia de divorcio, el Juez de lo Familiar, bajo su más estricta responsabilidad, remitirá copia de ella al Juez del Registro Civil ante quien se celebró el matrimonio, para que realice la anotación correspondiente en la del matrimonio disuelto.
 
-**Artículo 458.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 458.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 459.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 459.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 460.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 460.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 461.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 461.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 462.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 462.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 463.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 463.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 464.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 464.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 465.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 465.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 466.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 466.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 467.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 467.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 468.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 468.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 469.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 469.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 470.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 470.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 471.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 471.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 472.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 472.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
 #### SECCIÓN QUINTA
 
 Se deroga *[Nota: Denominación derogada el 17/mar/2016.]*
 
-**Artículo 473.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 473.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 474.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 474.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
-**Artículo 475.** *[Nota: Artículo derogado el 17/mar/2016.]* Se derogan.
+**Artículo 475.** *[Nota: Artículo derogado el 17/mar/2016.]* Se deroga.
 
 ### CAPITULO VI PARENTESCO
 
@@ -1821,7 +1845,7 @@ Se deroga *[Nota: Denominación derogada el 17/mar/2016.]*
 
 **Artículo 477-Bis.** *[Nota: Artículo adicionado el 13/dic/2004.]* También existirá parentesco por consanguinidad entre el hijo producto de la reproducción asistida y los cónyuges o concubinos que hayan procurado el nacimiento, para atribuirse el carácter de progenitor o progenitores.
 
-**Artículo 478.** *[Nota: Artículo reformado el 14/sep/1998.]* Afinidad es el parentesco que se contrae por el matrimonio o el concubinato, entre el hombre y los parientes de la mujer, o entre ésta y los parientes del hombre.
+**Artículo 478.** *[Nota: Artículo reformado el 14/sep/1998 y el 10/nov/2020.]* Afinidad es el parentesco que se contrae por el matrimonio o el concubinato, entre los cónyuges o concubinos y los parientes del otro.
 
 **Artículo 479.** El parentesco civil es el que nace de la adopción.
 
@@ -1867,9 +1891,9 @@ Además, los alimentos comprenderán la atención médica y hospitalaria del emb
 
 **Artículo 498.** *[Nota: Artículo reformado el 14/sep/1998.]* Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria y secundaria del alimentista, y para proporcionarle algún oficio arte o profesión, que resulte adecuado para la subsistencia del deudor alimentario.
 
-**Artículo 499.** Los descendientes que al adquirir la mayoría de edad estén estudiando una carrera, tienen derecho a recibir alimentos, hasta que obtengan el título correspondiente, si realizan sus estudios normalmente y sin interrupción.
+**Artículo 499.** *[Nota: Artículo reformado el 14/sep/2017.]* Los hombres y las mujeres que al adquirir la mayoría de edad estén estudiando una carrera, tienen derecho a recibir alimentos hasta que obtengan el título correspondiente, si realizan sus estudios normalmente y sin interrupción.
 
-**Artículo 500.** Las hijas, aunque sean mayores de edad, tienen derecho a alimentos mientras no contraigan matrimonio, vivan honestamente y no cuenten con medios de subsistencia.
+**Artículo 500.** *[Nota: Artículo reformado el 14/sep/2017 y derogado el 6/dic/2019.]* Se deroga .
 
 **Artículo 501.** El obligado a dar alimentos cumple la obligación asignando una pensión suficiente al acreedor alimentario, o incorporándolo a su familia si en ello no hubiere grave inconveniente a juicio del Juez.
 
@@ -1901,11 +1925,7 @@ V. El Ministerio Público.
 
 **Artículo 510.** Si la necesidad del alimentista proviene de mala conducta, el Juez, con conocimiento de causa, puede disminuir la cantidad destinada a los alimentos.
 
-**Artículo 511.** Además de los casos establecidos en la ley, la obligación de dar alimentos cesa:
-
-I. Cuando el que la tiene carece de medios para cumplirla;
-
-II. Cuando el alimentista deje de necesitar los alimentos.
+**Artículo 511.** *[Nota: Artículo reformado el 6/dic/2019.]* Además de los casos establecidos en la ley, la obligación de dar alimentos cesa cuando el alimentista deje de necesitar los alimentos.
 
 **Artículo 512.** El derecho de recibir alimentos no es renunciable ni puede ser objeto de transacción.
 
@@ -1921,7 +1941,9 @@ La forma y periodicidad como deberá incrementarse la pensión alimenticia que s
 
 **Artículo 517.** En materia de alimentos, las resoluciones judiciales, provisionales o no, pueden modificarse por el Juez cualquiera que sea el juicio o procedimiento en que se hayan dictado, si cambiaren las posibilidades del deudor o las necesidades del acreedor.
 
-**Artículo 518.** Los patrones, administradores, gerentes de empresas, directores, jefes de oficinas y quienes por razón de su cargo, público o privado, puedan conocer la capacidad económica de los deudores alimentistas, están obligados a suministrar exactamente los informes que se les pida, bajo pena de multa que se impondrá a éstos por el Juez, cuyo importe será de veinte a cien días de salario mínimo, que se duplicará en caso de reincidencia.
+**Artículo 518.** *[Nota: Artículo reformado el 29/dic/2017 y el 5/dic/2023.]* Los patrones, administradores, gerentes de empresas, directores, jefes de oficinas y quienes por razón de su cargo, público o privado, puedan conocer la capacidad económica de la persona deudora alimentaria están obligados a suministrar exactamente los informes que se les pida, bajo pena de multa que se impondrá a éstos por el o la Juez, cuyo importe será del equivalente a la cantidad de veinte a cien veces el valor diario de la Unidad de Medida y Actualización, que se duplicará en caso de reincidencia.
+
+La persona deudora alimentaria deberá informar, en un máximo de quince días hábiles a la persona acreedora alimentaria, a el o la Juez, o la autoridad responsable competente cualquier cambio en su empleo, la ubicación de ésta y el puesto o cargo que desempeñará, a partir de que ocurra, a efecto de que se actualice la pensión alimenticia decretada.
 
 **Artículo 519.** Las personas a que se refiere el artículo anterior responderán, además, solidariamente con los obligados directos, de los daños y perjuicios que causen al alimentista por sus informes falsos o por sus omisiones.
 
@@ -1969,7 +1991,7 @@ III. Si a dos o más personas manifestó ser hijo suyo, el de su mujer.
 
 **Artículo 529.** Contra las presunciones establecidas por las fracciones II y III del artículo 527, no se admite otra prueba, que la de haber sido físicamente imposible al marido, tener acceso con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
 
-**Artículo 530.** El marido no podrá desconocer los hijos favorecidos por las presunciones establecidas en las fracciones II y III del artículo 52, alegando adulterio de la madre, aunque ésta declare contra la paternidad de aquél, a no ser que el nacimiento se le haya ocultado, o que estando separada del marido, viva maritalmente con otro varón y éste reconozca como suyo al hijo de aquélla.
+**Artículo 530.** *[Nota: Artículo reformado el 6/dic/2019.]* El marido no podrá desconocer a las hijas e hijos favorecidos por las presunciones establecidas en las fracciones II y III del artículo 527, alegando infidelidad de la madre, aunque ésta declare contra la paternidad de aquél, a no ser que el nacimiento se le haya ocultado, o que estando separada del marido, tenga una relación de hecho con otro hombre y éste reconozca como suyo a la hija o hijo de aquélla.
 
 **Artículo 531.** No basta el dicho de la madre para excluir de la paternidad al marido, salvo el caso previsto en la última parte del artículo anterior.
 
@@ -2081,19 +2103,15 @@ VI. Por confesión judicial.
 
 **Artículo 560.** La disposición anterior no es aplicable si el hijo tiene a su favor una de las presunciones de que habla el artículo 542.
 
-**Artículo 561.** El Juez del Registro del Estado Civil y el Notario que violen el artículo 559, pagarán una multa cuyo importe será de diez a veinte días de salario mínimo y que les impondrá la Autoridad Judicial ante quien se haga valer el reconocimiento.
+**Artículo 561.** *[Nota: Artículo reformado el 29/dic/2017.]* El Juez del Registro del Estado Civil y el Notario que violen el artículo 559, pagarán una multa del equivalente a la cantidad de diez a veinte veces el valor diario de la Unidad de Medida y Actualización y que les impondrá la Autoridad Judicial ante quien se haga valer el reconocimiento.
 
 **Artículo 562.** Si el reconocimiento no se hizo por la madre y el padre al contraer matrimonio, podrá asentarse, en el acta de reconocimiento, el nombre del otro cónyuge, como progenitor del reconocido y, en este caso, quedará probada la filiación respecto de ambos, sin perjuicio del derecho de quien no estuvo presente en el reconocimiento, para contradecir éste dentro de sesenta días a partir de la fecha que tenga conocimiento de él.
 
 **Artículo 563.** El padre puede reconocer, sin consentimiento de su esposa, a un hijo habido con persona distinta a ésta antes o durante el matrimonio.
 
-**Artículo 564.** La mujer casada puede reconocer, sin consentimiento del esposo a un hijo habido con persona distinta a éste, antes de su matrimonio.
+**Artículo 564.** *[Nota: Artículo reformado el 6/dic/2019.]* La mujer casada puede reconocer, sin consentimiento del esposo a una hija o hijo habido con persona distinta a éste, antes o durante su matrimonio.
 
-**Artículo 565.** El hijo de una mujer casada sólo podrá ser reconocido como hijo por otro hombre distinto del marido, en cualquiera de los dos casos siguientes:
-
-I. Cuando el marido lo haya desconocido y por sentencia ejecutoriada se haya declarado que no es hijo suyo.
-
-II. Cuando la madre del hijo reconocido por otro hombre distinto del marido, no viva con éste y acepte ella, como padre, a quien hizo el reconocimiento.
+**Artículo 565.** *[Nota: Artículo derogado el 6/dic/2019.]* Se deroga
 
 **Artículo 566.** El hijo mayor de edad no puede ser reconocido sin su consentimiento.
 
@@ -2147,7 +2165,7 @@ Pueden ser adoptados los menores expósitos y los que legalmente sean declarados
 
 Cuando los menores tengan más de 6 años deben ser informados ampliamente y obtener su consentimiento.
 
-**Artículo 579 Bis.** *[Nota: Artículo adicionado el 27/jun/2011]* Para que se autorice la adopción, el o los que pretendan adoptar deberán reunir las condiciones que se establecen en este Capítulo y ademas acreditar plenamente, los siguientes requisitos:
+**Artículo 579 Bis.** *[Nota: Artículo adicionado el 27/jun/2011.]* Para que se autorice la adopción la, el o los que pretendan adoptar deberán reunir las condiciones que se establecen en este Capítulo y además acreditar plenamente, los siguientes requisitos: *[Nota: Párrafo refomado el 5/dic/2023.]*
 
 I.- Que el adoptante o adoptantes tengan medios suficientes para proveer a la subsistencia y educación del adoptado;
 
@@ -2157,11 +2175,13 @@ III.- Que la adopción sea benéfica para la persona que se pretenda adoptar;
 
 IV.- Que el adoptante o adoptantes, sean idóneos para adoptar;
 
-V.- Que el adoptante o adoptantes acrediten que su estado de salud les permitirá cumplir cabalmente con sus responsabilidades de padre o de madre; y
+V.- Que la, el adoptante o adoptantes acrediten que su estado de salud les permitirá cumplir cabalmente con sus responsabilidades de padre o de madre; y *[Nota: Fracción refomada el 5/dic/2023.]* V Bis.- Que ninguno de la, el o los adoptantes se encuentren inscritos en el Registro Nacional de Obligaciones Alimentarias a que se refiere la Ley General de los Derechos de Niñas, Niños y Adolescentes; y *[Nota: Fracción adicionada el 5/dic/2023.]*
 
-VI.- Las demás que establezcan las Leyes Federales y en su caso, los Tratados Internacionales de los cuales el Estado Mexicano forme parte, en materia de Derechos Humanos, Derechos del Niño y de Adopción.
+VI.- Las demás que establezcan las Leyes Federales y en su caso, los Tratados Internacionales de los cuales el Estado Mexicano forme parte, en materia de Derechos Humanos, Derechos de las Niñas, Niños y Adolescentes. *[Nota: Fracción refomada el 5/dic/2023.]*
 
 Los requisitos que se establecen en las fracciones I, III, IV, V y VI quedarán plenamente acreditados con el dictamen técnico o certificado de idoneidad que emita el Consejo Técnico de Adopciones, dependiente del Sistema para el Desarrollo Integral de la Familia del Estado, con base en los estudios técnicos de quienes pretendan adoptar.
+
+El requisito a que se refiere la fracción V Bis, quedará plenamente acreditado con el certificado de no Inscripción en el Registro Nacional de Obligaciones Alimentarias a que hace referencia la Ley General de los Derechos de las Niñas, Niños y Adolescentes. *[Nota: Párrafo adicionado el 5/dic/2023.]*
 
 En todos los casos, se atenderá al interés superior del menor o incapaz, se considerará su origen étnico, cultural y lingüistico y se procurará dar continuidad en su educación.
 
@@ -2177,7 +2197,9 @@ En todos los casos, se atenderá al interés superior del menor o incapaz, se co
 
 **Artículo 585.** El procedimiento para la adopción será fijado en el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla. *[Nota: Párrafo reformado el 14/sep/1998 y el 27/jun/2011.]*
 
-La resolución judicial que apruebe la adopción, ordenará se proceda conforme a lo indicado en el artículo 841; asimismo, se ordenará remitir oficio al Juez del Registro Civil de su Jurisdicción para que éste, a su vez, inscriba en el Libro correspondiente la nueva acta en los términos que establece el Capítulo Décimo Tercero, Sección Segunda del Libro Segundo de este Código, para lo cual deberán comparecer el o los adoptantes proporcionando los datos necesarios dentro del término de quince dias. *[Nota: Párrafo reformado el 22/ene/2010 y el 27/jun/2011.]* El acta a que se refiere el párrafo anterior, no causará la multa que establece el artículo 875 fracción I de este Código.
+La resolución judicial que apruebe la adopción, ordenará se proceda conforme a lo indicado en el artículo 841; asimismo, se ordenará remitir oficio al Juez del Registro Civil de su Jurisdicción para que éste, a su vez, inscriba en el Libro correspondiente la nueva acta en los términos que establece el Capítulo Décimo Tercero, Sección Segunda del Libro Segundo de este Código, para lo cual deberán comparecer el o los adoptantes proporcionando los datos necesarios dentro del término de quince dias. *[Nota: Párrafo reformado el 22/ene/2010 y el 27/jun/2011.]*
+
+El acta a que se refiere el párrafo anterior, no causará la multa que establece el artículo 875 fracción I de este Código.
 
 Una vez que se haya hecho la anotación marginal al acta originaria, se reservará en secreto en el Archivo Estatal y en el Registro del Estado Civil, por lo que no se expedirá constancia alguna de ella, salvo por resolución judicial. *[Nota: Párrafo adicionado el 14/sep/1998 y reformado el 22/ene/2010.]*
 
@@ -2199,13 +2221,13 @@ Las adopciones realizadas en el Estado de Puebla y promovidas por nacionales de 
 
 En igualdad de circunstancias se dará preferencia en la adopción a mexicanos sobre extranjeros. *[Nota: Parrafo adicionado el 26/nov/2007.]*
 
-**Artículo 592.** Derogado. *[Nota: Artículo derogado el 15/dic/1992.]*
+**Artículo 592.** *[Nota: Artículo derogado el 15/dic/1992.]* Derogado.
 
-**Artículo 593.** Derogado. *[Nota: Artículo derogado el 15/dic/1992.]*
+**Artículo 593.** *[Nota: Artículo derogado el 15/dic/1992.]* Derogado.
 
-**Artículo 594.** Derogado. *[Nota: Artículo derogado el 15/dic/1992.]*
+**Artículo 594.** *[Nota: Artículo derogado el 15/dic/1992.]* Derogado.
 
-**Artículo 595.** Derogado. *[Nota: Artículo derogado el 15/dic/1992.]*
+**Artículo 595.** *[Nota: Artículo derogado el 15/dic/1992.]* Derogado.
 
 **Artículo 596.** EI Juez que apruebe la impugnación procederá conforme a lo indicado por el artículo 841 para que se asiente en el acta correspondiente. *[Nota: Artículo reformado el 15/dic/1992 y el 22/ene/2010.]*
 
@@ -2219,7 +2241,7 @@ En igualdad de circunstancias se dará preferencia en la adopción a mexicanos s
 
 **Artículo 599.** Cuando mueran el padre y la madre del menor sujeto a patria potestad el ejercicio ésta corresponde a los abuelos paternos y maternos.
 
-**Artículo 600.** Los menores sujetos a patria potestad, tendrán derecho a vivir con el ascendiente o ascendientes que la ejerzan y a convivir con su padre y con su madre, aún en el caso de que estos no vivan juntos, por lo que el Juez deberá tomar siempre las medidas necesarias para proteger los derechos de convivencia. *[Nota: Artículo reformado el 14/sep/1998]*
+**Artículo 600.** Los menores sujetos a patria potestad, tendrán derecho a vivir con el ascendiente o ascendientes que la ejerzan y a convivir con su padre y con su madre, aún en el caso de que estos no vivan juntos, por lo que el Juez deberá tomar siempre las medidas necesarias para proteger los derechos de convivencia. *[Nota: Artículo reformado el 14/sep/1998.]*
 
 **Artículo 601.** Mientras el menor esté sujeto a patria potestad no podrá dejar el domicilio familiar sin permiso de quién o quiénes ejercen aquélla.
 
@@ -2229,17 +2251,17 @@ I. Cuando la adopción se hizo por un matrimonio, ambos cónyuges conjuntamente 
 
 II. Si el hijo sólo fue adoptado por una persona, a ésta corresponde ejercer la patria potestad.
 
-III. En la adopción, la patria potestad se ejercerá por el o los adoptantes y a falta de estos por sus ascendientes en los términos señalados en este Código para los hijos consanguíneos. *[Nota: Fracción adicionada el 15/dic/1992]*
+III. En la adopción, la patria potestad se ejercerá por el o los adoptantes y a falta de estos por sus ascendientes en los términos señalados en este Código para los hijos consanguíneos. *[Nota: Fracción adicionada el 15/dic/1992.]*
 
 **Artículo 603.** Cuando los dos progenitores reconocieron a un hijo, ejercerán ambos la patria potestad.
 
 **Artículo 604.** En el caso del artículo anterior, si los progenitores viven separados se observará en cuanto a la guarda y habitación del hijo, lo que disponen los artículos 569 y 570, pero cuando por cualquiera circunstancia cese de tener la guarda del hijo el ascendiente a quien correspondía y deje aquél de habitar con éste, se encargará del hijo el otro ascendiente y con éste habitará aquél.
 
-**Artículo 605.** Si se separan los padres que vivían juntos al hacer el reconocimiento, ambos deberán continuar en el cumplimiento de sus deberes y convendrán quién de los dos se encargará de la custodia y guarda del o de los hijos, y si no se ponen de acuerdo sobre este punto, se observará lo que disponen los artículos 635 y 636 de este Código. *[Nota: Artículo reformado el 14/sep/1998]*
+**Artículo 605.** Si se separan los padres que vivían juntos al hacer el reconocimiento, ambos deberán continuar en el cumplimiento de sus deberes y convendrán quién de los dos se encargará de la custodia y guarda del o de los hijos, y si no se ponen de acuerdo sobre este punto, se observará lo que disponen los artículos 635 y 636 de este Código. *[Nota: Artículo reformado el 14/sep/1998.]*
 
 **Artículo 605.** bis
 
-Quienes ejercen la patria potestad, aún cuando no tengan la custodia o guarda, conservan los derechos de vigilancia y convivencia con sus descendientes, salvo que la autoridad judicial suspenda o extinga esos derechos, por considerar que existe peligro para los menores. *[Nota: Artículo adicionado el 14/sep/1998]*
+Quienes ejercen la patria potestad, aún cuando no tengan la custodia o guarda, conservan los derechos de vigilancia y convivencia con sus descendientes, salvo que la autoridad judicial suspenda o extinga esos derechos, por considerar que existe peligro para los menores. *[Nota: Artículo adicionado el 14/sep/1998.]*
 
 **Artículo 606.** Solamente por falta o impedimento del padre y de la madre, la patria potestad corresponde al abuelo y a la abuela, paternos y maternos.
 
@@ -2255,7 +2277,7 @@ IV. Si el abuelo o abuela por una de las líneas es viudo o casado en segundas n
 
 V. Si la patria potestad se defiere por convenio o por resolución judicial a los abuelos por una línea, a falta o por impedimento de éstos, corresponderá ejercerla a los de la otra línea.
 
-**Artículo 608.** *[Nota: Artículo reformado el 30/dic/2016.]* Las personas que tienen al menor bajo su patria potestad o su custodia, deberán proporcionar a éste educación con la facultad de corregirlo de una manera prudente y moderada, y abstenerse de ejercer cualquier tipo de violencia en su contra, en específico castigo corporal; así como la obligación de observar una conducta que le sirva de buen ejemplo.
+**Artículo 608.** *[Nota: Artículo reformado el 30/dic/2016.]* Las personas que tengan a la niña, niño o adolescentes bajo su patria potestad o custodia, deberán proporcionarle educación con la facultad de corregirlo de una manera prudente y moderada, quedando prohibido ejercer cualquier tipo de violencia en su contra, en específico castigo corporal o humillante; así como la obligación de observar una conducta que le sirva de buen ejemplo. *[Nota: Parrafo adicionado el 28/jul/2026]*
 
 La facultad de corregir no implica infligir al menor actos de fuerza u omisiones, que atenten contra su integridad física o psíquica en términos de lo dispuesto por el artículo 291 de este Código, y las normas aplicables en materia de Niñas, Niños y Adolescentes.
 
@@ -2327,13 +2349,17 @@ b) El resto se invierta en la adquisición de un inmueble o en una Sociedad Naci
 
 I. Por muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II. Por emancipación del menor:
+II. Por emancipación del menor; *[Nota: Fracción reformada el 1/mar/2021.]*
 
-III. Por llegar a la mayoría el que estuvo sujeten a ella.
+III. Por llegar a la mayoría de edad el que estuvo sujeta a ella, y *[Nota: Fracción reformada el 1/mar/2021 y el 8/mar/2023.]*
+
+IV. Por violencia familiar reiterada. *[Nota: Fracción adiconada el 1/mar/2021.]*
 
 **Artículo 628.** Los derechos de la patria potestad que se confieren a quien o a quienes la ejercen, se pierden: *[Nota: Párrafo reformado el 13/dic/2004.]*
 
 I. Cuando el que la ejerza cometa algún delito grave o intencional contra el menor;
+
+I Bis. Cuando el titular de ella sea condenado por delito de feminicidio en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad; *[Nota: Fracción adicionada el 8/mar/2023.]*
 
 II. Cuando el titular de ella sea condenado por delito intencional, a una pena de prisión inconmutable:
 
@@ -2353,11 +2379,11 @@ V. En los casos de divorcio, cuando la ley lo establece.
 
 VI. Por el cumplimiento parcial o insuficiente de la obligación alimentaria sin causa justificada por más de noventa días; y *[Nota: Fracción adicionada el 26/nov/2007.]*
 
-VII. Con la resolución que determine la adopción del menor. *[Nota: Fracción adicionada el 27/jun/2011]*
+VII. Con la resolución que determine la adopción del menor. *[Nota: Fracción adicionada el 27/jun/2011.]*
 
 **Artículo 629.** La pérdida de los derechos a que se refiere el artículo anterior se decretará:
 
-I. En el caso de la fracción I, en la sentencia que termine el proceso respectivo, mandándose suspender entre tanto la patria potestad;
+I. En el caso de las fracciones I y I Bis en la sentencia que termine el proceso respectivo, mandándose suspender entre tanto la patria potestad; *[Nota: Fracción reformada el 8/mar/2023.]*
 
 II. En los casos de las fracciones II a IV, en la sentencia del juicio civil que se siga especialmente al efecto;
 
@@ -2365,7 +2391,7 @@ III. En el caso de la fracción V, en la sentencia del juicio de divorcio;
 
 IV. En el caso de la fracción VI, cuando el Juez verifique que efectivamente no se ha cubierto su monto total por más de noventa días y que a su prudente arbitrio no exista una causa justificada para ello;
 
-V. En el caso de la fracción VII con la resolución que decrete la adopción. *[Nota: Fracción adicionada el 27/jun/2011]*
+V. En el caso de la fracción VII con la resolución que decrete la adopción. *[Nota: Fracción adicionada el 27/jun/2011.]*
 
 **Artículo 630.** La pérdida de derechos, reglamentada en los dos artículos anteriores, no extingue los deberes que la patria potestad impone, en cuanto su cumplimiento no se oponga a esta pérdida, a juicio del Juez.
 
@@ -2379,11 +2405,19 @@ I. Por incapacidad declarada judicialmente;
 
 II. Por la ausencia declarada en forma;
 
-III. Por sentencia condenatoria que imponga como pena esta suspensión, y *[Nota: Fracción reformada el 14/sep/1998.]*
+III. Por sentencia condenatoria que imponga como pena esta suspensión; *[Nota: Fracción reformada el 14/sep/1998 y el 8/mar/2023.]*
 
-IV. Por incurrir en conductas de violencia familiar previstas en el artículo 291 de este Código, que no impliquen la comisión de algún delito en contra de las personas sobre las cuales la ejerza. *[Nota: Fracción adicionada el 14/sep/1998.]*
+IV. Por incurrir en conductas de violencia familiar previstas en el artículo 291 de este Código, que no impliquen la comisión de algún delito en contra de las personas sobre las cuales la ejerza, y *[Nota: Fracción adicionada el 14/sep/1998 y el 8/mar/2023.]*
 
-**Artículo 634.** El Juez puede en beneficio de los menores modificar el ejercicio de la patria potestad o custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos, cuando quien la ejerce realice conductas reiteradas para evitar la convivencia de los menores con la persona o personas que tengan reconocido judicialmente su derecho a la misma. *[Nota: Párrafo reformado el 13/dic/2004.]*
+V. Por auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad. *[Nota: Fracción adicionada el 8/mar/2023.]*
+
+**Artículo 634.** El Juez puede en beneficio de las niñas, niños y adolescentes modificar el ejercicio de la patria potestad, guarda y custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos, en los siguientes casos. *[Nota: Párrafo reformado el 13/dic/2004, el 3/ago/2022 y el 8/mar/2023.]*
+
+I. Cuando quien la ejerce realice conductas reiteradas para evitar la convivencia de las niñas, niños y adolescentes con la persona o personas que tengan reconocido judicialmente su derecho a la misma; y *[Nota: Fracción adicionada el 3/ago/2022.]*
+
+II. Cuando se acredite que las niñas, niños y adolescentes han sido víctimas indirectas de violencia vicaria. *[Nota: Fracción adicionada el 3/ago/2022.]*
+
+III. Cuando exista auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad. *[Nota: Fracción adicionada el 8/mar/2023.]*
 
 **Artículo 635.** La ley reconoce el derecho de convivencia que tienen los menores con sus padres y con las familias de ambos. La convivencia permite el conocimiento directo de los menores con sus ascendientes y demás parientes, a fin de lograr su integración al núcleo familiar y obtener la identidad plena de los menores en el grupo social a que pertenece. *[Nota: Párrafo reformado el 13/dic/2004.]*
 
@@ -2393,9 +2427,7 @@ Cuando conforme a este Código deba hacerse cargo provisional o definitivamente 
 
 I. El padre y la madre convendrán quién de ellos ejercerá la guarda, poniendo a los hijos a cuidado de la persona que de común acuerdo hubieren designado los cónyuges, debiendo ser uno de éstos y pudiéndose compartir la custodia, en los tiempos libres de los menores, al otro que no tenga dicha custodia. Las obligaciones de formación cultural y educativa, corresponde a ambos padres, quienes podrán acordar formas de colaboración para alcanzar dicho objetivo; *[Nota: Fracción reformada el 13/dic/2004.]*
 
-II. Si los padres no llegaran a ningún acuerdo, el Juez de lo familiar resolverá lo conducente, previo el procedimiento que fije el Código Procesal, tomando en cuenta la opinión del menor. *[Nota: Fracción reformada el 13/dic/2004.]*
-
-Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos, y
+II. Si los padres no llegaran a ningún acuerdo, el Juez de lo familiar resolverá lo conducente, previo el procedimiento que fije el Código Procesal, tomando en cuenta la opinión del menor. *[Nota: Fracción reformada el 13/dic/2004.]* Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre. No será obstáculo para la preferencia maternal en la custodia, el hecho de que la madre carezca de recursos económicos, y
 
 III. En caso de divorcio necesario se estará a lo que disponga la sentencia que lo decrete.
 
@@ -2403,11 +2435,11 @@ III. En caso de divorcio necesario se estará a lo que disponga la sentencia que
 
 Los parientes a los que por cualquier circunstancia se otorgue la custodia o guarda de un menor, tendrán las obligaciones, facultades y restricciones establecidas para los tutores. La guarda a que se refiere este artículo podrá terminar por resolución judicial, en la que se resuelva nuevamente quién o quiénes deberán hacerse cargo del menor.
 
-**Artículo 637.** No podrán impedirse, sin justa causa, las relaciones personales ni la convivencia entre el menor y sus parientes, ni siquiera cuando la patria potestad o la guarda corresponda a uno de ellos, por lo que en caso de oposición a la solicitud de cualquiera de ellos o incumplimiento del convenio en que las partes hubieren fijado el tiempo, modo y lugar para que los ascendientes que no tengan la guarda del menor lo visiten y convivan con él, el Juez de lo Familiar resolverá lo conducente, en atención al interés superior del menor. *[Nota: Artículo reformado el 14/sep/1998.]*
+**Artículo 637.** No podrán impedirse, sin justa causa, las relaciones personales ni la convivencia entre el menor y sus parientes, ni siquiera cuando la patria potestad o la guarda corresponda a uno de ellos, por lo que en caso de oposición a la solicitud de cualquiera de ellos o incumplimiento del convenio en que las partes hubieren fijado el tiempo, modo y lugar para que los ascendientes que no tengan la guarda del menor lo visiten y convivan con él, el Juez de lo Familiar resolverá lo conducente, en atención al interés superior de la niñez. *[Nota: Artículo reformado el 14/sep/1998 y el 1/mar/2021.]*
 
 El Tribunal contará con los medios eficaces que considere necesarios para decretar la convivencia en el modo y forma que beneficie a los menores y en caso de incumplimiento parcial o total podrá decretar las medidas de apremio que concede la ley o dar vista al Ministerio Público si del comportamiento de quien deba permitir la convivencia se desprende algún delito. *[Nota: Párrafo reformado el 13/dic/2004.]*
 
-Sólo por mandato judicial expreso y fundado en causa justa podrá impedirse, suspenderse o perderse el derecho de convivencia a que se refiere este artículo. Se deberá escuchar a la niña, niño o adolescente sujeto a patria potestad, privilegiando ante todo su Interés superior en la cuestión planteada, de acuerdo a su edad y desarrollo cognoscitivo. *[Nota: Párrafo adicionado el 13/dic/2004; y reformado el 25/nov/2016.]*
+Sólo por mandato judicial expreso y fundado en causa justa, y cuando exista violencia familiar reiterada se deberá considerar la restricción e impedir, suspender o perder el derecho de convivencia a que se refiere este artículo. Se deberá escuchar a la niña, niño o adolescente sujeto a patria potestad, privilegiando ante todo el interés superior de la niñez en la cuestión planteada, de acuerdo a su edad y desarrollo cognoscitivo. *[Nota: Párrafo adicionado el 13/dic/2004; reformado el 25/nov/2016 y el 1/mar/2021.]*
 
 **Artículo 638.** La patria potestad no es renunciable; pero aquéllos a quienes corresponda ejercerla pueden excusarse:
 
@@ -2435,7 +2467,7 @@ II. La representación interina del incapaz en los casos que señala la ley.
 
 III. La representación del emancipado en los negocios judiciales de éste.
 
-**Artículo 641.** *[Nota: Artículo reformado el 25/nov/2015]* La tutela es, testamentaria, legítima, dativa y voluntaria.
+**Artículo 641.** *[Nota: Artículo reformado el 25/nov/2015.]* La tutela es, testamentaria, legítima, dativa y voluntaria.
 
 **Artículo 642.** La tutela se desempeña por el tutor, con intervención del curador, según se dispone en este Código.
 
@@ -2455,7 +2487,7 @@ II. Por personas que tengan entre si parentesco en cualquier grado, en la línea
 
 **Artículo 648.** Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a quien deba nombrarse tutor, el albacea testamentario y en caso de intestado los parientes o personas con quienes haya convivido aquélla, están obligados a dar parte del fallecimiento al Juez, dentro de un mes, a fin de que se provea a la tutela.
 
-**Artículo 649.** Si los obligados a dar parte del fallecimiento, en el caso del artículo anterior, no lo hacen, el Juez les impondrá una multa cuyo importe será de uno a cincuenta días de salario mínimo.
+**Artículo 649.** *[Nota: Artículo reformado el 29/dic/2017.]* Si los obligados a dar parte del fallecimiento, en el caso del artículo anterior, no lo hacen, el Juez les impondrá una multa será del equivalente a la cantidad de una a cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 **Artículo 650.** Los encargados del Registro Civil y demás autoridades del Estado, deben informar al Juez de los casos que conozcan, en ejercicio de sus funciones, en los que sea necesario nombrar tutor; y el Juez dictará las medidas necesarias para que se cuide provisionalmente de la persona y bienes del incapaz, hasta que se le nombre tutor.
 
@@ -2541,9 +2573,9 @@ II. Por falta o incapacidad de las personas mencionadas en la fracción anterior
 
 En el supuesto previsto por cualquiera de las dos fracciones anteriores, si hubiera varios hermanos o hermanas, o varios tíos o tías, el Juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiera cumplido catorce años, el hará la elección.
 
-**Artículo 678.** La falla temporal del tutor legítimo se suplirá como lo dispone el artículo anterior. *[Nota: Artículo reformado el 27/abr/1990]*
+**Artículo 678.** La falla temporal del tutor legítimo se suplirá como lo dispone el artículo anterior. *[Nota: Artículo reformado el 27/abr/1990.]*
 
-**Artículo 679.** A los menores de edad que no estén sujetos a patria potestad ni a tutela legítima, por no tener, respectivamente, padres, abuelos, ni parientes conocidos, o que teniendo estos los hayan abandonado o no acepten la tutelar se les aplicarán las siguientes disposiciones: *[Nota: Artículo reformado el 27/abr/1990]*
+**Artículo 679.** A los menores de edad que no estén sujetos a patria potestad ni a tutela legítima, por no tener, respectivamente, padres, abuelos, ni parientes conocidos, o que teniendo estos los hayan abandonado o no acepten la tutelar se les aplicarán las siguientes disposiciones: *[Nota: Artículo reformado el 27/abr/1990.]*
 
 I. Tendrán como tutor, por ministerio de la ley a la persona que por su propia voluntad se haya hecho cargo de ellos;
 
@@ -2551,11 +2583,11 @@ II. No ser necesario el discernimiento del cargo;
 
 III. Si el menor que se encuentre en el caso previsto por este Artículo, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo dispuesto en el artículo 689 y siguientes.
 
-**Artículo 680.** El Presidente del Patronato del Sistema para el Desarrollo Integral de la Familia del Estado, será tutor sin necesidad de discernir el cargo y por ministerio de ley, facultad que podrá delegar a los funcionarios del Organismo: *[Nota: Párrafo reformado el 27/jun/2011]*
+**Artículo 680.** El Presidente del Patronato del Sistema para el Desarrollo Integral de la Familia del Estado, será tutor sin necesidad de discernir el cargo y por ministerio de ley, facultad que podrá delegar a los funcionarios del Organismo: *[Nota: Párrafo reformado el 27/jun/2011.]*
 
 I. De los menores huérfanos, abandonados por el titular de su patria potestad o tutela o maltratados reiteradamente por sus parientes.
 
-II. De los menores no sujetos a patria potestad o tutela que se encuentren internados en casas de asistencia, colegios públicos o privados, incluyendo las Dependencias del Gobierno o cualquiera otra. *[Nota: Fracción reformada el 31/dic/2012]*
+II. De los menores no sujetos a patria potestad o tutela que se encuentren internados en casas de asistencia, colegios públicos o privados, incluyendo las Dependencias del Gobierno o cualquiera otra. 
 
 En el supuesto previsto por la fracción II de este Artículo, los Directores de las Instituciones en que se hallen internados los menores, tendrán únicamente la custodia de éstos y de ella habrán de dar cuenta al tutor.
 
@@ -2570,6 +2602,8 @@ En el supuesto previsto por la fracción II de este Artículo, los Directores de
 **Artículo 684.** Cuando haya dos o más hijos o hijas, será preferido el hijo o la hija que viva en compañía del incapaz; siendo varios los que estén en el mismo caso, el Juez elegirá entre ellos a quien le parezca más apto.
 
 **Artículo 685.** El padre o la madre son de derecho tutores de sus hijos divorciados, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela.
+
+244 Fracción reformada el 31/dic/2012
 
 **Artículo 686.** Si viven ambos progenitores, deben ponerse de acuerdo, respecto de quién ejercerá la tutela, y en caso de disentimiento el Juez elegirá al que le parezca más apto para el cargo.
 
@@ -2603,15 +2637,15 @@ VI. Si el Juez no hace oportunamente el nombramiento de tutor, es responsable de
 
 #### SECCIÓN QUINTA BIS *[Nota: Sección adicionada el 25/nov/2015.]* TUTELA VOLUNTARIA
 
-**Artículo 691 Bis.** Toda persona capaz para otorgar testamento puede nombrar al tutor o tutores, y a sus sustitutos, que deberán encargarse de su persona, y en su caso, de su patrimonio en previsión del caso de encontrarse en los supuestos de las fracciones II al IV del artículo 42 del presente ordenamiento, a esta tutela se le denominará tutela voluntaria.
+**Artículo 691 Bis.** *[Nota: Artículo adicionado el 25/nov/2015.]* Toda persona capaz para otorgar testamento puede nombrar al tutor o tutores, y a sus sustitutos, que deberán encargarse de su persona, y en su caso, de su patrimonio en previsión del caso de encontrarse en los supuestos de las fracciones II al IV del artículo 42 del presente ordenamiento, a esta tutela se le denominará tutela voluntaria.
 
-**Artículo 691 Ter.** La Tutela voluntaria podrá otorgarse ante notario público y se hará constar en escritura pública, o en vía de jurisdicción voluntaria ante el Juez competente en términos de lo previsto para los procedimientos no contenciosos.
+**Artículo 691 Ter.** *[Nota: Artículo adicionado el 25/nov/2015.]* La Tutela voluntaria podrá otorgarse ante notario público y se hará constar en escritura pública, o en vía de jurisdicción voluntaria ante el Juez competente en términos de lo previsto para los procedimientos no contenciosos.
 
 La tutela voluntaria, puede ser revocada en cualquier tiempo y momento con la misma formalidad a que se refiere el párrafo anterior.
 
 En caso de muerte, incapacidad, excusa, remoción, no aceptación o relevo del cargo del tutor designado, desempeñará la tutela quien o quienes sean sustitutos.
 
-**Artículo 691 Quáter.** El instrumento legal donde se manifieste la tutela voluntaria; deberá contener expresamente las facultades u obligaciones a las que deberá sujetarse la administración del tutor, dentro de las cuales serán mínimo las siguientes:
+**Artículo 691 Quáter.** *[Nota: Artículo adicionado el 25/nov/2015.]* El instrumento legal donde se manifieste la tutela voluntaria; deberá contener expresamente las facultades u obligaciones a las que deberá sujetarse la administración del tutor, dentro de las cuales serán mínimo las siguientes:
 
 I. Decidir sobre el tratamiento médico y el cuidado de la salud del tutelado, siempre privilegiando el tratamiento más conveniente y adecuado;
 
@@ -2619,9 +2653,9 @@ II. Fijar la retribución que le corresponde al tutor en los términos de este C
 
 El Juez de lo Familiar, a petición del tutor, del curador, y en caso de los sustitutos nombrados por el Juez, podrá modificar las estipulaciones establecidas si las circunstancias, condiciones o situaciones originalmente tomadas en cuenta por la persona capaz en su designación, han variado al grado que perjudiquen la persona o patrimonio del tutelado.
 
-**Artículo 691 Quinquies.** El tutor voluntario que tenga conocimiento de que la persona que lo nombró como tal se encuentra en alguno de los supuestos del artículo 42, deberá promover de inmediato, el procedimiento de interdicción correspondiente a efecto de que el Juez competente haga la declaración de incapacidad y le ratifique como tutor de su persona y su patrimonio.
+**Artículo 691 Quinquies.** *[Nota: Artículo adicionado el 25/nov/2015.]* El tutor voluntario que tenga conocimiento de que la persona que lo nombró como tal se encuentra en alguno de los supuestos del artículo 42, deberá promover de inmediato, el procedimiento de interdicción correspondiente a efecto de que el Juez competente haga la declaración de incapacidad y le ratifique como tutor de su persona y su patrimonio.
 
-**Artículo 691.** Sexies
+**Artículo 691.** Sexies *[Nota: Artículo adicionado el 25/nov/2015.]*
 
 El tutor voluntario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado por testamento el incapaz.
 
@@ -2677,7 +2711,7 @@ VI. El tutor que no esté presente por más de seis meses en el lugar en que deb
 
 **Artículo 697.** Si el tutor es procesado por delito intencional, se aplicarán las disposiciones siguientes.
 
-I. Cualquiera sea el delito por el que se procese al tutor, quedará éste suspenso en el ejercicio de su encargo desde que se provea el auto de formal prisión, hasta que se pronuncie sentencia irrevocable.
+I. Cualquiera que sea el delito por el que se procese a la persona tutora, quedará ésta suspensa en el ejercicio de su encargo desde que se provea el auto de vinculación a proceso, hasta que se pronuncie sentencia irrevocable. *[Nota: Fracción reformada el 28/jul/2026]*
 
 II. En el caso de que se trata en la fracción anterior, se proveerá a la tutela conforme a la ley.
 
@@ -2847,7 +2881,7 @@ X. Cuando el mismo tutor esté obligado a dar alimentos por razón de su parente
 
 XI. Si el tutor, en el caso de la fracción anterior, no se allana a cumplir su obligación alimentaria, será removido de la tutela y perderá el derecho que tuviere para heredar al menor y a quien lo nombró en su testamento, sin perjuicio de la acción penal que corresponda en su contra;
 
-XII. Si el menor indigente no tiene personas que estén obligadas a alimentarlo, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez, pondrá al menor en un establecimiento de asistencia social, sea pública o privada, en donde pueda educarse; *[Nota: Fracción reformada el 31/dic/2012]*
+XII. Si el menor indigente no tiene personas que estén obligadas a alimentarlo, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez, pondrá al menor en un establecimiento de asistencia social, sea pública o privada, en donde pueda educarse; *[Nota: Fracción reformada el 31/dic/2012.]*
 
 XIII. Si no fuese posible poner al menor en uno de los establecimientos a que se refiere la fracción anterior, el tutor procurará obtener un trabajo para aquél, adecuado a su edad y circunstancias personales, con la obligación de alimentarlo y educarlo;
 
@@ -2923,7 +2957,7 @@ VI. El arrendamiento hecho de conformidad con las fracciones anteriores, subsist
 
 I. Se requiere licencia judicial para que el tutor pueda transigir los negocios del menor;
 
-II. La transacción que se haga sobre propiedad de bienes inmuebles u otro derecho real o sobre bienes muebles cuyo valor exceda del importe de diez días de salario mínimo, o que sean inestimables, sólo puede hacerse con aprobación judicial.
+II. La transacción que se haga sobre propiedad de bienes inmuebles u otro derecho real o sobre bienes muebles cuyo valor exceda del equivalente a la cantidad de diez veces el valor diario de la Unidad de Medida y Actualización, o que sean inestimables, sólo puede hacerse con aprobación judicial. *[Nota: Fracción reformada el 29/dic/2017.]*
 
 **Artículo 731.** Al compromiso en árbitros de los negocios del incapaz, son aplicables las siguientes disposiciones:
 
@@ -2931,7 +2965,7 @@ I. Se requiere licencia judicial para que el tutor pueda comprometer en árbitro
 
 II. Únicamente con aprobación judicial nombrará el tutor a los árbitros.
 
-**Artículo 732.** Para conformarse el tutor con la demanda entablada contra el menor, sobre propiedad de bienes inmuebles u otro derecho real, cualquiera que sea su cuantía, o sobre bienes muebles cuyo valor exceda del importe de treinta días de salario mínimo, necesita aprobación judicial.
+**Artículo 732.** *[Nota: Articulo reformado el 29/dic/2017.]* Para conformarse el tutor con la demanda entablada contra el menor, sobre propiedad de bienes inmuebles u otro derecho real, cualquiera que sea su cuantía, o sobre bienes muebles cuyo valor exceda del equivalente a la cantidad de treinta veces el valor diario de la Unidad de Medida y Actualización, necesita aprobación judicial.
 
 **Artículo 733.** Al contrato de donación son aplicables las siguientes disposiciones:
 
@@ -3119,7 +3153,7 @@ IV. No estarán sujetos a embargo ni a gravamen alguno.
 
 **Artículo 798.** Por cada familia, sólo puede constituirse un patrimonio de la clase reglamentada en este capítulo, y serán inexistentes los que se constituyan subsistiendo el primero.
 
-**Artículo 799.** *[Nota: Artículo reformado el 14/sep/1998.]* El valor máximo de los bienes afectados al patrimonio de familia, será el equivalente a diez mil días de salario mínimo general, vigente en el Estado en la fecha en que se constituya dicho patrimonio, el que será susceptible de incremento periódicamente, en la medida en que aumente el importe del salario mínimo y sin exceder el equivalente respectivo.
+**Artículo 799.** *[Nota: Artículo reformado el 14/sep/1998 y el 29/dic/2017.]* El valor máximo de los bienes afectados al patrimonio de familia, será del equivalente a la cantidad de diez mil veces el valor diario de la Unidad de Medida y Actualización calculadas en la fecha en que se constituya dicho patrimonio, el que será susceptible de incremento periódicamente, en la medida en que aumente el equivalente al valor diario de la Unidad de Medida y Actualización y sin exceder el equivalente respectivo.
 
 **Artículo 800.** Para constituir el patrimonio de familia, el interesado presentará por escrito una solicitud al Juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público de la Propiedad, Los bienes que van a integrarlo y ofrecerá pruebas sobre los hechos que se refiere el artículo siguiente.
 
@@ -3249,7 +3283,7 @@ II. Los particulares que soliciten el servicio o los representantes de éstos, e
 
 III. Los testigos que corroboren el dicho de los particulares y atestigüen el acto.
 
-**Artículo 835.** *[Nota: Artículo reformado el 22/ene/210]* Las actas del estado civil se numerarán progresivamente cada año, y en ellas se hará constar la Clave de Registro e Identidad Personal que corresponda al o a los interesados, así como el año, mes, día y hora en que se presenten éstos; se tomará razón específica de los documentos que se presenten, y de los nombres, edad, nacionalidad y domicilio de todos los que en ella sean mencionados, en cuanto fuere posible.
+**Artículo 835.** *[Nota: Artículo reformado el 22/ene/210.]* Las actas del estado civil se numerarán progresivamente cada año, y en ellas se hará constar la Clave de Registro e Identidad Personal que corresponda al o a los interesados, así como el año, mes, día y hora en que se presenten éstos; se tomará razón específica de los documentos que se presenten, y de los nombres, edad, nacionalidad y domicilio de todos los que en ella sean mencionados, en cuanto fuere posible.
 
 **Artículo 836.** En los casos en que los interesados no puedan ocurrir personalmente ante el Juez del Registro del Estado Civil, podrán hacerse representar por mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante testigos; pero tratándose de matrimonio, el mandato deberá constar en escritura pública.
 
@@ -3259,11 +3293,11 @@ III. Los testigos que corroboren el dicho de los particulares y atestigüen el a
 
 **Artículo 839.** Si un acto comenzado se entorpeciese porque las partes se nieguen a continuarlo, o por cualquier otro motivo, se inutilizará el acta, marcándola con dos líneas transversales y expresándose el motivo por el que se suspendió, debiendo firmar esta razón, la autoridad, los interesados y los testigos.
 
-**Artículo 840.** *[Nota: Artículo reformado el 22/ene/2010]* Extendida un acta del estado civil, el Juez que la autorice imprimirá en ella el sello de la oficina y entregará un ejemplar a los interesados; otro quedará en el Archivo del Juzgado, y el tercer ejemplar se remitirá a la Dirección del Registro del Estado Civil, para que lo envíe al Archivo Estatal y notifique al Registro Nacional de Población e Identificación Personal, sobre las anotaciones realizadas, en los términos convenidos para la transferencia de información.
+**Artículo 840.** *[Nota: Artículo reformado el 22/ene/2010.]* Extendida un acta del estado civil, el Juez que la autorice imprimirá en ella el sello de la oficina y entregará un ejemplar a los interesados; otro quedará en el Archivo del Juzgado, y el tercer ejemplar se remitirá a la Dirección del Registro del Estado Civil, para que lo envíe al Archivo Estatal y notifique al Registro Nacional de Población e Identificación Personal, sobre las anotaciones realizadas, en los términos convenidos para la transferencia de información.
 
 El Juez del Registro Civil que no cumpla con lo establecido en este artículo, será destituido de su cargo.
 
-**Artículo 841.** *[Nota: Artículo reformado el 22/ene/2010]* Cuando una sentencia tenga efectos de modificar un acta del estado civil, el Juez del conocimiento enviará copia certificada por duplicado al Director del Registro del Estado Civil, quien remitirá una al Archivo Estatal a efecto de hacer las anotaciones que correspondan al libro duplicado y la segunda, al Juzgado del Registro del Estado Civil en el que fue expedida, para que se proceda a realizar lo conducente en el libro original de actas.
+**Artículo 841.** *[Nota: Artículo reformado el 22/ene/2010.]* Cuando una sentencia tenga efectos de modificar un acta del estado civil, el Juez del conocimiento enviará copia certificada por duplicado al Director del Registro del Estado Civil, quien remitirá una al Archivo Estatal a efecto de hacer las anotaciones que correspondan al libro duplicado y la segunda, al Juzgado del Registro del Estado Civil en el que fue expedida, para que se proceda a realizar lo conducente en el libro original de actas.
 
 **Artículo 842.** El estado civil de las personas sólo se comprueba con las constancias respectivas del Registro del Estado Civil, y ningún otro documento ni medio de prueba es admisible para ese fin, excepto disposición de la ley en otro sentido.
 
@@ -3289,7 +3323,7 @@ El Juez del Registro Civil que no cumpla con lo establecido en este artículo, s
 
 **Artículo 853.** Para probar el estado civil adquirido por poblanos fuera de la República Mexicana, se estará a lo dispuesto en las leyes federales.
 
-**Artículo 854.** Los actos del estado civil relativos a la misma persona, deberán anotarse, en el acta de nacimiento de ésta y las anotaciones se insertarán en todos los testimonios que se expidan.
+**Artículo 854.** *[Nota: Artículo reformado el 26/mar/2021.]* Los actos del estado civil relativos a la misma persona deberán anotarse en el acta de nacimiento de ésta y las anotaciones se insertarán en todos los testimonios que se expidan, con excepción de lo dispuesto para el reconocimiento de la identidad de género autopercibida, lo cual se regirá conforme lo establece el presente Código.
 
 **Artículo 855.** *[Nota: Artículo reformado el 26/sep/1997.]* Los Juzgados del Registro del Estado Civil y los Jueces Itinerantes, estarán bajo la coordinación, inspección y vigilancia de la Dirección del Registro del Estado Civil, de acuerdo con las Leyes y Reglamentos aplicables.
 
@@ -3303,11 +3337,11 @@ Las declaraciones de nacimiento se harán dentro de los ciento ochenta días sig
 
 **Artículo 858.** El nacimiento será declarado por el padre o la madre, y en defecto de éstos, por los médicos, cirujanos, matronas u otras personas que hayan asistido al parto.
 
-**Artículo 859.** *[Nota: Artículo reformado el 22/ene/2010]* El acta de nacimiento se extenderá con asistencia de dos testigos, que pueden ser designados por los interesados; contendrá la Clave de Registro e Identidad Personal que se asigne al nacido, el año, mes, día, hora y lugar del nacimiento; el sexo del registrado, el nombre y apellidos que se le pongan, los que no deben omitirse, la razón de si se ha presentado vivo o muerto, y la impresión de la huella digital del registrado.
+**Artículo 859.** *[Nota: Artículo reformado el 22/ene/2010.]* El acta de nacimiento se extenderá con asistencia de dos testigos, que pueden ser designados por los interesados; contendrá la Clave de Registro e Identidad Personal que se asigne al nacido, el año, mes, día, hora y lugar del nacimiento; el sexo del registrado, el nombre y apellidos que se le pongan, los que no deben omitirse, la razón de si se ha presentado vivo o muerto, y la impresión de la huella digital del registrado.
 
 **Artículo 860.** En el acta de nacimiento no se hará ninguna mención que califique la filiación en forma alguna, y las palabras ''hijo legítimo'', ''hijo natural'', ''hijo de matrimonio'', ''hijo fuera de matrimonio'', ''hijo ilegítimo'', ''hijo de padres desconocidos'', ''hijo de padre desconocido'', ''hijo de madre desconocida'', ''hijo adulterino'', ''hijo incestuoso'' u otras semejantes, que se inserten con infracción de este artículo se testarán de oficio de manera que queden ilegibles.
 
-**Artículo 861.** El Juez del Registro del Estado Civil que inserte en el acta alguna de las menciones a que se refiere el artículo anterior será sancionado, la primera vez con multa igual al importe de uno a diez días de salario mínimo y la segunda con destitución del cargo.
+**Artículo 861.** *[Nota: Artículo reformado el 29/dic/2017.]* El Juez del Registro del Estado Civil que inserte en el acta alguna de las menciones a que se refiere el artículo anterior será sancionado, la primera vez con multa del equivalente a la cantidad de una a diez veces el valor diario de la Unidad de Medida y Actualización y la segunda con destitución del cargo.
 
 **Artículo 862.** En el acta se asentarán, salvo en los casos previstos por los artículos 867 y 871, los nombres, nacionalidad, ocupación, y domicilios del padre y de la madre, de los abuelos paternos y maternos y los de la persona que hubiere hecho la presentación.
 
@@ -3315,7 +3349,7 @@ Las declaraciones de nacimiento se harán dentro de los ciento ochenta días sig
 
 **Artículo 864.** Para que un hijo sea reconocido al registrar su nacimiento, bastará que el padre o la madre, o ambos pidan al Juez del Registro del Estado Civil que se mencione su nombre y su carácter de padre o madre, respectivamente, en el acta de nacimiento y así se asentará en ésta, la cual surtirá tanto los efectos de acta de nacimiento, como de acta de reconocimiento.
 
-**Artículo 865.** Cuando el hijo nazca de una mujer casada que viva con su marido, no podrá el Juez del Registro Civil, asentar como padre a otro que al mismo marido, salvo en el caso previsto en la fracción I del artículo 565, en cuyo caso la madre del niño cuyo nacimiento se manifieste deberá exhibir copia certificada de la sentencia ejecutoriada a que se refiere dicha disposición.
+**Artículo 865.** *[Nota: Artículo derogado el 6/dic/2019.]* Se deroga.
 
 **Artículo 866.** Toda persona que encontrare a un niño recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Juez del Registro del Estado Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el tiempo y lugar en que lo haya encontrado, así como las demás circunstancias que concurrieron en el caso.
 
@@ -3323,7 +3357,7 @@ Las declaraciones de nacimiento se harán dentro de los ciento ochenta días sig
 
 **Artículo 868.** Los alcaldes, directores y administradores de las prisiones, y de cualquier casa de comunidad, especialmente de los hospitales y casas de maternidad, tienen obligación de declarar el nacimiento de los niños nacidos en esos lugares, especificándose en el acta respectiva, sólo la ubicación del lugar de nacimiento.
 
-**Artículo 869.** Si los padres del niño tuvieren impedimento para contraer matrimonio entre sí, por estar uno de ellos o ambos casados con otra persona, no se hará ninguna mención de esa circunstancia y podrá asentarse el nombre de ambos padres si lo pidieren, observándose en su caso lo dispuesto en el artículo 565.
+**Artículo 869.** *[Nota: Artículo reformado el 6/dic/2019.]* Si la madre o el padre de la niña o el niño tuvieren impedimento para contraer matrimonio entre sí, por estar uno de ellos o ambos casados con otra persona, no se hará ninguna mención de esa circunstancia y podrá asentarse el nombre de ambos padres si lo pidieren.
 
 **Artículo 870.** Si los padres del niño no pudiesen contraer matrimonio por existir entre ellos el impedimento no dispensable de parentesco por consanguinidad o por afinidad, no se hará mención alguna de esta circunstancia; pero se hará constar el nombre de los padres si éstos reconocieren al hijo.
 
@@ -3337,9 +3371,31 @@ Las declaraciones de nacimiento se harán dentro de los ciento ochenta días sig
 
 **Artículo 875.** *[Nota: Artículo reformado el 27/abr/1990.]* Si el nacimiento no se registra dentro de los plazos establecidos en los artículos 856 y 872, se aplicarán las siguientes disposiciones:
 
-I. Antes que el menor cumpla dieciocho años de edad, el Juez del Registro del Estado Civil, autorizará la inscripción de su nacimiento, e impondrá a quien declare éste una multa hasta por el importe de dos días de salario mínimo.
+I. Antes que el menor cumpla dieciocho años de edad, el Juez del Registro del Estado Civil, autorizará la inscripción de su nacimiento, e impondrá a quien declare éste una multa del equivalente a la cantidad de hasta dos veces el valor diario de la Unidad de Medida y Actualización. *[Nota: Fracción reformada el 29/dic/2017.]*
 
 II. El registro de nacimiento de una persona que tenga más de dieciocho años de edad, sólo podrá ser autorizado por el Director del Registro del Estado Civil, una vez cumplidos los trámites que dispongan las Leyes y Reglamentos aplicables. *[Nota: Fracción reformada el 26/sep/1997.]*
+
+**Artículo 875 Bis.** *[Nota: Artículo adicionado el 26/mar/2021.]* Sin perjuicio de lo dispuesto en el artículo anterior, cualquier persona puede pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de su identidad de género autopercibida.
+
+Se entenderá por identidad de género autopercibida, la condición personal e interna, tal y como cada persona se percibe a sí misma, la cual puede corresponder o no al sexo asignado en el registro primario.
+
+Incluye la vivencia personal del cuerpo, que podría o no involucrar la modificación de la apariencia o funcionalidad corporal, siempre que la misma sea libremente escogida.
+
+Dicho reconocimiento se solicitará y llevará a cabo ante la Dirección del Registro Civil del Estado o ante la autoridad del registro civil del municipio o localidad en donde se haya declarado el nacimiento de la o el solicitante, según su interés y conveniencia, previo cumplimiento de las formalidades establecidas en el presente ordenamiento y la reglamentación correspondiente, para lo cual no será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico o procedimiento de modificación corporal o de apariencia física, incluyendo la vestimenta, modo de hablar, modales, ni ninguna otra condición que dañe la dignidad humana.
+
+Los efectos de la nueva acta de nacimiento por la identidad de género autopercibida, serán oponibles a terceros desde de su registro.
+
+Los derechos y obligaciones contraídas con anterioridad al proceso administrativo de reconocimiento de identidad de género autopercibida y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+**Artículo 875 Ter.** *[Nota: Artículo adicionado el 26/mar/2021.]* Para solicitar el levantamiento de una nueva acta de nacimiento, para el reconocimiento de la identidad de género autopercibida, se deberá cumplir con lo siguiente:
+
+I.- Ser de nacionalidad mexicana;
+
+II.- Tener 18 años de edad cumplidos;
+
+III.- Manifestar el nombre completo y los datos registrales asentados en el acta primigenia; y
+
+IV.- Manifestar el nombre sin apellidos y el género solicitados.
 
 #### SECCIÓN TERCERA ACTAS DE RECONOCIMIENTO
 
@@ -3355,23 +3411,21 @@ IV. Los nombres y apellidos de los testigos.
 
 **Artículo 877.** Si el reconocimiento se hace por alguno de los otros medios establecidos en el Artículo 558, se presentará al encargado del registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de éste, observándose las demás disposiciones contenidas en este capítulo.
 
-**Artículo 878.** La omisión del registro en el caso del Artículo que procede, no priva de sus efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa por el equivalente de un día a tres de salario mínimo, que se impondrá y hará efectiva por el Juez ante quien se haga valer el reconocimiento.
-
-**Artículo 879.** Si el reconocimiento no se hiciere en el acta de nacimiento, se hará en ésta una anotación en la que se mencione el acta de reconocimiento y viceversa.
+**Artículo 878.** *[Nota: Artículo reformado el 129/dic/2017]* La omisión del registro en el caso del Artículo que procede, no priva de sus efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa por el equivalente a la cantidad de una a tres veces el valor diario de la Unidad de Medida y Actualización, que se impondrá y hará efectiva por el Juez ante quien se haga valer el reconocimiento.
 
 **Artículo 880.** Si el reconocimiento se hiciere en oficina diversa, para cumplir lo dispuesto en el artículo anterior, los titulares de ambas oficinas deberán remitirse copia certificada en las actas autorizadas por ellos.
 
-En todos los casos se notificarán de inmediato al Director del Registro del Estado Civil, las anotaciones realizadas en actas de nacimiento con motivo del reconocimiento, a efecto de ordenar las anotaciones que correspondan al libro duplicado de actas. *[Nota: Párrafo adicionado el 22/ene/2010]*
+En todos los casos se notificarán de inmediato al Director del Registro del Estado Civil, las anotaciones realizadas en actas de nacimiento con motivo del reconocimiento, a efecto de ordenar las anotaciones que correspondan al libro duplicado de actas. *[Nota: Párrafo adicionado el 22/ene/2010.]*
 
 #### SECCIÓN CUARTA ACTAS DE ADOPCIÓN
 
-**Artículo 881.** Derogado. *[Nota: Artículo derogado el 15/dic/1992]*
+**Artículo 881.** *[Nota: Artículo derogado el 15/dic/1992.]* Derogado.
 
-**Artículo 882.** Derogado. *[Nota: Artículo derogado el 15/dic/1992.]*
+**Artículo 882.** *[Nota: Artículo derogado el 15/dic/1992.]* Derogado.
 
-**Artículo 883.** Derogado. *[Nota: Artículo derogado el 15/dic/1992.]*
+**Artículo 883.** *[Nota: Artículo derogado el 15/dic/1992.]* Derogado.
 
-**Artículo 884.** Derogado. *[Nota: Artículo derogado el 15/dic/1992]*
+**Artículo 884.** *[Nota: Artículo derogado el 15/dic/1992.]* Derogado.
 
 #### SECCIÓN QUINTA ACTAS DE TUTELA
 
@@ -3443,7 +3497,7 @@ VIII. Las formalidades a que se refiere el artículo 838.
 
 **Artículo 902.** El Juez del Registro del Estado Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, y sin cumplir con lo dispuesto en el artículo anterior, será sancionado con la destitución de su cargo, sin perjuicio de la responsabilidad que establezca el Código de Defensa Social.
 
-**Artículo 903.** Los Jueces del Registro del Estado Civil no autorizarán un matrimonio, cuando por el tenor de la solicitud, su conocimiento de los interesados o por denuncia formal, tuvieren noticia que uno de los pretendientes o ambos carecen de aptitud legal para contraer matrimonio; pero el Juez que injustificadamente retarde la celebración de un matrimonio, será sancionado con una multa equivalente a diez días de salario mínimo, y en caso de reincidencia, con destitución.
+**Artículo 903.** *[Nota: Articulo reformado el 29/dic/2017.]* Los Jueces del Registro del Estado Civil no autorizarán un matrimonio, cuando por el tenor de la solicitud, su conocimiento de los interesados o por denuncia formal, tuvieren noticia que uno de los pretendientes o ambos carecen de aptitud legal para contraer matrimonio; pero el Juez que injustificadamente retarde la celebración de un matrimonio, será sancionado con una multa del equivalente a la cantidad de diez veces el valor diario de la Unidad de Medida y Actualización, y en caso de reincidencia, con destitución.
 
 **Artículo 904.** En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Juez del Registro del Estado Civil, los pretendientes o sus apoderados y dos testigos.
 
@@ -3459,9 +3513,7 @@ II. Los nombres, apellidos, domicilio y nacionalidad de los padres;
 
 III. Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y en caso afirmativo, el grado en que lo sean;
 
-IV. *[Nota: Fracción derogada el 28/mar/2016.]*
-
-Se deroga.
+IV. Se deroga *[Nota: Fracción derogada el 28/mar/2016.]*
 
 V. El número de autorización de la Secretaría de Gobernación en el caso de que uno de los contrayentes sea extranjero;
 
@@ -3503,7 +3555,7 @@ IV. Los nombres y apellidos de los padres del difunto, si se supieren;
 
 V. La causa de la muerte, el destino del cadáver y el nombre y ubicación del panteón o crematorio.
 
-VI. La hora, día, mes, año y lugar de la muerte si se supieren y todos los informes que se tengan en caso de muerte violenta.
+VI. La hora, día, mes, año y lugar de la muerte si se supieren y todos los informes que se tengan en caso de muerte violenta, haciendo las aclaraciones pertinentes si la muerte es causada por violencia de género o familiar; *[Nota: Fracción reformada el 6/dic/2019.]*
 
 VII. Nombre, apellidos, número de cédula profesional y domicilio del médico que certifique la defunción.
 
@@ -3541,11 +3593,11 @@ II. Hecha la exhumación, el Ministerio Público ordenará la práctica de la au
 
 **Artículo 928.** El Juez del Registro del Estado Civil que reciba una de las sentencias a que se refiere el Artículo anterior, levantará una acta que contendrá el nombre, apellidos, edad, ocupación, estado civil y nacionalidad de la persona de que se trate, los puntos resolutivos de la sentencia, la fecha de la resolución y el órgano judicial que la emitió.
 
-**Artículo 929.** *[Nota: Artículo reformado el 22/ene/2010]* Cuando se presente la persona declarada ausente o cuya muerte se presumía o se recobre la capacidad legal para administrar bienes, se procederá como indica el artículo 841 para que sea cancelada el acta a que se refiere el articulo anterior.
+**Artículo 929.** *[Nota: Artículo reformado el 22/ene/2010.]* Cuando se presente la persona declarada ausente o cuya muerte se presumía o se recobre la capacidad legal para administrar bienes, se procederá como indica el artículo 841 para que sea cancelada el acta a que se refiere el articulo anterior.
 
 #### SECCIÓN DÉCIMA RECTIFICACIÓN DE LAS ACTAS DEL ESTADO CIVIL
 
-**Artículo 930.** *[Nota: Artículo reformado el 26/sep/1997.]* La rectificación o modificación de un acta de estado civil, se hará ante el Poder Judicial y en virtud de sentencia de éste; salvo el reconocimiento que voluntariamente haga un padre de su hijo ante el Juez del Registro del Estado Civil correspondiente.
+**Artículo 930.** *[Nota: Artículo reformado el 26/sep/1997 y el 26/mar/2021.]* La rectificación o modificación de un acta de estado civil, se hará ante el Poder Judicial y en virtud de sentencia de éste; salvo el reconocimiento que voluntariamente haga un padre de su hijo ante el Juez del Registro del Estado Civil correspondiente, o en su caso de reconocimiento de identidad de género autopercibida.
 
 **Artículo 931.** Procede la rectificación:
 
@@ -3553,9 +3605,11 @@ I. Por falsedad, cuando se alegue que el suceso registrado no acaeció;
 
 II. Por enmienda, cuando se solicite variar algún nombre u otra circunstancia esencial, así como en el caso en que concurran defectos esenciales y accidentales en el contenido de las actas. *[Nota: Fracción reformada el 14/sep/2012.]*
 
+III.- A solicitud por el reconocimiento de identidad de género autopercibida, en ejercicio al libre desarrollo de la personalidad y se estará a lo dispuesto en el presente ordenamiento. *[Nota: Fracción adicionada el 26/mar/2021.]*
+
 **Artículo 932.** En el juicio de rectificación se oirá al Juez del Registro del Estado Civil y a cualquiera persona que pretenda contradecir la demanda.
 
-**Artículo 933.** *[Nota: Artículo reformado el 22/ene/2010]* La sentencia que cause ejecutoria se comunicará al Director del Registro del Estado Civil, para los efectos del artículo 841.
+**Artículo 933.** *[Nota: Artículo reformado el 22/ene/2010.]* La sentencia que cause ejecutoria se comunicará al Director del Registro del Estado Civil, para los efectos del artículo 841.
 
 **Artículo 934.** La sentencia ejecutoriada hará plena fe contra todos, aunque no hayan litigado; pero si alguno probare que estuvo absolutamente impedido para salir al juicio, se le admitirá a probar contra ella; más se tendrá como buena la sentencia anterior, y surtirá sus efectos, hasta que recaiga otra que la contradiga y cause ejecutoria y en este nuevo juicio, se procederá en todo como en el de rectificación.
 
@@ -3572,6 +3626,10 @@ IV. Los que, según los artículos 575 y 576, pueden intentar la acción que en 
 **Artículo 936.** *[Nota: Artículo reformado el 22/ene/2010 y el 31/dic/2015.]* Cuando se trate de enmendar errores, yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, procede su aclaración ante el Director del Registro del Estado Civil.
 
 De resultar procedente la aclaración, el Director del Registro del Estado Civil remitirá una copia certificada de la resolución al Archivo Estatal a efecto de hacer las anotaciones que correspondan al libro duplicado, y otra al Juzgado del Registro del Estado Civil en el que fue expedida, para que se proceda a realizar las anotaciones en el libro original de actas.
+
+Tratándose de personas adultas mayores , la persona que ocupe la Dirección del Registro del Estado Civil resolverá lo que proceda con relación a la solicitud de aclaración, en un término que no deberá exceder de tres días hábiles contados a partir del momento en el que ésta fue turnada para su conocimiento. Por su parte, en los casos donde se acredite la existencia de una emergencia, independientemente de quien solicite la aclaración, el término para resolver lo procedente no deberá exceder de un día hábil a partir del momento en el que ésta fue turnada para su conocimiento. *[Nota: Párrafo adicionado el 13/ago/2019.]*
+
+En caso de que las solicitudes referidas en el párrafo anterior sean presentadas ante la persona que ocupe la titularidad del Juzgado del Registro Civil, éste deberá turnarlo de manera inmediata a la Dirección del Registro del Estado Civil. *[Nota: Párrafo adicionado el 13/ago/2019.]*
 
 **Artículo 937.** Para los efectos del Artículo anterior se entiende por errores, yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales los que se desprendan fehacientemente de la sola lectura del acta correspondiente.
 
@@ -3713,13 +3771,13 @@ II. Los inmuebles abandonados por quien era su dueño.
 
 **Artículo 972.** Si el reclamante es declarado dueño se le entregará el bien de que se trate o su precio, en el caso del Artículo 969, con deducción de los gastos.
 
-**Artículo 973.** *[Nota: Artículo reformado el 31/dic/2012]* Si el reclamante no es declarado dueño, o si pasado el plazo de un mes, contado desde la primera publicación de los avisos, nadie reclamará la propiedad del mostrenco, se venderá éste, dándose una cuarta parte del precio al que lo halló y destinándose el resto al Gobierno del Estado para destinarlo a su vez a la asistencia social pública. Los gastos se repartirán entre los adjudicatarios en proporción a la parte que reciban.
+**Artículo 973.** *[Nota: Artículo reformado el 31/dic/2012.]* Si el reclamante no es declarado dueño, o si pasado el plazo de un mes, contado desde la primera publicación de los avisos, nadie reclamará la propiedad del mostrenco, se venderá éste, dándose una cuarta parte del precio al que lo halló y destinándose el resto al Gobierno del Estado para destinarlo a su vez a la asistencia social pública. Los gastos se repartirán entre los adjudicatarios en proporción a la parte que reciban.
 
 **Artículo 974.** Aun cuando por alguna circunstancia especial fuere necesaria, a juicio de la autoridad, la conservación del mostrenco, el que halló éste recibirá la cuarta parte del precio.
 
 **Artículo 975.** La venta se hará siempre en almoneda pública.
 
-**Artículo 976.** El que se apodere de un bien mueble sin cumplir con lo prevenido en el artículo 967, pagará una multa por el importe de diez a cien días de salario mínimo, y será responsable de los daños y perjuicios que ocasione.
+**Artículo 976.** *[Nota: Artículo reformado el 29/dic/2017.]* El que se apodere de un bien mueble sin cumplir con lo prevenido en el artículo 967, pagará una multa del equivalente a la cantidad de diez a cien veces el valor diario de la Unidad de Medida y Actualización, y será responsable de los daños y perjuicios que ocasione.
 
 **Artículo 977.** El que tuviere noticia de la existencia de bienes vacantes y quisiere adquirir la parte que la Ley asigna al descubridor, hará la denuncia de ellos ante el Ministerio Público del lugar de ubicación de los bienes.
 
@@ -3755,7 +3813,7 @@ II. Los inmuebles abandonados por quien era su dueño.
 
 **Artículo 991.** El propietario tiene derecho de pedir al que lo sea de los inmuebles contiguos, el apeo, deslinde o amojonamiento de los que respectivamente le pertenecen, si antes no se ha hecho el deslinde o si se ha borrado el lindero.
 
-**Artículo 992.** *[Nota: Artículo reformado el 31/dic/2014]* El propietario tiene derecho, y en su caso obligación de cerrar o de cercar su propiedad, en todo o en parte, del modo que lo estime conveniente o lo dispongan las leyes o reglamentos, sin perjuicio de las servidumbres que afecten a la propiedad.
+**Artículo 992.** *[Nota: Artículo reformado el 31/dic/2014.]* El propietario tiene derecho, y en su caso obligación de cerrar o de cercar su propiedad, en todo o en parte, del modo que lo estime conveniente o lo dispongan las leyes o reglamentos, sin perjuicio de las servidumbres que afecten a la propiedad.
 
 Cuando se edificare sobre un bien inmueble, es obligación del propietario o de quien se comporte como tal, declarar su propiedad ante la autoridad catastral con todas sus características y limitaciones, en un término no mayor a treinta días hábiles, contados a partir de la terminación de obra o construcción.
 
@@ -4129,55 +4187,55 @@ IV. Cuando el propietario o propietarios de un terreno o predio, lo dividan en d
 
 **Artículo 1118.** *[Nota: Artículo reformado el 10/ago/2011.]* Los derechos y obligaciones de los condóminos(sic) a que se refiere este Capítulo, se regirán por este Código, la Ley que regula el Régimen de Propiedad en Condominio para el Estado de Puebla y por las escrituras en que se hubiere constituido el régimen de propiedad en condominio.
 
-**Artículo 1119.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1119.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1120.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1120.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1121.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1121.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1122.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1122.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1123.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1123.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1124.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1124.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1125.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1125.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1126.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1126.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1127.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1127.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
 #### SECCIÓN SEGUNDA BIENES PROPIOS Y BIENES COMUNES
 
-**Artículo 1128.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1128.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1129.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1129.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1130.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1130.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
 **Artículo 1131.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
 
-**Artículo 1132.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1132.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1133.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1133.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1134.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1134.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1135.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1135.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1136.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1136.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1137.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1137.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1138.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1138.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1139.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1139.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1140.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1140.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1141.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1141.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1142.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1142.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
 **Artículo 1143.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
 
@@ -4205,35 +4263,35 @@ IV. Cuando el propietario o propietarios de un terreno o predio, lo dividan en d
 
 #### SECCIÓN CUARTA REGLAMENTO DE CONDOMINIO Y ADMINISTRACIÓN
 
-**Artículo 1154.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1154.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1155.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1155.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1156.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1156.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1157.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1157.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
 #### SECCIÓN QUINTA GASTOS, OBLIGACIONES FISCALES Y CONTROVERSIAS
 
-**Artículo 1158.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1158.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1159.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1159.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1160.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1160.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1161.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1161.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
 #### SECCIÓN SEXTA GRAVÁMENES
 
-**Artículo 1162.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1162.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1163.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1163.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
-**Artículo 1164.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1164.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
 #### SECCIÓN SÉPTIMA DESTRUCCIÓN, RUINA Y RECONSTRUCCIÓN DEL EDIFICIO
 
-**Artículo 1165.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
+**Artículo 1165.** *[Nota: Artículo derogado el 10/ago/2011.]* Se deroga.
 
 **Artículo 1166.** *[Nota: Artículo derogado el 10/ago/2011]* Se deroga.
 
@@ -4299,7 +4357,7 @@ II. Por las autoridades administrativas competentes cuando afecten relaciones de
 
 **Artículo 1185.** El administrador será el ejecutor de los acuerdos tomados por la asamblea de condóminos y de las resoluciones administrativas dictadas por las autoridades competentes.
 
-**Artículo 1186.** *[Nota: Artículo reformado el 10/ago/2011]* Son aplicables en lo conducente al condominio de mercados, además de este Código, las disposiciones contenidas en la Ley que regula el Régimen de Propiedad en Condominio para el Estado de Puebla.
+**Artículo 1186.** *[Nota: Artículo reformado el 10/ago/2011.]* Son aplicables en lo conducente al condominio de mercados, además de este Código, las disposiciones contenidas en la Ley que regula el Régimen de Propiedad en Condominio para el Estado de Puebla.
 
 ### CAPÍTULO XI DERECHO REAL DE USUFRUCTO
 
@@ -4399,7 +4457,7 @@ c) Sustituir al deudor si no se trata de derecho con garantía real; y,
 
 d) Volver a imponer el capital redimido.
 
-**Artículo 1208.** Si el usufructo comprendiere bienes que se deterioren por el uso, el usufructuario tiene derecho de servirse de ellos como buen padre de familia, para los usos a que se hallen destinados; y sólo está obligado a devolverlos, en el estado en que se encuentren, al extinguirse el usufructo, sin perjuicio de la responsabilidad en que pudiere incurrir conforme a este Código.
+**Artículo 1208.** *[Nota: Artículo reformado 10/marzo/2021.]* Si el usufructo comprendiere bienes que se deterioren por el uso, el usufructuario tiene derecho de servirse de ellos con la debida diligencia, para los usos a que se hallen destinados; y sólo está obligado a devolverlos, en el estado en que se encuentren, al extinguirse el usufructo, sin perjuicio de la responsabilidad en que pudiere incurrir conforme a este Código.
 
 **Artículo 1209.** El usufructuario de un monte, que pueda explotarse conforme a las leyes forestales, disfruta de todos los productos de éste.
 
@@ -4417,7 +4475,7 @@ d) Volver a imponer el capital redimido.
 
 I. A formar a sus expensas, con citación del nudo propietario, un inventario valuando los muebles y describiendo el estado en que se hallen los inmuebles;
 
-II. A garantizar que cuidará de los bienes como buen padre de familia y que, al extinguirse el usufructo, los restituirá al propietario, con sus accesiones, no deteriorados por su culpa o negligencia.
+II. A garantizar que cuidará de los bienes con la debida diligencia y que, al extinguirse el usufructo, los restituirá al propietario, con sus accesiones, no deteriorados por su culpa o negligencia. *[Nota: Fracción reformada 10/marzo/2021.]*
 
 **Artículo 1215.** El donante que se reserva el usufructo de los bienes donados, está dispensado de la garantía si no se obligó expresamente a ello.
 
@@ -5123,9 +5181,11 @@ IV. Si la persona a cuyo favor corre la usucapión reconoce en forma expresa, de
 
 **Artículo 1432.** Se aplicarán a los actos jurídicos, en su caso, las siguientes disposiciones:
 
-I. Los actos jurídicos se rigen por las disposiciones de este Código que reglamentan en general a los contratos y a la declaración unilateral de voluntad, en tanto ellas no se opongan a la naturaleza propia del acto; y,
+I.- Los actos jurídicos se rigen por las disposiciones de este Código que reglamentan en general a los contratos y a la declaración unilateral de voluntad, en tanto ellas no se opongan a la naturaleza propia del acto; *[Nota: Fracción reformada el 26/mar/2021.]*
 
-II. Las disposiciones que rigen al acto jurídico el general, son aplicables a los contratos y a la declaración unilateral de voluntad, en tanto esas disposiciones no se opongan a la naturaleza propia del contrato o declaración unilateral.
+II.- Las disposiciones que rigen al acto jurídico el general, son aplicables a los contratos y a la declaración unilateral de voluntad, en tanto esas disposiciones no se opongan a la naturaleza propia del contrato o declaración unilateral; y *[Nota: Fracción reformada el 26/mar/2021.]*
+
+III.- Los actos jurídicos y sus consecuencias no se extinguen por el reconocimiento de la identidad de género autopercibida, por lo que subsisten y se ligan a la persona que las adquirió hasta su total cumplimiento. *[Nota: Fracción adicionada el 26/mar/2021.]*
 
 ### CAPÍTULO III FUENTES DE LAS OBLIGACIONES
 
@@ -5225,7 +5285,7 @@ I. Debe manifestarse claramente;
 
 II. Puede ser expreso o tácito;
 
-III. Es expreso cuando se manifiesta verbalmente, en un documento o por signos inequívocos; *[Nota: Fracción reformada el 27/jun/2011]*
+III. Es expreso cuando se manifiesta verbalmente, en un documento o por signos inequívocos; *[Nota: Fracción reformada el 27/jun/2011.]*
 
 IV. Sólo podrá recurrir a los signos de que habla la fracción anterior, el contratante que tenga imposibilidad física para hablar o escribir, salvo disposición de la ley en otro sentido o costumbre en contrario;
 
@@ -5825,7 +5885,7 @@ III. En la restitución de un bien ajeno; o,
 
 IV. En el pago de un bien debido.
 
-**Artículo 1641.** El obligado a dar algún bien, lo está a conservarlo y entregarlo con la diligencia propia de un buen padre de familia.
+**Artículo 1641.** *[Nota: Artículo reformado 10/marzo/2021.]* La persona obligada a dar algún bien, lo está a conservarlo y entregarlo con la debida diligencia en virtud de garantizar mantenerlo en condiciones pactadas mientras no lo entregue.
 
 **Artículo 1642.** La obligación de dar un bien cierto comprende también la de entregar los accesorios de éste.
 
@@ -6799,19 +6859,21 @@ III. En los demás casos previstos por la ley.
 
 Por daño moral, se entiende la afectación que una persona sufre en sus afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físicos, o bien en la consideración que de sí misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas. *[Nota: Párrafo adicionado el 26/nov/2007 y reformado el 23/feb/2011.]*
 
-Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, determinada por el Juez, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. *[Nota: Párrafo adicionado el 23/feb/2011]*
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, determinada por el Juez, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. *[Nota: Párrafo adicionado el 23/feb/2011.]*
 
-La acción de reparación no es transmisible a terceros por acto entre vivos y solo pasa a los herederos de la victima cuando ésta haya intentado la acción en vida. *[Nota: Párrafo adicionado el 23/feb/2011]* El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso. Dicho monto no excederá de tres mil días de salario mínimo vigente. *[Nota: Párrafo adicionado el 23/feb/2011]*
+La acción de reparación no es transmisible a terceros por acto entre vivos y solo pasa a los herederos de la victima cuando ésta haya intentado la acción en vida. *[Nota: Párrafo adicionado el 23/feb/2011.]*
 
-**Artículo 1958 Bis.** *[Nota: Artículo adicionado el 23/feb/2011]* Toda persona física o jurídica que publique cualquier tipo de escrito, tendrá la obligación de publicar gratuitamente las rectificaciones o respuestas que las autoridades o particulares requieran dar a las alusiones que se les hagan en artículos, editoriales, columnas, párrafos, reportajes o entrevistas y similares, siempre que la respuesta se dé dentro de los ocho días naturales siguientes a la publicación; que su extensión no sea mayor al triple del párrafo o artículo en que se contenga la alusión que se contesta, tratándose de autoridades, o del doble, tratándose de particulares; que no se usen expresiones contrarias a la dignidad de quien las publicó o a terceras personas y que no se cometa algún hecho prohibido por Ley.
+El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso. Dicho monto no excederá del equivalente a la cantidad de tres mil veces el valor diario de la Unidad de Medida y Actualización. *[Nota: Párrafo adicionado el 23/feb/2011 y reformado el 29/dic/2017.]*
+
+**Artículo 1958 Bis.** *[Nota: Artículo adicionado el 23/feb/2011.]* Toda persona física o jurídica que publique cualquier tipo de escrito, tendrá la obligación de publicar gratuitamente las rectificaciones o respuestas que las autoridades o particulares requieran dar a las alusiones que se les hagan en artículos, editoriales, columnas, párrafos, reportajes o entrevistas y similares, siempre que la respuesta se dé dentro de los ocho días naturales siguientes a la publicación; que su extensión no sea mayor al triple del párrafo o artículo en que se contenga la alusión que se contesta, tratándose de autoridades, o del doble, tratándose de particulares; que no se usen expresiones contrarias a la dignidad de quien las publicó o a terceras personas y que no se cometa algún hecho prohibido por Ley.
 
 La publicación de la respuesta, se hará en el mismo lugar y con la misma clase de letra y demás particularidades con que se hizo la publicación del artículo, editorial, columna, párrafo, reportaje o entrevista y similares a que la rectificación o respuesta se refiere.
 
 La rectificación o respuesta se publicará al día siguiente de aquel que se reciba, si se trata de publicación diaria o en el número inmediato, si se trata de otras publicaciones periódicas. Si la respuesta o rectificación se recibe cuando ya no pueda publicarse en los términos indicados, se hará en el número siguiente.
 
-A la persona física o jurídica que se niegue a publicar la rectificación o respuesta en los términos referidos, el juez le impondrá una multa por el importe de cien a mil quinientos días de salario mínimo vigente.
+A la persona física o jurídica que se niegue a publicar la rectificación o respuesta en los términos referidos, el juez le impondrá una multa del equivalente a la cantidad de cien a mil quinientas veces el valor diario de la Unidad de Medida y Actualización. *[Nota: Párrafo reformado el 29/dic/2017.]*
 
-**Artículo 1958 Ter.** *[Nota: Artículo adiconado el 23/feb/2011]* Toda sentencia que se pronuncie con motivo de daño moral, se publicará a costa del responsable si así lo exigiere el agraviado.
+**Artículo 1958 Ter.** *[Nota: Artículo adiconado el 23/feb/2011.]* Toda sentencia que se pronuncie con motivo de daño moral, se publicará a costa del responsable si así lo exigiere el agraviado.
 
 **Artículo 1959.** Los daños y perjuicios deben ser consecuencia directa e inmediata del hecho origen de la responsabilidad, ya sea que se hayan causado o que necesariamente deban causarse.
 
@@ -6833,9 +6895,11 @@ VI. El incumplimiento de las obligaciones;
 
 VII. La recepción dolosa de lo indebido;
 
-VIII. Los hechos ejecutados con mala fe; y,
+VIII. Los hechos ejecutados con mala fe; *[Nota: Fraccion reformada el 27/jul/2018.]*
 
-IX. Los demás que sean contrarios a la ley.
+IX. La violencia por razón de género; y *[Nota: Fraccion reformada el 27/jul/2018.]*
+
+X. Los demás que sean contrarios a la ley. *[Nota: Fraccion adicionada el 27/jul/2018.]*
 
 **Artículo 1962.** La reparación del daño puede ser a cargo de una persona distinta del autor del hecho causante de aquél, en los casos expresamente establecidos por la ley.
 
@@ -6907,7 +6971,7 @@ II. Si los ingresos de la víctima exceden del cuádruplo del salario general en
 
 III. Si no fuere posible determinar el salario, sueldo o utilidad de la víctima, se calcularán éstos por peritos, tomando en cuenta las capacidades y aptitudes de aquélla en relación con su profesión, oficio, trabajo o índole de la actividad a la que se dedicaba;
 
-IV. Si los peritos carecen de bases suficientes para fundar su opinión, lo mismo que en el caso de que la víctima no disfrutará sueldo, salario o no desarrollare actividad alguna, la indemnización se calculará sobre la base del salario mínimo general en el lugar en que se realice el daño.
+IV. Si los peritos carecen de bases suficientes para fundar su opinión, lo mismo que en el caso de que la víctima no disfrutará sueldo, salario o no desarrollare actividad alguna, la indemnización se calculará sobre la base el equivalente al valor diario de la Unidad de Medida y Actualización. *[Nota: Fracción reformada el 29/dic/2017.]*
 
 **Artículo 1989.** Tendrán derecho a la indemnización de que habla el artículo anterior:
 
@@ -6933,7 +6997,7 @@ II. Los gastos funerarios.
 
 **Artículo 1994.** Si la lesión recayó sobre la integridad de la persona y el daño origina una lesión a la víctima, que no la imposibilite total o parcialmente para el trabajo, el Juez fijará el importe de la indemnización del daño moral, tomando en cuenta si la parte lesionada es o no visible, la duración de la visibilidad, en su caso, así como la edad y condiciones de la persona.
 
-**Artículo 1995.** La indemnización por daño moral es independiente de la económica, se decretará aun cuando ésta no exista siempre que se cause aquel daño y no excederá del importe de un mil días del salario mínimo general.
+**Artículo 1995.** *[Nota: Articulo reformado el 29/dic/2017.]* La indemnización por daño moral es independiente de la económica, se decretará aun cuando ésta no exista siempre que se cause aquel daño y no excederá del equivalente a la cantidad de mil veces el valor diario de la Unidad de Medida y Actualización.
 
 **Artículo 1996.** *[Nota: Artículo reformado el 26/nov/2007.]* Cuando el daño moral haya afectado a una persona en su honor, su decoro, su prestigio o reputación, puede el Juez ordenar, además, a petición de aquélla, que a costa del condenado se publique, en los medios informativos que el Juez señale, la sentencia que imponga la reparación.
 
@@ -6952,6 +7016,10 @@ En estos casos, resulta también aplicable lo dispuesto en el artículo anterior
 **Artículo 1996 Ter.** *[Nota: Artículo adicionado el 26/nov/ 2007.]* No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución Política de los Estados Unidos Mexicanos.
 
 En ningún caso se considerarán ofensas al honor las opiniones de la crítica literaria, artística, histórica, científica o profesional. Tampoco se considerarán ofensivas las opiniones realizadas en cumplimiento de un deber o ejerciendo un derecho, cuando el modo de proceder o la falta de reserva no tenga un propósito ofensivo.
+
+**Artículo 1996 Quáter.** *[Nota: Artículo adicionado el 27/jul/ 2018.]* En caso de que el hecho ilícito que generó el daño fuese la violencia por razón de género, el Juez ordenará, a petición de la persona afectada y a costa del condenado, se publique la sentencia que imponga la reparación.
+
+Asimismo, si el daño tuvo difusión en los medios informativos el Juez ordenará al condenado publique una disculpa con la misma relevancia que hubiere tenido la difusión original, con independencia de los costos que esto origine.
 
 **Artículo 1997.** *[Nota: Artículo reformado el 14/sep/1998.]* El Estado protegerá de manera facultativa a quienes sufran daños personales por la comisión de un hecho ilícito, mediante el Fondo previsto en la Ley para la Protección a Víctimas de Delitos.
 
@@ -7021,7 +7089,7 @@ V. En las obligaciones recíprocas ninguno de lo contratantes incurre en mora si
 
 CLÁUSULA PENAL
 
-**Artículo 2017.** La responsabilidad por daños y perjuicios causados por incumplimiento de contrato, puede ajustarse por las partes, al celebrarse éste, estipulando una prestación determinada, como pena, misma que no podrá exceder ni en valor ni en cuantía a la obligación principal, por cualquiera de los siguientes casos: *[Nota: Párrafo reformado el 26/nov/2007]*
+**Artículo 2017.** La responsabilidad por daños y perjuicios causados por incumplimiento de contrato, puede ajustarse por las partes, al celebrarse éste, estipulando una prestación determinada, como pena, misma que no podrá exceder ni en valor ni en cuantía a la obligación principal, por cualquiera de los siguientes casos: *[Nota: Párrafo reformado el 26/nov/2007.]*
 
 I. Por el no cumplimiento del contrato;
 
@@ -7485,7 +7553,7 @@ VI. La venta del bien ajeno surtirá todos sus efectos, si el propietario de la 
 
 **Artículo 2146.** Los funcionarios enumerados en artículo 1669, no pueden comprar los bienes que sean objeto del juicio o procedimiento económico-activo en que intervengan respectivamente.
 
-**Artículo 2147.** *[Nota: Artículo reformado el 04/ene/2010]* La prohibición a que se refiere el artículo anterior y la establecida en el 1725, se extiende también al Ministerio Público, Defensores Públicos, abogados, procuradores y testigos que intervengan en el juicio que verse sobre el bien vendido.
+**Artículo 2147.** *[Nota: Artículo reformado el 04/ene/2010.]* La prohibición a que se refiere el artículo anterior y la establecida en el 1725, se extiende también al Ministerio Público, Defensores Públicos, abogados, procuradores y testigos que intervengan en el juicio que verse sobre el bien vendido.
 
 **Artículo 2148.** Se exceptúa de lo dispuesto en los artículos 1669 y 2146:
 
@@ -7517,7 +7585,7 @@ VI. Los empleados públicos.
 
 **Artículo 2153.** El vendedor está obligado:
 
-I. A conservar y custodiar el bien vendido con la diligencia propia de un buen padre de familia, mientras no lo entregue;
+I. A conservar y custodiar el bien vendido con la debida diligencia en virtud de garantizar mantenerlo en condiciones pactadas, mientras no lo entregue; *[Nota: Fracción reformada 10/marzo/2021.]*
 
 II. A entregar al comprador el bien vendido; y,
 
@@ -7709,7 +7777,7 @@ XVII. Si el inmueble adquirido conforme a ese artículo se destina a patrimonio 
 
 **Artículo 2200.** La donación puede hacerse verbalmente o por escrito.
 
-**Artículo 2201.** La donación verbal sólo puede tener por objeto bienes muebles cuyo valor no pase del importe de treinta días de salario mínimo.
+**Artículo 2201.** *[Nota: Articulo reformado el 29/dic/2017.]* La donación verbal sólo puede tener por objeto bienes muebles cuyo valor no pase del equivalente a la cantidad de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 **Artículo 2202.** La donación se hará constar:
 
@@ -7777,6 +7845,8 @@ II. Si el donatario acusa judicialmente al donante de algún delito que pudiera 
 
 III. Si el donatario rehusa socorrer, según el valor de la donación, al donante que haya venido a pobreza.
 
+IV.- En el supuesto del incumplimiento, a lo establecido en el artículo 487, cuando el donatario es descendiente del donante. *[Nota: Fraccion adicionada el 15/ago/2019.]*
+
 **Artículo 2223.** Son aplicables a la acción de revocación por causa de ingratitud, las siguientes disposiciones:
 
 I. No puede ser renunciada anticipadamente;
@@ -7813,7 +7883,7 @@ IV. No puede ser ejercitada por los herederos del donante, si éste, pudiendo, n
 
 I. Si transcurren cinco años desde que se hizo la donación y el donante no ha tenido hijos;
 
-II. Si es menor que el importe de cincuenta días de salario mínimo;
+II. Si es menor que el importe equivalente a la cantidad de cincuenta veces el valor diario de la Unidad de Medida y Actualización; *[Nota: Fraccion reformada el 29/dic/2017.]*
 
 III. Cuando sea antenupcial;
 
@@ -7917,7 +7987,7 @@ III. Lo dispuesto en este artículo es irrenunciable.
 
 **Artículo 2268.** La renta o precio del arrendamiento puede consistir en una suma de dinero o de cualquiera otro bien equivalente, que sea cierto y determinado.
 
-**Artículo 2269.** El arrendamiento debe otorgarse por escrito; pero si el bien arrendado fuere rústico y la renta anual pasare del importe de quinientos días de salario mínimo, el contrato se otorgará en escritura pública.
+**Artículo 2269.** *[Nota: Articulo reformada el 29/dic/2017.]* El arrendamiento debe otorgarse por escrito; pero si el bien arrendado fuere rústico y la renta anual pasare del importe equivalente a la cantidad de quinientas veces el valor diario de la Unidad de Medida y Actualización, el contrato se otorgará en escritura pública.
 
 **Artículo 2270.** El arrendamiento de los bienes del Estado y de los municipios se regirá por las leyes sobre bienes de propiedad pública.
 
@@ -8121,7 +8191,7 @@ V. Que el inquilino no tenga celebrado como arrendador uno o más contratos de a
 
 **Artículo 2322.** Lo dispuesto en el artículo anterior se aplicará también al arrendamiento por tiempo indeterminado.
 
-**Artículo 2323.** *[Nota: Artículo reformado el 09/agos/1985.]* Durante la prórroga prevista en los artículos anteriores, la renta estipulada en el contrato prorrogado sólo podrá aumentarse anualmente, pero el aumento no podrá exceder del setenta por ciento del incremento porcentual fijado al salario mínimo general en el Estado. En tratándose de viviendas construidas dentro de los Programas Gubernamentales de Fomento Habitacional, tales como FOVI, FONHAPO, FOVISSSTE y FIDEICOMISO SEDUE, la renta se incrementará durante el plan de amortización correspondiente, en la forma que señalen dichos Programas.
+**Artículo 2323.** *[Nota: Artículo reformado el 09/agos/1985 y el 29/dic/2017.]* Durante la prórroga prevista en los artículos anteriores, la renta estipulada en el contrato prorrogado sólo podrá aumentarse anualmente, pero el aumento no podrá exceder del setenta por ciento del incremento porcentual fijado del equivalente al valor diario de la Unidad de Medida y Actualización. En tratándose de viviendas construidas dentro de los Programas Gubernamentales de Fomento Habitacional, tales como FOVI, FONHAPO, FOVISSSTE y FIDEICOMISO SEDUE, la renta se incrementará durante el plan de amortización correspondiente, en la forma que señalen dichos Programas.
 
 **Artículo 2324.** *[Nota: Artículo reformado el 09/agos/1985.]* Para que se produzca la prórroga a que se refieren los artículos 2321 y 2322, bastará que el arrendatario satisfaga los requisitos señalados en el propio numeral 2321.
 
@@ -8331,7 +8401,7 @@ III. Por muerte del comodante.
 
 **Artículo 2403.** El depositario está obligado:
 
-I. A conservar el bien depositado según lo reciba y a prestar en su guarda y conservación la diligencia de un buen padre de familia;
+I. A conservar el bien depositado según lo reciba y a prestar en su guarda y conservación la debida diligencia en virtud de garantizar mantenerlo en condiciones pactadas mientras no lo entregue; *[Nota: Fracción reformada 10/marzo/2021.]*
 
 II. A restituir el depósito con todos sus frutos y accesiones, cuando le fuere exigido, por quien tenga derecho de pedir la restitución;
 
@@ -8437,13 +8507,13 @@ VI. Los notarios insertarán la fracción o fracciones relativas de este artícu
 
 **Artículo 2441.** Para que el mandatario pueda hacer donaciones en nombre o por cuenta del mandante, es necesario que éste le dé poder especial, en cada caso.
 
-**Artículo 2442.** El mandato podrá otorgarse en carta poder firmada ante dos testigos, sin que sea necesaria la ratificación de las firmas, cuando el interés del negocio para que se confiere no exceda del importe de diez días de salario mínimo.
+**Artículo 2442.** *[Nota: Artículo reformado el 29/dic/2017.]* El mandato podrá otorgarse en carta poder firmada ante dos testigos, sin que sea necesaria la ratificación de las firmas, cuando el interés del negocio para que se confiere no exceda del importe equivalente a la cantidad de diez veces el valor diario de la Unidad de Medida y Actualización.
 
-**Artículo 2443.** Puede otorgarse mandato en carta poder firmada ante dos testigos y ratificada la firma del otorgante ante Notario, cuando el interés del negocio para que se confiere exceda del importe de diez días de salario mínimo, pero no de cincuenta.
+**Artículo 2443.** *[Nota: Artículo reformado el 29/dic/2017.]* Puede otorgarse mandato en carta poder firmada ante dos testigos y ratificada la firma del otorgante ante Notario, cuando el interés del negocio para que se confiere exceda del importe de diez días de salario mínimo, pero no de cincuenta.
 
 **Artículo 2444.** El mandato debe otorgarse en escritura pública:
 
-I. Cuando el interés del negocio para que se confiere exceda del importe de cincuenta días de salario mínimo;
+I. Cuando el interés del negocio para que se confiere exceda del importe equivalente a la cantidad de cincuenta veces el valor diario de la Unidad de Medida y Actualización; *[Nota: Fracción reformada el 29/dic/2017.]*
 
 II. Cuando sea general;
 
@@ -8555,11 +8625,11 @@ II. Los jueces, magistrados y demás funcionarios y empleados de la administraci
 
 III. Los empleados de la Hacienda Pública en cualquiera causa en que puedan intervenir de oficio, dentro de los límites del Estado;
 
-IV. Derogada.
+IV. Derogada. *[Nota: Fracción derogada el 26/jul/1991.]*
 
 V. Los notarios.
 
-VI. Cuando los mandatarios para pleitos y cobranzas no sean abogados titulados, deberán promover ante las autoridades judiciales, patrocinados por un abogado con título registrado ante el Tribunal Superior de Justicia del Estado.
+VI. Cuando los mandatarios para pleitos y cobranzas no sean abogados titulados, deberán promover ante las autoridades judiciales, patrocinados por un abogado con título registrado ante el Tribunal Superior de Justicia del Estado. *[Nota: Fracción adicionada el 26/jul/1991.]*
 
 **Artículo 2475.** El mandato judicial será otorgado por escrito, en cualquiera de las formas establecidas para el mandato ordinario.
 
@@ -8969,7 +9039,7 @@ III. El hospedaje tácito se rige por el reglamento, que expedirá la autoridad 
 
 **Artículo 2599.** A falta de convenio de los interesados, sobre los derechos y obligaciones derivadas de la aparcería de ganados, se observará la costumbre del lugar, salvo las siguientes disposiciones.
 
-**Artículo 2600.** El aparcero de ganados está obligado a emplear en la guarda y tratamiento de los animales, el cuidado y diligencias que un buen padre de familia tiene con sus bienes.
+**Artículo 2600.** *[Nota: Artículo reformado 10/marzo/2021.]* La persona aparcera de ganados está obligada a emplear en la guarda y tratamiento de los animales, el cuidado y debida diligencia en virtud de garantizar mantenerlo en condiciones pactadas mientras no lo entregue.
 
 **Artículo 2601.** El propietario está obligado a garantizar a su aparcero la posesión y el uso del ganado y a sustituir por otros, en caso de evicción, los animales perdidos.
 
@@ -9389,7 +9459,7 @@ II. Elegirá entre pagar la prestación principal u otra distinta;
 
 III. Pagará una cantidad de dinero, si el deudor principal no presta un bien o un hecho determinado.
 
-**Artículo 27.** En el caso del artículo anterior, la prestación del fiador, que sustituya al pago de la obligación principal, no puede ser superior a ésta, apreciadas ambas en dinero.
+**Artículo 2739.** En el caso del artículo anterior, la prestación del fiador, que sustituya al pago de la obligación principal, no puede ser superior a ésta, apreciadas ambas en dinero.
 
 **Artículo 2740.** Si convencionalmente se fijo determinado importe al monto de la obligación del fiador por no ser líquido el valor de la obligación principal, aquélla sólo podrá ejecutarse hasta que ésta sea líquida.
 
@@ -10395,89 +10465,91 @@ III. Los créditos de los establecimientos de asistencia social, sea pública o 
 
 **Artículo 2984.** Con los bienes restantes serán pagados los créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
-CAPITULO XXV (se deroga todo el 13 abril 2009)
+### CAPITULO XXV *[Nota: Capítulo derogado el 13/abr/2009.]*
 
-REGISTRO PÚBLICO DE LA PROPIEDAD
+Se deroga
 
-#### SECCION PRIMERA DISPOSICIONES GENERALES
+#### SECCION PRIMERA *[Nota: Sección derogada el 13/abr/2009.]*
 
-**Artículo 2985.** *[Nota: Artículo derogado el 13/abr/2009.]* se deroga
+Se deroga
 
-**Artículo 2986.** *[Nota: Artículo derogado el 13/abr/2009.]* se deroga
+**Artículo 2985.** *[Nota: Artículo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 2987.** *[Nota: Artículo derogado el 13/abr/2009.]* se deroga
+**Artículo 2986.** *[Nota: Artículo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 2988.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 2987.** *[Nota: Artículo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 2989.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 2988.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 2990.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 2989.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 2991.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 2990.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 2992.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 2991.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
+
+**Artículo 2992.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
 **Artículo 2993.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
 
-**Artículo 2994.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 2994.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 2995.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 2995.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-#### SECCIÓN SEGUNDA PERSONAS QUE PUEDEN PEDIR LA INSCRIPCIÓN Y MODO DE HACER EL REGISTRO
+#### SECCIÓN SEGUNDA *[Nota: Sección derogada el 13/abr/2009.]*
 
-se deroga
+Se deroga
 
-**Artículo 2996.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 2996.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 2997.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 2997.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 2998.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 2998.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 2999.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 2999.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3000.** *[Nota: Articulo derogado el 13/abr/2009.]* se deroga
+**Artículo 3000.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3001.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3001.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3002.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3002.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3003.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3003.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3004.** *[Nota: Articulo derogado el 13/abr/2009]* Se deroga
+**Artículo 3004.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3005.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3005.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3006.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3006.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3007.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3007.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-#### SECCIÓN TERCERA EXTINCIÓN DE LAS INSCRIPCIONES
+#### SECCIÓN TERCERA EXTINCIÓN DE LAS INSCRIPCIONES444
 
-se deroga
+Se deroga.
 
-**Artículo 3008.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3008.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3009.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3009.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3010.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3010.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3011.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3011.** *[Nota: Articulo derogado el 13/abr/2009]* Se deroga.
 
-**Artículo 3012.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3012.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3013.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3013.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3014.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3014.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3015.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3015.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3016.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3016.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3017.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3017.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3018.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3018.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
-**Artículo 3019.** *[Nota: Articulo derogado el 13/abr/2009]* se deroga
+**Artículo 3019.** *[Nota: Articulo derogado el 13/abr/2009.]* Se deroga.
 
 ## LIBRO SEXTO SUCESIONES
 
@@ -10511,7 +10583,7 @@ III. Los ascendientes;
 
 IV. Los parientes colaterales hasta el grado indicado en este Código; y,
 
-V. Por partes iguales, la Benemérita Universidad Autónoma de Puebla y el Gobierno del Estado a través de la instancia responsable de la administración del patrimonio inmobiliario estatal, para destinarlo a la asistencia social pública. *[Nota: Fracción reformada el 31/dic/2012]*
+V. Por partes iguales, la Benemérita Universidad Autónoma de Puebla y el Gobierno del Estado a través de la instancia responsable de la administración del patrimonio inmobiliario estatal, para destinarlo a la asistencia social pública. *[Nota: Fracción reformada el 31/dic/2012.]*
 
 **Artículo 3030.** Los coherederos tienen el derecho del tanto, para el caso de que uno de ellos pretenda enajenar sus derechos sucesorios a un extraño a la herencia.
 
@@ -10533,7 +10605,7 @@ I. La distribución de las cantidades que deje a grupos determinados, como huér
 
 II. La individuación y elección de las personas a quienes deban aplicarse las cantidades a que se refiere la fracción anterior;
 
-III. La elección de los establecimientos públicos o de asistencia social pública, a los que se transmitan los bienes del testador y la determinación de las cantidades que a cada uno corresponda. *[Nota: Fracción reformada el 31/dic/2012]*
+III. La elección de los establecimientos públicos o de asistencia social pública, a los que se transmitan los bienes del testador y la determinación de las cantidades que a cada uno corresponda. *[Nota: Fracción reformada el 31/dic/2012.]*
 
 **Artículo 3036.** En el caso del artículo anterior, el Juez y el Ministerio Público deberán vigilar:
 
@@ -10719,7 +10791,7 @@ II. A quienes el testador instituyó herederos o legatarios, antes de ser nombra
 
 **Artículo 3091.** La herencia o legado que se dejen a un establecimiento público, imponiéndole algún gravamen o bajo alguna condición, sólo serán válidos si el Gobernador del Estado los aprueba.
 
-**Artículo 3092.** *[Nota: Artículo reformado el 31/dic/2012]* Las disposiciones hechas en favor del alma, o de los pobres en general, salvo lo dispuesto en el artículo 3035, se entienden hechas en favor de la asistencia social pública del Estado.
+**Artículo 3092.** *[Nota: Artículo reformado el 31/dic/2012.]* Las disposiciones hechas en favor del alma, o de los pobres en general, salvo lo dispuesto en el artículo 3035, se entienden hechas en favor de la asistencia social pública del Estado.
 
 **Artículo 3093.** Por renuncia o remoción de un cargo son incapaces de heredar por testamento los que, nombrados en el tutores, curadores o albaceas, hayan rehusado sin justa causa el cargo, o hayan sido separados judicialmente de su ejercicio, salvo que la cesación en el cargo de albacea, haya sido motivada por no haber terminado el juicio sucesorio, en el plazo establecido.
 
@@ -10767,7 +10839,7 @@ III. A los mayores que se encuentren en el supuesto previsto en el artículo 499
 
 IV. Al cónyuge supérstite varón que esté impedido para trabajar;
 
-V. Al cónyuge supérstite mujer mientras no contraiga matrimonio y viva honestamente;
+V. Al cónyuge supérstite mujer mientras no contraiga matrimonio; *[Nota: Fracción reformada el 14/sep/20127.]*
 
 VI. A la persona con quien el autor de la herencia haya vivido en la situación prevista por el artículo 297 de este Código, que se encuentre, respectivamente, en cualquiera de los casos a que se refieren las dos fracciones anteriores;
 
@@ -11153,9 +11225,9 @@ IV. Si no se reúnen los requisitos legales para la compensación, sólo se exti
 
 **Artículo 3241.** Puede el testador señalar el bien que quede afectado para el pago de la cantidad o cantidades que deje a un establecimiento de asistencia, pero pagadas estas cantidades, quedará liberado el bien.
 
-**Artículo 3242.** *[Nota: Artículo reformado el 31/dic/2012]* Puede el testador fundar uno o más lugares en un establecimiento de asistencia social pública o de instrucción pública, para sus herederos o legatarios.
+**Artículo 3242.** *[Nota: Artículo reformado el 31/dic/2012.]* Puede el testador fundar uno o más lugares en un establecimiento de asistencia social pública o de instrucción pública, para sus herederos o legatarios.
 
-**Artículo 3243.** *[Nota: Artículo reformado el 31/dic/2012]* Faltando las personas a que se refiere el artículo anterior, el capital quedará destinado por partes iguales a la Benemérita Universidad Autónoma de Puebla y al Gobierno del Estado a través de la instancia responsable de la administración del patrimonio inmobiliario estatal, para destinarlo a la asistencia social pública.
+**Artículo 3243.** *[Nota: Artículo reformado el 31/dic/2012.]* Faltando las personas a que se refiere el artículo anterior, el capital quedará destinado por partes iguales a la Benemérita Universidad Autónoma de Puebla y al Gobierno del Estado a través de la instancia responsable de la administración del patrimonio inmobiliario estatal, para destinarlo a la asistencia social pública.
 
 **Artículo 3244.** Todo lo dispuesto en este capítulo respecto de los herederos se observará también respecto de los legatarios.
 
@@ -11409,9 +11481,11 @@ VI. En el caso del artículo 3309 quien fue el testigo que lo escribió.
 
 **Artículo 3317.** Lo dispuesto en el artículo anterior, se observará también en el caso de que alguno o algunos de los testigos no se encuentren en el lugar de la información testimonial, sin perjuicio de que, en su caso, se examinen por exhorto.
 
-#### SECCIÓN QUINTA TESTAMENTO MILITAR Y MARÍTIMO
+#### SECCIÓN QUINTA *[Nota: Sección derogada el 13/ago/2019.]*
 
-**Artículo 3318.** El testamento militar y el marítimo otorgados conforme a las disposiciones del Código del Distrito Federal, producirán efectos en el Estado de Puebla, respecto a las disposiciones testamentarias que deban ejecutarse en éste.
+Sección derogada
+
+**Artículo 3318.** *[Nota: Artículo derogado el 13/ago/2019.]* Se deroga.
 
 #### SECCIÓN SEXTA TESTAMENTO HECHO FUERA DEL ESTADO
 
@@ -11535,9 +11609,9 @@ Faltando alguno de estos últimos requisitos, el concubino supérstite sólo ten
 
 **Artículo 3360.** A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos dentro del sexto grado, sin distinción de líneas ni consideración a doble vínculo y heredarán por partes iguales.
 
-#### SECCIÓN SÉPTIMA SUCESIÓN DE LA BENEMÉRITA UNIVERSIDAD AUTÓNOMA DE PUEBLA Y DE LA ASISTENCIA SOCIAL *[Nota: Denominación reformada el 31/dic/2012]*
+#### SECCIÓN SÉPTIMA SUCESIÓN DE LA BENEMÉRITA UNIVERSIDAD AUTÓNOMA DE PUEBLA Y DE LA ASISTENCIA SOCIAL *[Nota: Denominación reformada el 31/dic/2012.]*
 
-**Artículo 3361.** *[Nota: Artículo reformado el 31/dic/2012]* A falta de los herederos llamados en los capítulos anteriores, sucederán por partes iguales, la Benemérita Universidad Autónoma de Puebla y el Gobierno del Estado a través de la instancia responsable de la administración del patrimonio inmobiliario estatal, para destinarlo a la asistencia social pública; si en la herencia hubiere bienes raíces, se cumplirá lo que disponga al respecto la Constitución Política de los Estados Unidos Mexicanos.
+**Artículo 3361.** *[Nota: Artículo reformado el 31/dic/2012.]* A falta de los herederos llamados en los capítulos anteriores, sucederán por partes iguales, la Benemérita Universidad Autónoma de Puebla y el Gobierno del Estado a través de la instancia responsable de la administración del patrimonio inmobiliario estatal, para destinarlo a la asistencia social pública; si en la herencia hubiere bienes raíces, se cumplirá lo que disponga al respecto la Constitución Política de los Estados Unidos Mexicanos.
 
 ### CAPÍTULO XII DISPOSICIONES COMUNES A LA SUCESIÓN TESTAMENTARIA Y A LA LEGÍTIMA
 
@@ -12073,7 +12147,7 @@ III. Cuando la evicción proceda de causa posterior a la partición o fuere ocas
 
 ## ARTÍCULOS TRANSITORIOS
 
-(Del Decreto que expide el Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 30 de abril de 1985, Tomo CCXXXII, Número 35, Segunda sección)
+(Del Decreto del Honorable Congreso del Estado, que expide el Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el martes 30 de abril de 1985, Número 35, Segunda Sección, Tomo CCXXXII).
 
 Artículo Primero . El presente Ordenamiento entrará en vigor el día Primero de Junio de mil novecientos ochenta y cinco, previa publicación en el Periódico Oficial del Estado.
 
@@ -12083,31 +12157,33 @@ Artículo Tercero . Al entrar en vigor este Código, puede promoverse la ausenci
 
 Artículo Cuarto . Cuando los plazos para el ejercicio de un derecho, o para su extinción, establecidos por el Código abrogado, varíen en cuanto a su amplitud en el nuevo Código, el tiempo transcurrido antes de la vigencia de éste se contará en proporción al nuevo plazo.
 
-El Gobernador hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los quince días del mes de Abril de mil novecientos ochenta y cinco. Profr. Neftalí Dante Nolasco Hernández. Diputado Presidente. Rúbrica. Lic. Antonio Hernández Genis. Diputado Secretario. Rúbrica. Jesús Martínez García. Diputado Secretario. Rúbrica. Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de abril de mil novecientos ochenta y cinco. El Gobernador Constitucional del Estado. LIC. GUILLERMO MORALES . Rúbrica. El Secretario de Gobernación. LIC. FERNANDO GARCÍA ROSAS . Rúbrica.
+El Gobernador hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los quince días del mes de Abril de mil novecientos ochenta y cinco. Profr. Neftalí Dante Nolasco Hernández. Diputado Presidente. Rúbrica. Lic. Antonio Hernández Genis. Diputado Secretario. Rúbrica. Jesús Martínez García. Diputado Secretario. Rúbrica.
+
+Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de abril de mil novecientos ochenta y cinco. El Gobernador Constitucional del Estado. LIC. GUILLERMO JIMÉNEZ MORALES . Rúbrica. El Secretario de Gobernación. LIC. FERNANDO GARCÍA ROSAS . Rúbrica.
 
 ## TRANSITORIO
 
-(Del Decreto que reforma los artículos 2323 y 2324 del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 9 de agosto de 1985, Tomo CCXXXIII, Número 12)
+(Del Decreto del Honorable Congreso del Estado, por el que reforma los artículos 2323 y 2324 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Viernes 9 de agosto de 1985, Número 12 Tomo CCXXXIII).
 
-El presente Decreto empezará a surtir sus efectos a partir del día siguiente publicación en el Periódico Oficial del Estado.
+ÚNICO.- El presente Decreto empezará a surtir sus efectos a partir del día siguiente publicación en el Periódico Oficial del Estado.
 
 EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los ocho días del mes de Agosto de mil novecientos ochenta y cinco. Diputado Presidente. Marco Antonio Fosado Ortiz. Rúbrica. Diputada Secretaria. Lic. Lidia Zarrazaga Molina. Rúbrica. Diputado Secretario. Lic. Jesús Antonio Carlos Hernández. Rúbrica.
 
-Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los nueve días del mes de agosto de mil novecientos ochenta y cinco. El Gobernador Constitucional del Estado. Lic. Guillermo Jiménez Morales . Rúbrica. El Secretario de Gobernación. Lic. Fernando García Rosas . Rúbrica.
+Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los nueve días del mes de agosto de mil novecientos ochenta y cinco. El Gobernador Constitucional del Estado. LIC. GUILLERMO JIMÉNEZ MORALES . Rúbrica. El Secretario de Gobernación. LIC. FERNANDO GARCÍA ROSAS . Rúbrica.
 
 ## TRANSITORIO
 
-(Del Decreto que reforma los artículos 830, 848, 849 y 875 del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 28 de julio de 1989, Tomo CCXLI, Número 8)
+(Del Decreto del Honorable Congreso del Estado, que reforma los artículos 830, 848, 849 y 875 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Viernes 28 de julio de 1989, Número 8, Tomo CCXLI).
 
-El presente Decreto entrará en vigor el día siguiente publicación en el Periódico Oficial del Estado.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los 16 días del mes de febrero de 1987. Diputada Presidenta. Profa. Arcelia Amador Gutiérrez. Rúbrica. Diputado Secretario. Antonio Castelán Guarneros. Rúbrica. Diputada Secretaria. Lic. Concepción Contreras Bretón. Rúbrica.
 
-Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los catorce días del mes de julio de mil novecientos ochenta y nueve. El Gobernador Constitucional del Estado. Lic. Mariano Piña Olaya . Rúbrica. El Secretario de Gobernación. Lic. Héctor Jiménez y Meneses . Rúbrica.
+Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los catorce días del mes de julio de mil novecientos ochenta y nueve. El Gobernador Constitucional del Estado. LIC. MARIANO PIÑA OLAYA . Rúbrica. El Secretario de Gobernación. LIC. HÉCTOR JIMÉNEZ Y MENESES . Rúbrica.
 
 ## TRANSITORIOS
 
-(Del Decreto que reforma los artículos 45, 46, 443, 451, 583, 585 y del 677 al 681 del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 27 de abril de 1990, Tomo CCXLII, Número 34)
+(Del Decreto del Honorable Congreso del Estado, que reforma los artículos 45, 46, 443, 451, 583, 585 y del 677 al 681 del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado, el Viernes 27 de abril de 1990, Número 34 Tomo CCXLII).
 
 Artículo Primero . Este Decreto entrará en vigor el día siguiente publicación en el Periódico Oficial del Estado.
 
@@ -12117,125 +12193,159 @@ Artículo Tercero . Los procedimientos judiciales que se hayan iniciado antes de
 
 EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los 4 días del mes de abril de 1990. Diputado Presidente. Juan Balderas Muñoz. Rúbrica. Diputada Secretaria. Lic. Enoé González Cabrera. Rúbrica. Diputado Secretario. Profr. Rubén Gallardo mejía. Rúbrica.
 
-Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los cuatro días del mes de abril de mil novecientos noventa. El Gobernador Constitucional del Estado. Lic. Mariano Piña Olaya . Rúbrica. El Secretario de Gobernación. Lic. Héctor Jiménez y Meneses . Rúbrica.
-
-## TRANSITORIOS
-
-(Del Decreto que reforma los artículos 45, 578, 579, 585, 588, 590, 596 y 831; adiciona la fracción III al artículo 602; y deroga los artículos 492, 591, 592, 593, 594, 595, 596, 881, 882, 883 y 884 del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 15 de diciembre de 1992, Tomo CCXLVII, Número 48, Tercera sección)
-
-Artículo Primero . El presente Decreto entrará en vigor el día siguiente publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo . Las personas que hayan adoptado en el Estado de Puebla, en los términos que marcaban los Códigos civil y de Procedimientos Civiles y que a la fecha los menores adoptados no hayan cumplido la mayoría de edad, podrán tramitar la adopción en los términos de las siguientes disposiciones transitorias cuya vigencia será de dos años, al cabo de las cuales quedarán abrogadas.
-
-Artículo Tercero . Las gestiones a que se refiere el artículo anterior, se tramitarán en Jurisdicción Voluntaria y se le dará al Agente del Ministerio Público la intervención que le corresponde.
-
-Artículo Cuarto . Los Jueces de los Familiar que conozcan de estas gestiones, ordenarán se haga las anotaciones marginales correspondientes en las actas de nacimiento y de adopción; asimismo, procederán conforme a lo dispuesto por el artículo 585 del Código Civil.
-
-Artículo Quinto . Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
-
-EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los diez días del mes de diciembre de mil novecientos noventa y dos. Diputado Presidente. Lic. Rodolfo Budid Lichtle. Rúbrica. Diputado Secretario. Héctor González Reyes. Rúbrica. Diputado Secretario.Lic. Juan Miguel Madera López. Rúbrica.
-
-Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diez días del mes de diciembre de mil novecientos noventa y dos. El Gobernador Constitucional del Estado. Lic. Mariano Piña Olaya . Rúbrica. El Secretario de Gobernación. Lic. Héctor Jiménez y Meneses . Rúbrica.
+Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los cuatro días del mes de abril de mil novecientos noventa. El Gobernador Constitucional del Estado. LIC. MARIANO PIÑA OLAYA . Rúbrica. El Secretario de Gobernación. LIC. HÉCTOR JIMÉNEZ Y MENESES . Rúbrica.
 
 ## TRANSITORIO
 
-(Del Decreto por el que se reforma el artículo 3286 del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 1 de julio de 1994, Tomo CCLI, número 1, Segunda sección)
+(Del Decreto del Honorable Congreso del Estado, que reforma los artículos 300 y 403 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Viernes 21 de diciembre de 1990, Número 49, Tercera Sección, Tomo CCXLIII).
 
-El presente Decreto entrará en vigor el día siguiente publicación en el Periódico Oficial del Estado.
+ÚNICO . El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los veintitrés días del mes de junio de mil novecientos noventa y cuatro. Diputado Presidente. Valentín Diez Fernández. Rúbrica. Diputado Secretario. Ramona Meza Báez. Rúbrica. Diputado Secretario. Antonio Medina Ramírez. Rúbrica.
+EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los 13 días del mes de diciembre de 1990.- Diputado Presidente.- Lic. Jorge Jiménez Alonso.- Rúbrica. Diputado Secretario.- Juan Balderas Muñoz.- Rúbrica.- Diputado Secretario. Lic. César Sotomayor Cano.- Rúbrica.
 
-Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintitrés días del mes de junio de mil novecientos noventa y cuatro. El Gobernador Constitucional del Estado. Lic. Manuel Bartlett Díaz . Rúbrica. El Secretario de Gobernación. Lic. Carlos Palafox Vázquez . Rúbrica.
-
-TRANSITORIOS (1 y 2)
-
-(Del Decreto que reforma, adiciona y deroga diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 28 de febrero de 1997, Tomo CCLXII, Número 11, Segunda sección)
-
-Artículo Primero . El presente Decreto entrará en vigor el día siguiente publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo . Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los veintisiete días del mes de junio de mil novecientos noventa y siete. Diputado Presidente. CARLOS BARRIENTOS DE LAROSA. Rúbrica. Diputado Secretario. GERARDO TECPANECATL ROMERO. Rúbrica. Diputado Secretario. JOEL CUEVAS TELLEZ. Rúbrica.
-
-Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintisiete días del mes de junio de mil novecientos noventa y siete. El Gobernador Constitucional del Estado. Lic. Manuel Bartlett Díaz . Rúbrica. El Secretario de Gobernación. Lic. Mario P. Marín Torres . Rúbrica.
-
-## TRANSITORIOS
-
-(Del Decreto que reforma los artículos 830, 855, 875 fracción II y 930 del Código Civil del Estado de Puebla, publicado en el Periódico Oficial el 26 de septiembre de 1997, Tomo CCLXIX, Número 12, Segunda sección)
-
-Primero . El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Segundo . Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
-
-Tercero . Los procedimientos de registro extemporáneo de nacimiento previstos por el Artículo 875 Fracción II, que se reforma que se encuentran en trámite ante los Juzgados de lo Familiar del Estado, serán substanciados por dichos órganos jurisdiccionales hasta su autorización final.
-
-EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los treinta y un días del mes de julio de mil novecientos noventa y siete. Diputado Presidente. JOSÉ SÁNCHEZ TINOCO. Rúbrica. Diputado Secretario. MARCOS CRUZ OSORIO. Rúbrica. Diputado Secretario. BERNABÉ FÉLIX FORTUNATO MARMOLEJO OREA. Rúbrica.
-
-Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los treinta y un días del mes de julio de mil novecientos noventa y siete. El Gobernador Constitucional del Estado. LICENCIADO MANUEL BARTLETT DIAZ . Rúbrica. El Secretario de Gobernación. LICENCIADO CARLOS MANUEL MEZA VIVEROS . Rúbrica.
-
-## TRANSITORIOS
-
-(Del Decreto que reforma, adiciona y deroga y modifica diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla y del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 14 de septiembre de 1998, Tomo CCLXXXI, Número 6, Cuarta sección)
-
-Artículo primero . El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo . Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente ordenamiento.
-
-EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los veintiséis días del mes de agosto de mil novecientos noventa y ocho. Diputado Presidente. ENRIQUE NACER HERNÁNDEZ. Rúbrica. Diputada Secretaria. LAURA ROLDAN RUBIO. Rúbrica. Diputada Secretaria. YOLANDA ZEGBE SANEN. Rúbrica.
-
-Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de agosto de mil novecientos noventa y ocho. El Gobernador Constitucional del Estado. LICENCIADO MANUEL BARTLETT DIA Z. Rúbrica. El Secretario de Gobernación. LICENCIADO CARLOS MANUEL MEZA VIVEROS . Rúbrica.
+Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza; a 13 de diciembre de 1990.- El Gobernador Constitucional del Estado.- LIC. MARIANO PIÑA OLAYA .- Rúbrica.- El Secretario de Gobernación.- LIC. HÉCTOR JIMÉNEZ Y MENESES .- Rúbrica.
 
 ## TRANSITORIO
 
-(Del Decreto por virtud del cual se reforman y adicionan diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 21 de enero de 2004, Tomo CCCXLV, Número 9, Tercera sección)
+(Del Decreto del Honorable Congreso del Estado, que deroga la fracción IV y adiciona la fracción VI al artículo 2474 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Viernes 26 de julio de 1991, Número 8, Tomo CCXLV).
 
-Artículo Único . El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+ÚNICO . El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los diecinueve días del mes de noviembre de dos mil tres. Diputado Presidente. HUMBERTO VÁZQUEZ ARROYO. Rúbrica. Diputada Vicepresidenta. MARÍA LEONOR A. POPÓCATL GUTIÉRREZ. Rúbrica. Diputado Secretario. ELISEO PÉREZ SÁNCHEZ. Rúbrica. Diputado Secretario. ODÓN ABAD SIDAR. Rúbrica.
+EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los 25 días del mes de julio de 1991.- Diputado Presidente.- Lic. Jorge Jiménez Alonso.- Rúbrica.- Diputado Secretario.- Lic. César Sotomayor Cano.- Rúbrica.- Diputado Secretario.- Alfonso Lechuga Fosado.- Rúbrica.
 
-Por lo tanto mando imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de noviembre del año dos mil tres. El Gobernador Constitucional del Estado. LICENCIADO MELQUIADES MORALES FLORES . Rúbrica. El Secretario de Gobernación. MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS . Rúbrica.
+Por tanto mando se imprima, publique y circule para sus efectos, dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Z., a 25 de julio de 1991.- El Gobernador Constitucional del Estado.- LIC. MARIANO PIÑA OLAYA .- Rúbrica.- El Secretario de Gobernación.-
 
-## TRANSITORIOS
-
-(Del Decreto por virtud del cual se reforman y adicionan diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 13 de diciembre de 2004)
-
-Artículo Primero . El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo . Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de noviembre de dos mil cuatro. Diputado Presidente. JOAQUÍN MALDONADO IBARGÜEN. Rúbrica. Diputado Vicepresidente. JOSÉ LUIS MÁRQUEZ MARTÍNEZ. Rúbrica. Diputado Secretario. GERMÁN HUELITL FLORES. Rúbrica. Diputado Secretario. JUAN RAMÍREZ RAMÍREZ. Rúbrica.
-
-Por lo tanto mando imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los once días del mes de noviembre del año dos mil cuatro. El Gobernador Constitucional del Estado. LICENCIADO MELQUIADES MORALES FLORES . Rúbrica. El Secretario de Gobernación. LICENCIADO RÓMULO S. ARREDONDO GUTIÉRREZ . Rúbrica.
+LIC. HÉCTOR JIMÉNEZ Y MENESES .- Rúbrica.
 
 ## TRANSITORIOS
 
-(Del Decreto por virtud del cual se reforman y adicionan diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 26 de noviembre de 2007, Tomo CCCXCI, Número 8, Tercera sección)
+(Del Decreto del Honorable Congreso del Estado, que reforma los artículos 45, 578, 579, 585, 588, 590, 596 y 831; adiciona la fracción III al artículo 602; y deroga los artículos 492, 591, 592, 593, 594, 595, 596, 881, 882, 883 y 884 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Martes 15 de diciembre de 1992, Número 48, Tercera Sección, Tomo CCXLVII).
 
-Primero . El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+**Artículo PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Segundo . Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+**Artículo SEGUNDO.** Las personas que hayan adoptado en el Estado de Puebla, en los términos que marcaban los Códigos Civil y de Procedimientos Civiles, y que a la fecha los menores adoptados no hayan cumplido la mayoría de edad, podrán tramitar la adopción en los términos de las siguientes disposiciones transitorias cuya vigencia será de dos años, al cabo de las cuales quedarán abrogadas.
 
-EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los treinta y un días del mes de octubre de dos mil siete. Diputada Presidenta, ZENORINA GONZÁLEZ ORTEGA. Rúbrica. Diputado Vicepresidente. JOSÉ RAYMUNDO FROYLÁN GARCÍA GARCÍA. Rúbrica. Diputado Secretario. RAMÓN DANIEL MARTAGÓN LÓPEZ. Rúbrica. Diputada Secretaria. MARÍA DE LOS ÁNGELES ELIZABETH GÓMEZ CORTÉS. Rúbrica.
+**Artículo TERCERO.** Las gestiones a que se refiere el artículo anterior, se tramitarán en Jurisdicción Voluntaria y se le dará al Agente del Ministerio Público la intervención que le corresponde.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los seis días del mes de noviembre de dos mil siete. El Gobernador Constitucional del Estado. LICENCIADO MARIO P. MARÍN TORRES . Rúbrica. El Secretario de Gobernación. LICENCIADO MARIO ALBERTO MONTERO SERRANO . Rúbrica.
+**Artículo CUARTO.** Los Jueces de los Familiar que conozcan de estas gestiones, ordenarán se hagan las anotaciones marginales correspondientes en las actas de nacimiento y de adopción; asimismo, procederán conforme a lo dispuesto por el artículo 585 del Código Civil.
+
+**Artículo QUINTO.** Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los diez días del mes de diciembre de mil novecientos noventa y dos.- Diputado Presidente.- Lic. Rodolfo Budib Lichtle.- Rúbrica.- Diputado Secretario.- Héctor González Reyes.- Rúbrica.- Diputado Secretario.- Lic. Juan Miguel Madera López.- Rúbrica.
+
+Por tanto mando se imprima, publique y circule para sus efectos, Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Z., a los diez días del mes de diciembre de 1992.- El Gobernador Constitucional del Estado.- LIC. MARIANO PIÑA OLAYA .- Rúbrica.- El Secretario de Gobernación.- LIC. HÉCTOR JIMÉNEZ Y MENESES .- Rúbrica.
+
+## TRANSITORIO
+
+(Del Decreto del Honorable Congreso del Estado, por el que se reforma el artículo 3286 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Viernes 1 de julio de 1994, Número 1, Segunda Sección, Tomo CCLI).
+
+TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los veintitrés días del mes de junio de mil novecientos noventa y cuatro.- Diputado Presidente.- Valentín Diez Fernández.- Rúbrica.- Diputado Secretario.- Ramon Meza Báez.- Rúbrica.- Diputado Secretario.- Antonio Medina Ramírez.- Rúbrica.
+
+Por tanto mando se imprima, publique y circule para sus efectos, Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza, a los veintitrés días del mes de junio de mil novecientos noventa y cuatro.- El Gobernador Constitucional del Estado.- LIC. MANUEL BARTLETT DÍAZ .- Rúbrica.- El Secretario de Gobernación.- LIC. CARLOS PALAFOX VÁZQUEZ .- Rúbrica.
 
 ## TRANSITORIOS
 
-(Del Decreto por virtud del cual reforma y adiciona diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial el 25 de enero de 2008, Tomo CCCXCIII, Número 11, segunda sección)
+(Del Decreto del Honorable Congreso del Estado, que reforma, adiciona y deroga diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Viernes 28 de febrero de 1997, Número 11, Segunda Sección, Tomo CCLXII).
 
-Primero . El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+**Artículo PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Segundo . Los Notarios y las autoridades competentes a que se refiere el presente Decreto, tendrán un plazo de doce meses contados a partir de la entrada en vigor del mismo, para implementar o adecuar los equipos, redes y servicios informáticos que se requieran para el cumplimiento por vía electrónica de las obligaciones que el mismo establece. Durante este plazo, los avisos de testamento, las consultas y los reportes de búsqueda, se podrán formular y remitir de manera impresa.
+**Artículo SEGUNDO.** Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Tercero . Se derogan las disposiciones que se opongan al presente Decreto.
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los veintisiete días del mes de febrero de mil novecientos noventa y siete.- Diputado Presidente.- CARLOS BARRIENTOS DE LA ROSA.- Rúbrica.- Diputado Secretario.- GERARDO TECPANECATL ROMERO.- Rúbrica.- Diputado Secretario.- JOEL CUEVAS TELLEZ.- Rúbrica.
 
-EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los seis días del mes de diciembre de dos mil siete. Diputada Presidenta. ZENORINA GONZÁLEZ ORTEGA. Rúbrica. Diputado Vicepresidente. JOSÉ RAYMUNDO FROYLÁN GARCÍA GARCÍA. Rúbrica. Diputado Secretario. RAMÓN DANIEL MARTAGÓN LÓPEZ. Rúbrica. Diputada Secretaria. MARÍA DE LOS ÁNGELES ELIZABETH GÓMES CORTÉS. Rúbrica.
-
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de diciembre del año dos mil siete. El Gobernador Constitucional del Estado. LICENCIADO MARIO P. MARÍN TORRES . Rúbrica. El Secretario de Gobernación. LICENCIADO MARIO ALBERTO MONTERO SERRANO . Rúbrica.
+Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintisiete días del mes de febrero de mil novecientos noventa y siete.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DÍAZ .- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO P. MARÍN TORRES .- Rúbrica.
 
 ## TRANSITORIOS
 
-(Del DECRETO por el que se deroga el capítulo vigésimo quinto del libro quinto del código civil para el Estado Libre y Soberano de Puebla y sus correspondientes artículos que van del 2985 al 3019)
+(Del Decreto del Honorable Congreso del Estado, que reforma, el artículo 2928 y adiciona tres párrafos al artículo 2933 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Viernes 28 de febrero de 1997, Número 11, Segunda Sección, Tomo CCLXII).
+
+**Artículo PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+**Artículo SEGUNDO.** Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los veintisiete días del mes de febrero de mil novecientos noventa y siete.- Diputado Presidente.- CARLOS BARRIENTOS DE LA ROSA.- Rúbrica.- Diputado Secretario.- GERARDO TECPANECATL ROMERO.- Rúbrica.- Diputado Secretario.- JOEL CUEVAS TELLEZ.- Rúbrica.
+
+Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintisiete días del mes de febrero de mil novecientos noventa y siete.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DÍAZ .- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO P. MARÍN TORRES .- Rúbrica.
+
+## TRANSITORIOS
+
+(Del Decreto del Honorable Congreso del Estado, que reforma los artículos 830, 855, 875 fracción II y 930 del Código Civil del Estado de Puebla; publicado en el Periódico Oficial del Estado, el Viernes 26 de septiembre de 1997, Número 12, Segunda Sección, Tomo CCLXIX).
+
+PRIMERO .- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO .- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+TERCERO .- Los procedimientos de registro extemporáneo de nacimiento previstos por el Artículo 875 Fracción II, que se reforma que se encuentran en trámite ante los Juzgados de lo Familiar del Estado, serán substanciados por dichos órganos jurisdiccionales hasta su autorización final.
+
+EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los treinta y un días del mes de julio de mil novecientos noventa y siete.- Diputado Presidente.- JOSÉ SÁNCHEZ TINOCO.- Rúbrica.- Diputado Secretario.- MARCOS CRUZ OSORIO.- Rúbrica.- Diputado Secretario.- BERNABÉ FÉLIX FORTUNATO MARMOLEJO OREA.- Rúbrica.
+
+Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los treinta y un días del mes de julio de mil novecientos noventa y siete.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ .- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS MANUEL MEZA VIVEROS .- Rúbrica.
+
+## TRANSITORIOS
+
+(Del Decreto del Honorable Congreso del Estado, que reforma, adiciona, deroga y modifica diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla y del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Lunes 14 de septiembre de 1998, Número 6, Cuarta Sección, Tomo CCLXXXI).
+
+**Artículo PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+**Artículo SEGUNDO.** Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los veintiséis días del mes de agosto de mil novecientos noventa y ocho.- Diputado Presidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputada Secretaria.- LAURA ROLDÁN RUBIO.- Rúbrica.- Diputada Secretaria.- YOLANDA ZEGBE SANEN.- Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de agosto de mil novecientos noventa y ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DIAZ .- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS MANUEL MEZA VIVEROS .- Rúbrica.
+
+## TRANSITORIO
+
+(Del Decreto del Honorable Congreso del Estado, por virtud del cual se reforman y adicionan diversas disposiciones del Código Civil para Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Miércoles 21 de enero de 2004, Número 9, Tercera Sección, Tomo CCCXLV).
+
+**Artículo ÚNICO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los diecinueve días del mes de noviembre de dos mil tres.- Diputado Presidente.- HUMBERTO VÁZQUEZ ARROYO.- Rúbrica.- Diputada Vicepresidenta.- MARÍA LEONOR A. POPÓCATL GUTIÉRREZ.- Rúbrica.- Diputado Secretario.- ELISEO PÉREZ SÁNCHEZ.- Rúbrica.- Diputado Secretario.- ODÓN ABAD SIDAR FIERRO.- Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de noviembre del año dos mil tres.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES .- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS .- Rúbrica.
+
+## TRANSITORIOS
+
+(Del Decreto del Honorable Congreso del Estado, por virtud del cual se reforman y adicionan diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Lunes 13 de diciembre de 2004, Número 6, Quinta Sección, Tomo CCCLVI).
+
+**Artículo PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+**Artículo SEGUNDO.** Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de noviembre de dos mil cuatro.- Diputado Presidente.- JOAQUÍN MALDONADO IBARGÜEN.- Rúbrica.- Diputado Vicepresidente.- JOSÉ LUIS MÁRQUEZ MARTÍNEZ.- Rúbrica.- Diputado Secretario.- GERMÁN HUELITL FLORES.- Rúbrica.- Diputado Secretario.- JUAN RAMÍREZ RAMÍREZ.- Rúbrica.
+
+Por lo tanto mando imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los once días del mes de noviembre del año dos mil cuatro.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES .- Rúbrica.- El Secretario de Gobernación.- LICENCIADO RÓMULO S. ARREDONDO GUTIÉRREZ .- Rúbrica.
+
+## TRANSITORIOS
+
+(Del Decreto del Honorable Congreso del Estado, por virtud del cual se reforman y adicionan diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado,el Lunes 26 de noviembre de 2007, Número 8, Tercera Sección, Tomo CCCXCI).
+
+PRIMERO .- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO .- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los treinta y un días del mes de octubre de dos mil siete.- Diputada Presidenta.- ZENORINA GONZÁLEZ ORTEGA.- Rúbrica.- Diputado Vicepresidente.- JOSÉ RAYMUNDO FROYLÁN GARCÍA GARCÍA.- Rúbrica.- Diputado Secretario.- RAMÓN DANIEL MARTAGÓN LÓPEZ.- Rúbrica.- Diputada Secretaria.- MARÍA DE LOS ÁNGELES ELIZABETH GÓMEZ CORTÉS.- Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los seis días del mes de noviembre de dos mil siete.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES .- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO .- Rúbrica.
+
+## TRANSITORIOS
+
+(Del Decreto del Honorable Congreso del Estado, por virtud del cual reforma y adiciona diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Viernes 25 de enero de 2008, Número 11, Segunda Sección, Tomo CCCXCIII).
+
+PRIMERO .- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO .- Los Notarios y las autoridades competentes a que se refiere el presente Decreto, tendrán un plazo de doce meses contados a partir de la entrada en vigor del mismo, para implementar o adecuar los equipos, redes y servicios informáticos que se requieran para el cumplimiento por vía electrónica de las obligaciones que el mismo establece. Durante este plazo, los avisos de testamento, las consultas y los reportes de búsqueda, se podrán formular y remitir de manera impresa.
+
+TERCERO .- Se derogan las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los seis días del mes de diciembre de dos mil siete.- Diputada Presidenta.- ZENORINA GONZÁLEZ ORTEGA.- Rúbrica.- Diputado Vicepresidente.- JOSÉ RAYMUNDO FROYLÁN GARCÍA GARCÍA.- Rúbrica.- Diputado Secretario.- RAMÓN DANIEL MARTAGÓN LÓPEZ.- Rúbrica.- Diputada Secretaria.- MARÍA DE LOS ÁNGELES ELIZABETH GÓMEZ CORTÉS.- Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de diciembre del año dos mil siete.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES .- Rúbrica.- El Secretario de Gobernación.- LICENCIADO MARIO ALBERTO MONTERO SERRANO .- Rúbrica.
+
+## TRANSITORIO
+
+(Del DECRETO del Honorable Congreso del Estado, por virtud del cual deroga el Capítulo Vigésimo Quinto del Libro Quinto del Código Civil para el Estado Libre y Soberano de Puebla y sus correspondientes artículos que van del 2985 al 3019; publicado en el Periódico Oficial del Estado, el Lunes 13 de abril de 2009, Número 5, Quinta Sección, Tomo CDVIII).
 
 ÚNICO .- El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor a partir del día uno de julio de dos mil nueve.
 
@@ -12245,7 +12355,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del DECRETO del Honorable Congreso del Estado, por virtud del cual se reforman y adicionan diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla; del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla; del Código de Defensa Social para el Estado Libre y Soberano de Puebla; del Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla; del Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla, y de la Ley de la Procuraduría del Ciudadano del Estado de Puebla, publicado en el Periódico Oficial del Estado de Puebla el día lunes 4 de enero de 2010, número 1 segunda sección, tomo CDXVII)
+(Del DECRETO del Honorable Congreso del Estado, por virtud del cual se reforman y adicionan diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla; del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla; del Código de Defensa Social para el Estado Libre y Soberano de Puebla; del Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla; del Código de Justicia para Adolescentes del Estado Libre y Soberano de Puebla, y de la Ley de la Procuraduría del Ciudadano del Estado de Puebla; publicado en el Periódico Oficial del Estado, el Lunes 4 de enero de 2010, Número 1, Segunda Sección, Tomo CDXVII).
 
 PRIMERO.- Se derogan las disposiciones legales que se opongan al presente Decreto.
 
@@ -12259,11 +12369,11 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del Decreto del Honorable Congreso del Estado, por virtud del cual reforma y adiciona diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado de Puebla en día viernes 22 de enero de 2010, número 9 tercera sección, Tomo CDXVII)
+(Del Decreto del Honorable Congreso del Estado, por virtud del cual reforma y adiciona diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Viernes 22 de enero de 2010, Número 9, Tercera Sección, Tomo CDXVII).
 
 PRIMERO .- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO .- Se derogan todas las disposiciones que contravengan las contenidas en el presente Decreto.
+SEGUNDO .- Se derogan las disposiciones que contravengan las contenidas en el presente Decreto.
 
 EL GOBERNADOR , hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los tres días del mes de diciembre de dos mil nueve.- Diputado Presidente.- EUGENIO EDGARDO GONZÁLEZ ESCAMILLA.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA GARCÍA HERNANDEZ.- Rubrica.- Diputado Secretario.- ENRIQUE GUEVARA MONTIEL.- Rúbrica.- Diputada Secretaría.- CAROLINA O’FARRILL TAPIA.- Rúbrica.
 
@@ -12271,7 +12381,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del Decreto del Honorable Congreso del Estado, por virtud del cual reforma y adiciona diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado de Puebla en día miércoles 24 de marzo de 2010, número 10 sexta sección, Tomo CDXIX)
+(Del Decreto del Honorable Congreso del Estado, por virtud del cual reforma la fracción VI del artículo 291 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el Miércoles 24 de marzo de 2010, Número 10, Sexta Sección, Tomo CDXIX).
 
 PRIMERO .- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12283,7 +12393,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos, Dado en el P
 
 ## TRANSITORIOS
 
-(del Decreto por el que se reforma el párrafo segundo del artículo 1958 y se adicionan los párrafos tercero, cuarto y quinto del 1958, el 1958 bis y el 1958 ter del código civil para el estado libre y soberano de puebla; así como se reforman los artículos 254 y 256, y se derogan los artículos 255, 357, 358, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371 y 372 del código de defensa social del estado libre y soberano de puebla, publicado en el Periódico Oficial del Estado de Puebla, el día miércoles 23 de febrero de 2011, número 9 tercera sección, Tomo CDXXX)
+(Del Decreto del Honorable Congreso del Estado, por el que se reforman, adicionan y derogan diversas disposiciones del Código Civil y del Código de Defensa Social, ambos para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el miércoles 23 de febrero de 2011, Número 9, Tercera Sección, Tomo CDXXX).
 
 **Artículo PRIMERO.** El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12291,13 +12401,13 @@ Por lo tanto mando se imprima, publique y circule para sus efectos, Dado en el P
 
 **Artículo TERCERO.** El Congreso del Estado, dentro del plazo de ciento ochenta días a partir de la publicación de este Decreto, expedirá en su caso, las adecuaciones a la legislación correspondiente.
 
-EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintidós días del mes de febrero de dos mil once.- Diputado Presidente.- RAFAEL VON RAESFELD PORRAS.- Rúbrica.- Diputado Vicepresidente.- JESÚS MORALES FLORES.- Rúbrica.- Diputado Secretario.- ERIC COTOÑETO CARMONA.- Rúbrica.
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintidós días del mes de febrero de dos mil once.- Diputado Presidente.- RAFAEL VON RAESFELD PORRAS.- Rúbrica.- Diputado Vicepresidente.- JESÚS MORALES FLORES.- Rúbrica.- Diputado Secretario.- ENRIQUE NACER HERNÁNDEZ.- Diputado Secretario.- ERIC COTOÑETO CARMONA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintitrés días del mes de febrero de dos mil once.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS .- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO .- Rúbrica.
 
 ## TRANSITORIOS
 
-(del Decreto del Honorable Congreso del Estado, por virtud del cual se reforman, adicionan y derogan diversas disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado de Puebla el día lunes 27 de junio de 2011, número 12 tercera sección, Tomo CDXXXIV)
+(Del Decreto del Honorable Congreso del Estado, por virtud del cual se reforman, adicionan y derogan diversas disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el lunes 27 de junio de 2011, Número 12, Tercera Sección, Tomo CDXXXIV).
 
 **Artículo PRIMERO.** El presente Decreto entrara en vigor al dia siguiente de su publicación en el Peri6dico Oficial del Estado de Puebla.
 
@@ -12311,7 +12421,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del Decreto por el que reforman diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, asimismo, se reforma el Artículo 265 del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado de Puebla el día lunes 27 de junio de 2011, número 12 cuarta sección, tomo CDXXXIV)
+(Del Decreto del Honorable Congreso del Estado, por virtud del cual se reforman diversas disposiciones del Código Civil, y se reforma el Artículo 265 del Código de Procedimientos Civiles, ambos para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el lunes 27 de junio de 2011, Número 12, Cuarta Sección, Tomo CDXXXIV).
 
 **Artículo PRIMERO.** El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
@@ -12323,7 +12433,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del Decreto del Honorable Congreso del Estado, por el que reforma los artículos 1117, 1118 y 1186, y deroga los artículos 1119 al 1116, todos del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado de Puebla el día miércoles 10 de agosto de 2011, número 5 cuarta sección, Tomo CDXXXVI)
+(Del Decreto del Honorable Congreso del Estado, por el que reforma los artículos 1117, 1118 y 1186, y deroga los artículos 1119 al 1166, todos del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el miércoles 10 de agosto de 2011, Número 5, Cuarta Sección, Tomo CDXXXVI).
 
 **Artículo PRIMERO.** El presente Decreto entrará en vigor a los ciento ochenta días hábiles de su publicación en el Periódico Oficial del Estado.
 
@@ -12335,7 +12445,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del Decreto del Honorable Congreso del Estado, por el que reforma y adiciona diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado de Puebla, el día viernes 14 de septiembre de 2012, número 6 quinta sección, Tomo CDXLIX)
+(Del Decreto del Honorable Congreso del Estado, por el que reforma y adiciona diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el viernes 14 de septiembre de 2012, Número 6, Quinta Sección, Tomo CDXLIX).
 
 **Artículo PRIMERO.** El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente de su publicación.
 
@@ -12347,7 +12457,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del Decreto del Honorable Congreso del Estado, por el que se reforman y adicionan diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el día lunes 31 de diciembre de 2012, Número 13, Sexta Sección, Tomo CDLII)
+(Del Decreto del Honorable Congreso del Estado, por el que se reforman y adicionan diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el lunes 31 de diciembre de 2012, Número 13, Sexta Sección, Tomo CDLII).
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12361,7 +12471,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del Decreto del Honorable Congreso del Estado, por el que se reforman diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el día lunes 31 de diciembre de 2012, Número 13, Décima Tercera Sección, Tomo CDLII)
+(Del Decreto del Honorable Congreso del Estado, por el que se reforman diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el lunes 31 de diciembre de 2012, Número 13, Décima Tercera Sección, Tomo CDLII).
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12373,7 +12483,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del Decreto del Honorable Congreso del Estado, por el que se reforma el artículo 829 y de derogan los artículos 857 y 917, todos del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el día lunes 30 de diciembre de 2013, Número 12, Trigésima Séptima Sección, Tomo CDLXIV).
+(Del Decreto del Honorable Congreso del Estado, por el que reforma y adiciona diversas disposiciones de la Ley Orgánica de la Administración Pública del Estado de Puebla; asimismo reforma y deroga diversas disposiciones de la Ley Orgánica Municipal y del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el lunes 30 de diciembre de 2013, Número 12, Trigésima Séptima Sección, Tomo CDLXIV).
 
 PRIMERO.- El presente Decreto deberá ser publicado en el Periódico Oficial del Estado y entrará en vigor el día primero de enero de dos mil catorce.
 
@@ -12393,19 +12503,19 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del Decreto del Honorable Congreso del Estado, por el que se reforma el artículo 856 del Código Civil para elEstado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el día jueves 27 de noviembre de 2014, Número 17, Quinta Sección, Tomo CDLXXVI).
+(Del Decreto del Honorable Congreso del Estado, por el que reforma el artículo 856 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el jueves 27 de noviembre de 2014, Número 17, Quinta Sección, Tomo CDLXXV).
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de noviembre de dos mil catorce.-Diputada Presidenta.- MARÍA SARA CAMELIA CHILACA MARTÍNEZ.- Rúbrica.- Diputado Vicepresidente.-CIRILO SALAS HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- FRANCISCO MOTA QUIROZ.- Rúbrica.-Diputado Secretario.- JOSÉ CHEDRAUI BUDIB.- Rúbrica.
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de noviembre de dos mil catorce.-Diputada Presidenta.- MARÍA SARA CAMELIA CHILACA MARTÍNEZ.- Rúbrica.- Diputado Vicepresidente.- CIRILO SALAS HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- FRANCISCO MOTA QUIROZ.- Rúbrica.-Diputado Secretario.- JOSÉ CHEDRAUI BUDIB.- Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo,en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintisiete días del mes de noviembre de dos mil catorce.-El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintisiete días del mes de noviembre de dos mil catorce.-El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
 
 ## TRANSITORIOS
 
-(del Decreto del Honorable Congreso del Estado, por el que se reforma el artículo 988 y adiciona dos parrafos al artículo 992 del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado, el día miércoles 31 de diciembre de 2014, Número 22, Octava Sección, Tomo CDLXXVI).
+(Del Decreto del Honorable Congreso del Estado, por el que reforma, adiciona y deroga diversas disposiciones de la Ley de Catastro del Estado de Puebla; asimismo, reforma el artículo 988 y adiciona dos párrafos al artículo 992 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el miércoles 31 de diciembre de 2014, Número 22, Octava Sección, Tomo CDLXXVI).
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12419,7 +12529,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del DECRETO del Honorable Congreso del Estado, por el que reforma los artículos 3275 ( *[Nota: Fe de Erratas a este Decreto, publicada el 31/mar/ 2015.]* ) , 3277, 3278 y 3284 del Código Civil para el Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado, el día lunes 9 de marzo de 2015, Número 6, Tercera Sección, Tomo CDLXXIX).
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma los artículos 3275 *[Nota: Fe de Erratas a este Decreto, publicada el 31/mar/ 2015.]* , 3277, 3278 y 3284 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el lunes 9 de marzo de 2015, Número 6, Tercera Sección, Tomo CDLXXIX).
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12431,7 +12541,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del DECRETO del Honorable Congreso del Estado, por el que reforma los artículos 44 y 641, y adiciona la Sección Quinta Bis con sus artículos 691 Bis al 691 Sexies, del Código Civil para el Estado Libre y Soberano de Puebla, así como reforma los artículos 722 y 728 del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado de Puebla el día miércoles 25 de noviembre de 2015, Número 15, Tercera Sección, Tomo CDLXXXVII).
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma los artículos 44 y 641, y adiciona la Sección Quinta Bis con sus artículos 691 Bis al 691 Sexies, del Código Civil para el Estado Libre y Soberano de Puebla, así como reforma los artículos 722 y 728 del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el miércoles 25 de noviembre de 2015, Número 15, Tercera Sección, Tomo CDLXXXVII).
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12443,7 +12553,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del DECRETO del Honorable Congreso del Estado, por el que reforma los artículos 67 y 936 del Código Civil para el Estado Libre y Soberano de Puebla, asimismo reforma la fracción XXIII y adiciona la XXIV del artículo 50 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla; publicado en el Periódico Oficial del Estado de Puebla el día jueves 31 de diciembre de 2015, Número 22, Décima Octava Sección, Tomo CDLXXXVIII).
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma los artículos 67 y 936 del Código Civil para el Estado Libre y Soberano de Puebla, asimismo reforma la fracción XXIII y adiciona la XXIV del artículo 50 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla; publicado en el Periódico Oficial del Estado, el jueves 31 de diciembre de 2015, Número 22, Décima Octava Sección, Tomo CDLXXXVIII).
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12455,7 +12565,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del DECRETO del Honorable Congreso del Estado, por el que adiciona un segundo párrafo al artículo 26 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periodico Oficial del Estado de Puebla, el día jueves 31 de diciembre de 2015, Número 22, Trigésima Sexta Sección, Tomo CDLXXXVIII).
+(Del DECRETO del Honorable Congreso del Estado, por el que adiciona un segundo párrafo al artículo 26 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periodico Oficial del Estado, el jueves 31 de diciembre de 2015, Número 22, Trigésima Sexta Sección, Tomo CDLXXXVIII).
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12467,7 +12577,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del DECRETO del Honorable Congreso del Estado, por el que reforma las fracciones III y VI del artículo 436, las fracciones I y III del 437, el 438, la fracción II del 439, el 440 y el 441, todos del Código Civil para el Estado Libre y Soberano de Puebla.; publicado en el Periodico Oficial del Estado de Puebla, el día jueves 31 de diciembre de 2015, Número 22, Trigésima Sexta Sección, Tomo CDLXXXVIII).
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma las fracciones III y VI del artículo 436, las fracciones I y III del 437, el 438, la fracción II del 439, el 440 y el 441, todos del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periodico Oficial del Estado, el jueves 31 de diciembre de 2015, Número 22, Trigésima Sexta Sección, Tomo CDLXXXVIII).
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12479,51 +12589,23 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(del DECRETO del Honorable Congreso del Estado, por el que adiciona un cuarto párrafo al artículo 829 del Código Civil para el Estado Libre y Soberano de Puebla; reforma la fracción XVII del artículo 91, las fracciones VIII y IX del 231, y adiciona la fracción X al artículo 231, todos de la Ley Orgánica Municipal, adiciona una fracción II Bis al artículo 253 del Código Penal del Estado Libre y Soberano de Puebla, y reforma la letra V del artículo 69 del Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla; publicado en el Periodico Oficial del Estado de Puebla, el día miércoles 16 de marzo de 2016, Número 12, Quinta Sección, Tomo CDXCI).
+(Del DECRETO del Honorable Congreso del Estado, por el que adiciona un cuarto párrafo al artículo 829 del Código Civil para el Estado Libre y Soberano de Puebla; reforma la fracción XVII del artículo 91, las fracciones VIII y IX del 231, y adiciona la fracción X al artículo 231, todos de la Ley Orgánica Municipal, adiciona una fracción II Bis al artículo 253 del Código Penal del Estado Libre y Soberano de Puebla, y reforma la letra V del artículo 69 del Código de Procedimientos en Materia de Defensa Social para el Estado Libre y Soberano de Puebla; publicado en el Periodico Oficial del Estado, el miércoles 16 de marzo de 2016, Número 12, Quinta Sección, Tomo CDXCI).
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. La Secretaría General de Gobierno emitirá las disposiciones reglamentarias para la aplicación del
-
-presente Decreto.
+SEGUNDO. La Secretaría General de Gobierno emitirá las disposiciones reglamentarias para la aplicación del presente Decreto.
 
 TERCERO. Las autoridades municipales que coadyuven con la prestación del servicio a que se refiere este Decreto, deberán acreditar la capacitación necesaria en términos de los lineamientos que emita la Secretaría General de Gobierno, así como de la convocatoria y demás disposiciones administrativas aplicables.
 
 CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
 
-EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de marzo de dos mil dieciséis. Diputado Presidente. CARLOS MARTÍNEZ AMADOR. Rúbrica. Diputada Vicepresidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputada Secretaria. MAIELLA MARTHA GABRIELA GÓMEZ MALDONADO. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica. Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de marzo de dos mil dieciséis. El Gobernador
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de marzo de dos mil dieciséis. Diputado Presidente. CARLOS MARTÍNEZ AMADOR. Rúbrica. Diputada Vicepresidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputada Secretaria. MAIELLA MARTHA GABRIELA GÓMEZ MALDONADO. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
 
-Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Fiscal General del Estado. C. VÍCTOR ANTONIO CARRANCÁ BOURGET. Rúbrica.
-
-## TRANSITORIOS
-
-(del DECRETO del Honorable Congreso del Estado, por el que reforma la fracción I y el último párrafo del artículo 299, el 300, el 403, las fracciones II y III del 404, las fracciones VI y VII del 888, y deroga los artículos 54, la fracción II del 299, del 301 al 306, el 308, el 332 el 344, el 346, del 405 al 408, el 444, la fracción IV del 888, la fracción IV del 907 y el 910, todos del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periodico Oficial del Estado de Puebla, el día lunes 28 de marzo de 2016, Número 17, Segunda Sección, Tomo CDXCI).
-
-PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
-
-EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los ocho días del mes de marzo de dos mil dieciséis. Diputado Presidente. CARLOS MARTÍNEZ AMADOR. Rúbrica. Diputada Vicepresidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputada Secretaria. MAIELLA MARTHA GABRIELA GÓMEZ MALDONADO. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
-
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de marzo de dos mil dieciséis. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica.
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de marzo de dos mil dieciséis. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Fiscal General del Estado. C. VÍCTOR ANTONIO CARRANCÁ BOURGET. Rúbrica.
 
 ## TRANSITORIOS
 
-(del DECRETO del Honorable Congreso del Estado, por el que reforma el artículo 435, el primer párrafo del 535, el 537, y deroga los artículos 310 y 311 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periodico Oficial del Estado de Puebla, el día lunes 28 de marzo de 2016, Número 17, Segunda Sección, Tomo CDXCI).
-
-PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
-
-EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los ocho días del mes de marzo de dos mil dieciséis. Diputado Presidente. CARLOS MARTÍNEZ AMADOR. Rúbrica. Diputada Vicepresidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputada Secretaria. MAIELLA MARTHA GABRIELA GÓMEZ MALDONADO. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
-
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de marzo de dos mil dieciséis. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno.
-
-C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica .
-
-## TRANSITORIOS
-
-(del DECRETO del Honorable Congreso del Estado, por el que reforma, adiciona y deroga diversas disposiciones del Código Civil y del Código de Procedimientos, ambos para el Estado Libre y Soberano de Puebla; publicado en el Periodico Oficial del Estado de Puebla, el día martes 29 de marzo de 2016, Número 18, Quinta Sección, Tomo CDXCI).
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma, adiciona y deroga diversas disposiciones del Código Civil y del Código de Procedimientos Civiles, ambos para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el jueves 17 de marzo de 2016, Número 13, Séptima Sección, Tomo CDXCI).
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12535,7 +12617,43 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(Del DECRETO del Honorable Congreso del Estado, por el que reforma, adiciona y deroga diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla y de la Ley del Centro Estatal de Mediación del Estado de Puebla; publicado en el Periodico Oficial del Estado el día martes 20 de septiembre de 2016, número 13, Segunda Sección, Tomo CDXCVII.)
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma la fracción I y el último párrafo del artículo 299, el 300, el 403, las fracciones II y III del 404, las fracciones VI y VII del 888, y deroga los artículos 54, la fracción II del 299, del 301 al 306, el 308, el 332 el 344, el 346, del 405 al 408, el 444, la fracción IV del 888, la fracción IV del 907 y el 910, todos del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periodico Oficial del Estado, el lunes 28 de marzo de 2016, Número 17, Segunda Sección, Tomo CDXCI).
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los ocho días del mes de marzo de dos mil dieciséis. Diputado Presidente. CARLOS MARTÍNEZ AMADOR. Rúbrica. Diputada Vicepresidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputada Secretaria. MAIELLA MARTHA GABRIELA GÓMEZ MALDONADO. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de marzo de dos mil dieciséis. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma el artículo 435, el primer párrafo del 535, el 537, y deroga los artículos 310 y 311 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periodico Oficial del Estado, el lunes 28 de marzo de 2016, Número 17, Segunda Sección, Tomo CDXCI).
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los ocho días del mes de marzo de dos mil dieciséis. Diputado Presidente. CARLOS MARTÍNEZ AMADOR. Rúbrica. Diputada Vicepresidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputada Secretaria. MAIELLA MARTHA GABRIELA GÓMEZ MALDONADO. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de marzo de dos mil dieciséis. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica .
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma, adiciona y deroga diversas disposiciones del Código Civil y del Código de Procedimientos, ambos para el Estado Libre y Soberano de Puebla; publicado en el Periodico Oficial del Estado, el martes 29 de marzo de 2016, Número 18, Quinta Sección, Tomo CDXCI *[Nota: Fe de Erratas a la fecha de publicación de este Decreto, publicada el 29/mar/ 2016.]* ).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de marzo de dos mil dieciséis. Diputado Presidente. CARLOS MARTÍNEZ AMADOR. Rúbrica. Diputada Vicepresidenta. PATRICIA LEAL ISLAS. Rúbrica. Diputada Secretaria. MAIELLA MARTHA GABRIELA GÓMEZ MALDONADO. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de marzo de dos mil dieciséis. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma, adiciona y deroga diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla y de la Ley del Centro Estatal de Mediación del Estado de Puebla; publicado en el Periodico Oficial del Estado, el día martes 20 de septiembre de 2016, Número 13, Segunda Sección, Tomo CDXCVII.)
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
@@ -12547,7 +12665,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en la S
 
 ## TRANSITORIOS
 
-(Del DECRETO del Honorable Congreso del Estado, por el que reforma la fracción II del artículo 611 y el tercer párrafo del artículo 637, ambos del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado el viernes 25 de noviembre de 2016, Número 16, Sexta Edición, Tomo CDXCIX.)
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma la fracción II del artículo 611 y el tercer párrafo del artículo 637, ambos del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el viernes 25 de noviembre de 2016, Número 16, Sexta Sección, Tomo CDXCIX).
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12559,7 +12677,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 ## TRANSITORIOS
 
-(Del DECRETO del Honorable Congreso del Estado, por el que reforma los artículos 98 fracción IX, 104 párrafo tercero y 142 fracción II, y adiciona un segundo párrafo al artículo 61, todos de la Ley de Derechos de las Niñas, Niños y Adolescentes del Estado de Puebla, así como reforma el artículo 608 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado el viernes 30 de diciembre de 2016, número 22, Novena Sección, Tomo D.)
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma los artículos 98 fracción IX, 104 párrafo tercero y 142 fracción II, y adiciona un segundo párrafo al artículo 61, todos de la Ley de Derechos de las Niñas, Niños y Adolescentes del Estado de Puebla, así como reforma el artículo 608 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el viernes 30 de diciembre de 2016, número 22, Novena Sección, Tomo D).
 
 PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -12568,3 +12686,217 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil dieciséis. Diputada Presidenta. SILVIA GUILLERMINA TANÚS OSORIO. Rúbrica. Diputado Vicepresidente. PABLO RODRÍGUEZ REGORDOSA. Rúbrica. Diputado Secretario. CARLOS DANIEL HERNÁNDEZ OLIVARES. Rúbrica. Diputado Secretario. CIRILO SALAS HERNÁNDEZ. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de diciembre de dos mil dieciséis. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma y adiciona diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla y de la Ley de Planeación para el Desarrollo del Estado de Puebla, en materia de perspectiva de género; publicado en el Periódico Oficial del Estado, el Jueves 14 de septiembre de 2017, Número 10, Sexta Sección, Tomo DIX).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de septiembre de dos mil diecisiete. Diputado Presidente. CUPERTINO ALEJO DOMÍNGUEZ. Rúbrica. Diputada Vicepresidenta. CAROLINA BEAUREGARD MARTÍNEZ. Rúbrica. Diputado Secretario. FRANCISCO JAVIER JIMÉNEZ HUERTA. Rúbrica. Diputado Secretario. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica.
+
+Por lo tanto mando imprima, publique y circule para sus efectos. Dado en el Palacio en el Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los catorce días del mes de septiembre de dos mil diecisiete. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma y deroga distintas disposiciones de diversos ordenamientos, en materia de desindexación del salario mínimo; publicado en el Periódico Oficial del Estado, el Viernes 29 de diciembre de 2017, Número 20, Décima Tercera Sección, Tomo DXII).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil diecisiete. Diputado Presidente. CUPERTINO ALEJO DOMÍNGUEZ. Rúbrica. Diputada Vicepresidenta. CAROLINA BEAUREGARD MARTÍNEZ. Rúbrica. Diputado Secretario. FRANCISCO JAVIER JIMÉNEZ HUERTA. Rúbrica. Diputado Secretario. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil diecisiete. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno.
+
+C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Encargado de Despacho de la Secretaría de Finanzas y Administración. C. ENRIQUE ROBLEDO RUBIO. Rúbrica. El Secretario de Competitividad, Trabajo y Desarrollo Económico. C. MICHEL CHAÍN CARRILLO. Rúbrica. El Secretario de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial. C. RODRIGO RIESTRA PIÑA. Rúbrica. El Secretario de Desarrollo Social. C. GERARDO ISLAS MALDONADO. Rúbrica. La Secretaria de Infraestructura, Movilidad y Transportes. C. MARTHA VÉLEZ XAXALPA. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma el artículo 64, las fracciones VIII y IX del 1961, y adiciona la fracción X al artículo 1961 y el 1996 Quater, todos del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el viernes 27 de julio de 2018, Número 20, Sèptima Sección, Tomo DXIX).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintisiete días del mes de julio de dos mil dieciocho. Diputado Presidente. FRANCISCO RODRÍGUEZ ÁLVAREZ. Rúbrica. Diputado Vicepresidente. PABLO FERNÁNDEZ DEL CAMPO ESPINOSA. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica. Diputado Secretario. CIRILO SALAS HERNÁNDEZ. Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintisiete días del mes de julio de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que deroga la Sección Quinta, del Capítulo Décimo, del Libro Sexto y el artículo 3318 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el martes 13 de agosto de 2019, Número 9, Sexta Sección, Tomo DXXXII).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+EL GOBERNADOR INTERINO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de julio de dos mil diecinueve. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. FERNANDO SÁNCHEZ SASIA. Rúbrica. Diputada Secretaria. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputada Secretaria. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de julio de dos mil diecinueve. El Gobernador Interino del Estado Libre y Soberano de Puebla. C. GUILLERMO PACHECO PULIDO. Rúbrica. El Secretario General de Gobierno. C. FERNANDO LUIS MANZANILLA PRIETO. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que adiciona un tercer y un cuarto párrafo al artículo 936 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el martes 13 de agosto de 2019, Número 9, Sexta Sección, Tomo DXXXII).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR INTERINO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de julio de dos mil diecinueve. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. FERNANDO SÁNCHEZ SASIA. Rúbrica. Diputada Secretaria. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputada Secretaria. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de julio de dos mil diecinueve. El Gobernador Interino del Estado Libre y Soberano de Puebla. C. GUILLERMO PACHECO PULIDO. Rúbrica. El Secretario General de Gobierno. C. FERNANDO LUIS MANZANILLA PRIETO. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que adiciona la fracción IV al artículo 2222 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el jueves 15 de agosto de 2019, Número 11, Primera Sección, Tomo DXXXII).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR INTERINO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diez días del mes de julio de dos mil diecinueve. Diputada Presidenta. MARÍA DEL CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. FERNANDO SÁNCHEZ SASIA. Rúbrica. Diputada Secretaria. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputada Secretaria. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los diecisiete días del mes de julio de dos mil diecinueve. El Gobernador Interino del Estado Libre y Soberano de Puebla. C. GUILLERMO PACHECO PULIDO. Rúbrica. El Secretario General de Gobierno. C. FERNANDO LUIS MANZANILLA PRIETO. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma, adiciona y deroga diversas disposiciones de los siguientes ordenamientos: la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla, la Ley para la Igualdad entre Mujeres y Hombres del Estado de Puebla, la Ley para Prevenir y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos en el Estado de Puebla, el Código Civil para el Estado Libre y Soberano de Puebla y el Código Penal del Estado Libre y Soberano de Puebla; publicado en el Peródico Oficial del Estado, el viernes 6 de diciembre de 2019, Número 5, Quinta Sección, Tomo DXXXVI).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Instituto Poblano de las Mujeres seguirá ejerciendo las facultades que le correspondían antes de la presente reforma y hasta su extinción, conforme a las disposiciones aplicables de la Ley Orgánica de la Administración Pública del Estado de Puebla, y al traslado de sus atribuciones a las unidades administrativas correspondientes de la Secretaría de Igualdad Sustantiva.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 40 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los ocho días del mes de octubre de dos mil diecinueve. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Secretario. URUVIEL GONZÁLEZ VIEYRA. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los once días del mes de octubre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario del Trabajo. CIUDADANO ABELARDO CUELLAR DELGADO. Rúbrica. El Secretario de Salud. CIUDADANO JORGE HUMBERTO URIBE TÉLLEZ. Rúbrica. El Secretario de Educación. CIUDADANO MELITÓN LOZANO PÉREZ. Rúbrica. La Secretaria de Bienestar. CIUDADANA LIZETH SÁNCHEZ GARCÍA. Rúbrica. El Secretario de Seguridad Pública. VICEALMIRANTE MIGUEL IDELFONSO AMÉZAGA RAMÍREZ. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MÓNICA AUGUSTA DÍAZ DE RIVERA ÁLVAREZ. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que adiciona un segundo párrafo a la fracción II del artículo 291 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el viernes 24 de enero de 2020, Número 17, Teercera Sección, tomo DXXXVII).
+
+PRIMERO . El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO . Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cuatro días del mes de diciembre de dos mil diecinueve. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Secretario. URUVIEL GONZÁLEZ VIEYRA. Rúbrica. Diputada Secretaria. BÁRBARA DIMPNA MORÁN AÑORVE. Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en la Sede del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de diciembre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado por el que reforma la fracción III del artículo 61, los artículos 294 y 297, la fracción I del 298, los artículos 300, 330, 333, 403 y 478; y adiciona la fracción VIII al 321, y un último párrafo a la fracción II del apartado B del artículo 450, todos del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el martes 10 de noviembre de 2020, Número 6, tercera Sección, Tomo DXLVII).
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de noviembre de dos mil veinte. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Sic. (“EN CONTRA”). Diputada Secretaria. LILIANA LUNA AGUIRRE.
+
+Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de noviembre de dos mil veinte. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MÓNICA AUGUSTA DÍAZ DE RIVERA ÁLVAREZ. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma las fracciones II y III del artículo 627, el primer y tercer párrafos del 637, y adiciona la fracción IV al 627, todos del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el lunes 1 de marzo de 2021, Número 1, Octava Sección, Tomo DLI).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los cuatro días del mes de febrero de dos mil veintiuno. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. NIBARDO HERNÁNDEZ SÁNCHEZ. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. LILIANA LUNA AGUIRRE.
+
+Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla; artículo 26 segundo párrafo de la Ley Orgánica de la Administración Pública del Estado, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los nueve días del mes de febrero de dos mil veintiuno. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica. El Secretario del Salud. CIUDADANO JOSÉ ANTONIO MARTÍNEZ GARCIA. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma los artículos 1208, la fracción II del 1214, el 1641, la fracción I del 2153, la fracción I del 2403 y el 2600, todos del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el martes 10 de marzo de 2021, Número 8, Cuarta Sección, Tomo DLI).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO . Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los once días del mes de febrero de dos mil veintiuno. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Vicepresidenta. LILIANA LUNA AGUIRRE. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. ILIANA PAOLA RUÍZ GARCÍA. Rúbrica.
+
+Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de febrero de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica. El Secretario de Gobernación. CIUDADANO DAVID MÉNDEZ MÁRQUEZ. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma la fracción III del artículo 291, el 854, el 930, las fracciones I y II del 1432; y adiciona los numerales 4 y 5 al artículo 76, el 875 Bis, el 875 Ter, la fracción III al 931, y la fracción III al 1432, todos del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el viernes 26 de marzo de 2021, Número 19, Edición Vesperina, Tomo DLI).
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Gobernación contará con sesenta días hábiles para la adecuación de la reglamentación aplicable, en términos del presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinticinco días del mes de febrero de dos mil veintiuno. Diputada Presidenta. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputado Vicepresidente. RAYMUNDO ATANACIO LUNA. Rúbrica. Diputada Vicepresidenta. LILIANA LUNA AGUIRRE. Rúbrica. Diputada Secretaria. NANCY JIMÉNEZ MORALES. Rúbrica. Diputada Secretaria. ILIANA PAOLA RUÍZ GARCÍA. Rúbrica.
+
+Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de marzo de dos mil veintiuno. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA . Rúbrica.
+
+Por lo tanto con fundamento en lo establecido por el artículo 26 segundo párrafo de la Ley Orgánica de la Administración Pública del Estado, se refrenda para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de marzo de dos mil veintiuno. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica. La Secretaria de Igualdad Sustantiva. CIUDADANA MÓNICA AUGUSTA DÍAZ DE RIVERA ÁLVAREZ. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma y adiciona diversas disposiciones a la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla, a la Ley de Prevención, Atención y Sanción de la Violencia Familiar para el Estado de Puebla, a la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Puebla, al Código Civil para el Estado Libre y Soberano de Puebla y al Código Penal del Estado Libre y Soberano de Puebla, en materia de Violencia Vicaria; publicado en el Periódico Oficial del Estado, el miércoles 3 de agosto de 2022, Número 3, Edición Vespertina, Tomo DLXVIII).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de julio de dos mil veintidós. Diputada Presidenta. AURORA GUADALUPE SIERRA RODRÍGUEZ. Rúbrica. Diputado Vicepresidente. EDUARDO CASTILLO LÓPEZ. Rúbrica. Diputado Vicepresidente. JUAN ENRIQUE RIVERA REYES. Rúbrica. Diputada Secretaria. MÓNICA SILVA RUÍZ. Rúbrica. Diputada Secretaria. AZUCENA ROSAS TAPIA. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de julio de dos mil veintidós. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. La Secretaria de Gobernación. CIUDADANA ANA LUCÍA HILL MAYORAL. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma la fracción III del artículo 627, la fracción I al artículo 629, las fracciones III y IV del artículo 633, el primer párrafo del artículo 634, y adiciona la fracción I Bis al artículo 628, la fracción V al artículo 633, la fracción III al 634, todos del Código Civil para el Estado Libre y Soberano de Puebla, y se adiciona un segundo párrafo al artículo 338 Quater del Código Penal del Estado Libre y Soberano de Puebla.; publicado en el Periódico Oficial del Estado, el miércoles 8 de marzo de 2023, Número 6, Tercera Sección, Tomo DLXXV).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a dos de marzo de dos mil veintitrés. Diputado Presidente. NÉSTOR CAMARILLO MEDINA. Rúbrica. Diputado Vicepresidente. ROBERTO SOLÍS VALLES. Rúbrica. Diputada Vicepresidenta. TONANTZIN FERNÁNDEZ DÍAZ. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputada Secretaria. MARÍA YOLANDA GÁMEZ MENDOZA. Rúbrica.
+
+Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de marzo de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JULIO MIGUEL HUERTA GÓMEZ. Rúbrica. El Secretario de Seguridad Pública. CIUDADANO DANIEL IVÁN CRUZ LUNA. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma las fracciones VIII y IX del artículo 299, la fracción I del 402 y los artículos 411 y 414 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el jueves 27 de julio de 2023, Numero 19, Tercera Edición Vespertina; Tomo DLXXIX).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los trece días del mes de julio de dos mil veintitrés. Diputada Presidenta. MÓNICA RODRÍGUEZ DELLA VECCHIA. Rúbrica. Diputada Vicepresidenta. AZUCENA ROSAS TAPIA. Rúbrica. Diputada Vicepresidenta. LAURA IVONNE ZAPATA MARTÍNEZ. Rúbrica. Diputado Secretario. EDGAR VALENTÍN GARMENDIA DE LOS SANTOS. Rúbrica. Diputada Secretaria. ILIANA JOCELYN OLIVARES LÓPEZ. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los catorce días del mes de julio de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que reforma y adiciona diversas disposiciones del Código Civil para el Estado Libre y Soberano de Puebla, de la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Puebla, y de la Ley Orgánica del Poder Judicial del Estado de Puebla, en materia de Derechos Alimentarios; publicado en el Periódico Oficial del Estado, el martes 5 de diciembre de 2023, Número 3, Tercera Edición Vespertina, Tomo DLXXXIV).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Poder Judicial del Estado emitirá las disposiciones normativas de conformidad con el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, en materia de pensiones alimenticias, publicado en el Diario Oficial de la Federación el ocho de mayo de dos mil veintitrés.
+
+EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de noviembre de dos mil veintitrés. Diputado Presidente. JUAN ENRIQUE RIVERA REYES. Rúbrica. Diputada Vicepresidenta. MARÍA GUADALUPE LEAL RODRÍGUEZ. Rúbrica. Diputado Vicepresidente. EDGAR VALENTÍN GARMENDIA DE LOS SANTOS. Rúbrica. Diputado Secretario. GERARDO HERNÁNDEZ ROJAS. Rúbrica. Diputada Secretaria. MARÍA RUTH ZÁRATE DOMÍNGUEZ. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiún días del mes de noviembre de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica. La Secretaria de Salud. CIUDADANA ARACELI SORIA CÓRDOBA. Rúbrica.
+
+## TRANSITORIOS
+
+(Del DECRETO del Honorable Congreso del Estado, por el que se reforman el primer párrafo del artículo 608 y la fracción I del artículo 697 del Código Civil para el Estado Libre y Soberano de Puebla; publicado en el Periódico Oficial del Estado, el martes 28 de julio de 2026, Número 20, Décima Octava Sección, Tomo DCXV).
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dos días del mes de julio de dos mil veintiséis. Diputado Presidente. MARCOS CASTRO MARTÍNEZ. Rúbrica. Diputada Vicepresidenta KATHYA SÁNCHEZ RODRÍGUEZ. Rúbrica. Diputado Vicepresidente. ROBERTO ZATARÁIN LEAL. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputado Secretario. ELPIDIO DÍAZ ESCOBAR. Rúbrica.
+
+Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, instruyo se publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dos días del mes de julio de dos mil veintiséis. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. CIUDADANO ALEJANDRO ARMENTA MIER . Rúbrica. El Secretario de Gobernación. CIUDADANO JOSÉ SAMUEL AGUILAR PALA . Rúbrica.
