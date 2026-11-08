@@ -5,15 +5,15 @@ sigla: LRPPEP
 slug: Ley-Registro-Publico-Propiedad-Puebla
 titulo: "Ley del Registro Público de la Propiedad del Estado de Puebla"
 ultima_reforma: "2017-02-22"
-vigencia: "por verificar"
+vigencia: "actualizada"
 fuente: "Orden Jurídico Poblano"
-nota: "Versión con reformas hasta febrero de 2017; verificar reformas posteriores."
+nota: "El Orden Jurídico Poblano y el Registro Estatal de Regulaciones 2026 registran como última reforma la del 22 de febrero de 2017."
 articulos: 148
 ---
 
 # Ley del Registro Público de la Propiedad del Estado de Puebla
-> Última reforma contenida en la fuente: 2017-02-22. Vigencia: por verificar.
-> Versión con reformas hasta febrero de 2017; verificar reformas posteriores.
+> Última reforma contenida en la fuente: 2017-02-22. Vigencia: actualizada.
+> El Orden Jurídico Poblano y el Registro Estatal de Regulaciones 2026 registran como última reforma la del 22 de febrero de 2017.
 
 ## TÍTULO PRIMERO DE LAS DISPOSICIONES GENERALES Y DE LA ORGANIZACIÓN DEL REGISTRO
 

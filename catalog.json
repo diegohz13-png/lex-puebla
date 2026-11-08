@@ -68,16 +68,16 @@
     "ruta": "leyes/Ley-Registro-Publico-Propiedad-Puebla.md",
     "titulo": "Ley del Registro Público de la Propiedad del Estado de Puebla",
     "ultima_reforma": "2017-02-22",
-    "vigencia": "por verificar",
+    "vigencia": "actualizada",
     "fuente": "Orden Jurídico Poblano"
   },
   {
     "sigla": "LNEP",
-    "slug": "Ley-Notariado-Puebla",
-    "ruta": "leyes/Ley-Notariado-Puebla.md",
-    "titulo": "Ley del Notariado del Estado de Puebla",
+    "slug": "Ley-Notariado-Puebla-2015-abrogada",
+    "ruta": "leyes/Ley-Notariado-Puebla-2015-abrogada.md",
+    "titulo": "Ley del Notariado del Estado de Puebla (2015, abrogada)",
     "ultima_reforma": "2018-07-27",
-    "vigencia": "por verificar",
+    "vigencia": "abrogada",
     "fuente": "Orden Jurídico Poblano"
   },
   {
@@ -86,7 +86,7 @@
     "ruta": "leyes/Ley-Agua-Puebla.md",
     "titulo": "Ley del Agua para el Estado de Puebla",
     "ultima_reforma": "2021-01-28",
-    "vigencia": "por verificar",
+    "vigencia": "desactualizada",
     "fuente": "Congreso del Estado de Puebla"
   },
   {

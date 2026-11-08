@@ -5,15 +5,15 @@ sigla: LAEP
 slug: Ley-Agua-Puebla
 titulo: "Ley del Agua para el Estado de Puebla"
 ultima_reforma: "2021-01-28"
-vigencia: "por verificar"
+vigencia: "desactualizada"
 fuente: "Congreso del Estado de Puebla"
-nota: "Compilación del Congreso al 28 de enero de 2021; verificar reformas posteriores."
+nota: "Compilación del Congreso al 28 de enero de 2021. No incluye las reformas del 26 de diciembre de 2022 (artículo 145, fracción II) ni del 23 de diciembre de 2023 (artículo 6, fracciones III, V y VII)."
 articulos: 170
 ---
 
 # Ley del Agua para el Estado de Puebla
-> Última reforma contenida en la fuente: 2021-01-28. Vigencia: por verificar.
-> Compilación del Congreso al 28 de enero de 2021; verificar reformas posteriores.
+> Última reforma contenida en la fuente: 2021-01-28. Vigencia: desactualizada.
+> Compilación del Congreso al 28 de enero de 2021. No incluye las reformas del 26 de diciembre de 2022 (artículo 145, fracción II) ni del 23 de diciembre de 2023 (artículo 6, fracciones III, V y VII).
 
 LEY DEL AGUA PARA EL ESTADO DE PUEBLA
 

@@ -11,6 +11,7 @@ Este repositorio no es una fuente oficial. Cada archivo indica la fecha de la ú
 - `actualizada`: versión vigente publicada por el Orden Jurídico Poblano al momento de cargarla (noviembre de 2026).
 - `desactualizada`: se sabe que existen reformas posteriores que el texto no incluye. No debe citarse como texto vigente.
 - `por verificar`: no se ha confirmado que no existan reformas posteriores.
+- `abrogada`: el ordenamiento fue sustituido por otro; sólo sirve para actos celebrados durante su vigencia.
 - `no vigente`: el ordenamiento ya no rige (por ejemplo, una ley de ingresos de un ejercicio fiscal concluido).
 
 Antes de fundar un escrito en un artículo, verifique su redacción y vigencia contra el Periódico Oficial del Estado de Puebla.

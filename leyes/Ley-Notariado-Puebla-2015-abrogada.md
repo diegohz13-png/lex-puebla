@@ -2,18 +2,18 @@
 type: ley-estatal
 estado: Puebla
 sigla: LNEP
-slug: Ley-Notariado-Puebla
-titulo: "Ley del Notariado del Estado de Puebla"
+slug: Ley-Notariado-Puebla-2015-abrogada
+titulo: "Ley del Notariado del Estado de Puebla (2015, abrogada)"
 ultima_reforma: "2018-07-27"
-vigencia: "por verificar"
+vigencia: "abrogada"
 fuente: "Orden Jurídico Poblano"
-nota: "Versión con reformas hasta julio de 2018; verificar reformas posteriores."
+nota: "Esta Ley del Notariado del Estado de Puebla (2015) fue sustituida por la Ley del Notariado para el Estado de Puebla publicada el 5 de marzo de 2021, reformada el 17 de marzo de 2021, el 16 de febrero de 2024 y el 5 de agosto de 2024. No citar como vigente; sólo sirve para actos celebrados durante su vigencia."
 articulos: 213
 ---
 
-# Ley del Notariado del Estado de Puebla
-> Última reforma contenida en la fuente: 2018-07-27. Vigencia: por verificar.
-> Versión con reformas hasta julio de 2018; verificar reformas posteriores.
+# Ley del Notariado del Estado de Puebla (2015, abrogada)
+> Última reforma contenida en la fuente: 2018-07-27. Vigencia: abrogada.
+> Esta Ley del Notariado del Estado de Puebla (2015) fue sustituida por la Ley del Notariado para el Estado de Puebla publicada el 5 de marzo de 2021, reformada el 17 de marzo de 2021, el 16 de febrero de 2024 y el 5 de agosto de 2024. No citar como vigente; sólo sirve para actos celebrados durante su vigencia.
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
