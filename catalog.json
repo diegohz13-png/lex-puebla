@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "sigla": "CPELSP",
+    "slug": "Constitucion-Politica-Puebla",
+    "ruta": "leyes/Constitucion-Politica-Puebla.md",
+    "titulo": "Constitución Política del Estado Libre y Soberano de Puebla",
+    "ultima_reforma": "2013-11-13",
+    "vigencia": "desactualizada",
+    "fuente": "Congreso del Estado de Puebla"
+  },
+  {
+    "sigla": "CCEP",
+    "slug": "Codigo-Civil-Puebla",
+    "ruta": "leyes/Codigo-Civil-Puebla.md",
+    "titulo": "Código Civil para el Estado Libre y Soberano de Puebla",
+    "ultima_reforma": "2016-12-30",
+    "vigencia": "desactualizada",
+    "fuente": "Orden Jurídico Poblano"
+  },
+  {
+    "sigla": "CPCEP",
+    "slug": "Codigo-Procedimientos-Civiles-Puebla",
+    "ruta": "leyes/Codigo-Procedimientos-Civiles-Puebla.md",
+    "titulo": "Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla",
+    "ultima_reforma": "2017-12-29",
+    "vigencia": "por verificar",
+    "fuente": "Congreso del Estado de Puebla"
+  },
+  {
+    "sigla": "CPEP",
+    "slug": "Codigo-Penal-Puebla",
+    "ruta": "leyes/Codigo-Penal-Puebla.md",
+    "titulo": "Código Penal del Estado Libre y Soberano de Puebla",
+    "ultima_reforma": "2025-04-16",
+    "vigencia": "desactualizada",
+    "fuente": "Orden Jurídico Poblano"
+  },
+  {
+    "sigla": "LPCAEP",
+    "slug": "Ley-Procedimiento-Contencioso-Administrativo-Puebla",
+    "ruta": "leyes/Ley-Procedimiento-Contencioso-Administrativo-Puebla.md",
+    "titulo": "Ley del Procedimiento Contencioso Administrativo del Estado de Puebla",
+    "ultima_reforma": "2024-02-23",
+    "vigencia": "por verificar",
+    "fuente": "Orden Jurídico Poblano"
+  },
+  {
+    "sigla": "LOM",
+    "slug": "Ley-Organica-Municipal-Puebla",
+    "ruta": "leyes/Ley-Organica-Municipal-Puebla.md",
+    "titulo": "Ley Orgánica Municipal",
+    "ultima_reforma": "2024-10-04",
+    "vigencia": "por verificar",
+    "fuente": "Orden Jurídico Poblano"
+  },
+  {
+    "sigla": "LRPPEP",
+    "slug": "Ley-Registro-Publico-Propiedad-Puebla",
+    "ruta": "leyes/Ley-Registro-Publico-Propiedad-Puebla.md",
+    "titulo": "Ley del Registro Público de la Propiedad del Estado de Puebla",
+    "ultima_reforma": "2017-02-22",
+    "vigencia": "por verificar",
+    "fuente": "Orden Jurídico Poblano"
+  },
+  {
+    "sigla": "LNEP",
+    "slug": "Ley-Notariado-Puebla",
+    "ruta": "leyes/Ley-Notariado-Puebla.md",
+    "titulo": "Ley del Notariado del Estado de Puebla",
+    "ultima_reforma": "2018-07-27",
+    "vigencia": "por verificar",
+    "fuente": "Orden Jurídico Poblano"
+  },
+  {
+    "sigla": "LAEP",
+    "slug": "Ley-Agua-Puebla",
+    "ruta": "leyes/Ley-Agua-Puebla.md",
+    "titulo": "Ley del Agua para el Estado de Puebla",
+    "ultima_reforma": "2021-01-28",
+    "vigencia": "por verificar",
+    "fuente": "Congreso del Estado de Puebla"
+  },
+  {
+    "sigla": "LBUAP",
+    "slug": "Ley-BUAP",
+    "ruta": "leyes/Ley-BUAP.md",
+    "titulo": "Ley de la Benemérita Universidad Autónoma de Puebla",
+    "ultima_reforma": "1991-04-23",
+    "vigencia": "por verificar",
+    "fuente": "Periódico Oficial del Estado de Puebla"
+  },
+  {
+    "sigla": "LIMT2025",
+    "slug": "Ley-Ingresos-Tehuacan-2025",
+    "ruta": "municipal/tehuacan/Ley-Ingresos-Tehuacan-2025.md",
+    "titulo": "Ley de Ingresos del Municipio de Tehuacán, para el Ejercicio Fiscal 2025",
+    "ultima_reforma": "2024-12-18",
+    "vigencia": "no vigente",
+    "fuente": "Orden Jurídico Poblano"
+  },
+  {
+    "sigla": "RCMT",
+    "slug": "Reglamento-Construcciones-Tehuacan",
+    "ruta": "municipal/tehuacan/Reglamento-Construcciones-Tehuacan.md",
+    "titulo": "Reglamento de Construcciones para el Municipio de Tehuacán, Puebla",
+    "ultima_reforma": "1994-10-18",
+    "vigencia": "por verificar",
+    "fuente": "Orden Jurídico Poblano"
+  },
+  {
+    "sigla": "RIDIGC",
+    "slug": "Reglamento-Interior-Catastro-Tehuacan",
+    "ruta": "municipal/tehuacan/Reglamento-Interior-Catastro-Tehuacan.md",
+    "titulo": "Reglamento Interior de la Dirección de Información Geográfica y Catastro del H. Ayuntamiento de Tehuacán, Puebla",
+    "ultima_reforma": "2018-01-01",
+    "vigencia": "por verificar",
+    "fuente": "H. Ayuntamiento de Tehuacán"
+  },
+  {
+    "sigla": "MODSP",
+    "slug": "Manual-Organizacion-Seguridad-Publica-Tehuacan",
+    "ruta": "municipal/tehuacan/Manual-Organizacion-Seguridad-Publica-Tehuacan.md",
+    "titulo": "Manual de Organización de la Dirección de Seguridad Pública Municipal de Tehuacán",
+    "ultima_reforma": "2024-08-01",
+    "vigencia": "por verificar",
+    "fuente": "H. Ayuntamiento de Tehuacán"
+  },
+  {
+    "sigla": "EOBUAP",
+    "slug": "Estatuto-Organico-BUAP",
+    "ruta": "universitaria/buap/Estatuto-Organico-BUAP.md",
+    "titulo": "Estatuto Orgánico de la Benemérita Universidad Autónoma de Puebla",
+    "ultima_reforma": "2023-09-25",
+    "vigencia": "por verificar",
+    "fuente": "Gaceta Universidad BUAP"
+  },
+  {
+    "sigla": "RGTBUAP",
+    "slug": "Reglamento-General-Titulacion-BUAP",
+    "ruta": "universitaria/buap/Reglamento-General-Titulacion-BUAP.md",
+    "titulo": "Reglamento General de Titulación de la Benemérita Universidad Autónoma de Puebla",
+    "ultima_reforma": "",
+    "vigencia": "por verificar",
+    "fuente": "Gaceta Universidad BUAP"
+  }
+]
